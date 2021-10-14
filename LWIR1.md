@@ -1,3 +1,23 @@
+2021-10-14 09:33:06,771 - Shot 45275 expected in dt: 93.5 s\
+2021-10-14 09:33:05,770 - ========== Shot number changed to 45275. State: "PreShot" ==========\
+2021-10-14 09:32:15,760 - In state "Run" for shot 45274\
+2021-10-14 09:28:30,750 - In state "PostShot" for shot 45274\
+2021-10-14 09:28:30,749 - ========== Ready for shot 45275 in state "PostShot" ==========\
+2021-10-14 09:28:30,248 - Re-arming LWIR1\
+2021-10-14 09:28:30,227 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-14 09:28:30,226 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
+2021-10-14 09:28:30,225 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-14 09:28:30,224 - Starting camera automation for cameras: LWIR1\
+2021-10-14 09:28:30,223 - Starting automation on "H0012" PC\
+2021-10-14 09:28:26,973 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
+2021-10-14 09:28:26,906 - >>> CTRL+C <<<\
+2021-10-14 09:15:56,387 - Re-arming LWIR1\
+2021-10-14 09:15:31,386 - In state "PostShot" for shot 45274\
+2021-10-14 09:15:29,382 - Updated remote log: SUCCESS\
+2021-10-14 09:15:29,381 - Git push "D:\ir_log\LWIR1.md"\
+2021-10-14 09:15:26,961 - Git push "D:\ir_log\LWIR1.md"\
+2021-10-14 09:15:25,391 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
+2021-10-14 09:15:24,964 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
 2021-10-14 09:15:24,925 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45274.RAW" (after failing to move it there)\
 2021-10-14 09:15:23,234 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 09:15:22,766 - LWIR1: File "45274.RAW" for shot 45274 (45274 expected) saved 0.5 s ago\
@@ -78,23 +98,3 @@
 2021-10-13 17:04:24,090 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
 2021-10-13 17:03:59,087 - Updated remote log: SUCCESS\
 2021-10-13 17:03:59,086 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:03:56,876 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:03:55,603 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:03:55,327 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-13 17:03:30,324 - In state "PostShot" for shot 45266\
-2021-10-13 17:03:30,322 - ========== Ready for shot 45267 in state "PostShot" ==========\
-2021-10-13 17:03:29,915 - Re-arming LWIR1\
-2021-10-13 17:03:29,891 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-13 17:03:29,890 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211013.log"\
-2021-10-13 17:03:29,889 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-13 17:03:29,888 - Starting camera automation for cameras: LWIR1\
-2021-10-13 17:03:29,887 - Starting automation on "H0012" PC\
-2021-10-13 17:01:17,817 - Failed to update remote log FileNotFoundError(2, 'No such file or directory')\
-2021-10-13 16:59:25,173 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-13 16:59:25,161 - >>> CTRL+C <<<\
-2021-10-13 16:59:03,474 - Failed to update remote log FileNotFoundError(2, 'No such file or directory')\
-2021-10-13 16:58:38,473 - In state "PostShot" for shot 45266\
-2021-10-13 16:58:38,471 - ========== Ready for shot 45267 in state "PostShot" ==========\
-2021-10-13 16:58:38,043 - Re-arming LWIR1\
-2021-10-13 16:58:37,967 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-13 16:58:37,965 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211013.log"\
