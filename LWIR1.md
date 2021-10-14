@@ -1,3 +1,13 @@
+2021-10-14 19:40:35,197 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45299.RAW" (after failing to move it there)\
+2021-10-14 19:40:33,720 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 19:40:33,300 - LWIR1: File "45299.RAW" for shot 45299 (45299 expected) saved 1.1 s ago\
+2021-10-14 19:40:33,297 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45299.RAW (file confirmed to exist)\
+2021-10-14 19:40:10,813 - Shot 45299 expected in dt: 0.6 s\
+2021-10-14 19:40:09,812 - Shot 45299 expected in dt: 1.6 s\
+2021-10-14 19:40:06,394 - Re-arming LWIR1\
+2021-10-14 19:40:06,394 - Shot 45299 expected in dt: 5.0 s\
+2021-10-14 19:40:05,393 - Shot 45299 expected in dt: 6.0 s\
+2021-10-14 19:40:02,389 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 19:39:58,141 - Shot 45299 expected in dt: 13.3 s\
 2021-10-14 19:39:57,140 - In state "Trigger" for shot 45299\
 2021-10-14 19:38:36,060 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -88,13 +98,3 @@
 2021-10-14 18:06:18,839 - ========== Shot number changed to 45295. State: "PreShot" ==========\
 2021-10-14 18:05:53,838 - In state "Run" for shot 45294\
 2021-10-14 17:43:21,213 - Re-arming LWIR1\
-2021-10-14 17:42:56,212 - In state "PostShot" for shot 45294\
-2021-10-14 17:42:55,210 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-14 17:42:50,873 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45294.RAW" (after failing to move it there)\
-2021-10-14 17:42:49,014 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
-2021-10-14 17:42:48,601 - LWIR1: File "45294.RAW" for shot 45294 (45294 expected) saved 1.0 s ago\
-2021-10-14 17:42:48,598 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45294.RAW (file confirmed to exist)\
-2021-10-14 17:42:25,966 - Shot 45294 expected in dt: 0.5 s\
-2021-10-14 17:42:24,965 - Shot 45294 expected in dt: 1.5 s\
-2021-10-14 17:42:23,964 - Shot 45294 expected in dt: 2.5 s\
-2021-10-14 17:42:22,963 - Shot 45294 expected in dt: 3.5 s\
