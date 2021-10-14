@@ -1,3 +1,7 @@
+2021-10-14 09:34:32,429 - Shot 45275 expected in dt: 13.2 s\
+2021-10-14 09:34:31,427 - In state "Trigger" for shot 45275\
+2021-10-14 09:33:10,352 - Updated remote log: D:\ir_log\LWIR1.md\
+2021-10-14 09:33:06,774 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
 2021-10-14 09:33:06,771 - Shot 45275 expected in dt: 93.5 s\
 2021-10-14 09:33:05,770 - ========== Shot number changed to 45275. State: "PreShot" ==========\
 2021-10-14 09:32:15,760 - In state "Run" for shot 45274\
@@ -94,7 +98,3 @@
 2021-10-13 17:04:27,445 - Updated remote log: SUCCESS\
 2021-10-13 17:04:27,444 - Git push "D:\ir_log\LWIR1.md"\
 2021-10-13 17:04:25,168 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:04:24,357 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:04:24,090 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-13 17:03:59,087 - Updated remote log: SUCCESS\
-2021-10-13 17:03:59,086 - Git push "D:\ir_log\LWIR1.md"\
