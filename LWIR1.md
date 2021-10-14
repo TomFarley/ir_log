@@ -1,3 +1,6 @@
+2021-10-14 10:59:42,430 - Shot 45278 expected in dt: 13.2 s\
+2021-10-14 10:59:41,427 - In state "Trigger" for shot 45278\
+2021-10-14 10:58:28,357 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 10:58:24,801 - Shot 45278 expected in dt: 86.2 s\
 2021-10-14 10:58:23,799 - In state "PreShot" for shot 45278\
 2021-10-14 10:57:58,796 - ========== Shot number changed to 45278. State: "Run" ==========\
@@ -95,6 +98,3 @@
 2021-10-14 09:15:31,386 - In state "PostShot" for shot 45274\
 2021-10-14 09:15:29,382 - Updated remote log: SUCCESS\
 2021-10-14 09:15:29,381 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-14 09:15:26,961 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-14 09:15:25,391 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-14 09:15:24,964 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
