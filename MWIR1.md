@@ -1,3 +1,15 @@
+2021-10-14 17:42:12,903 - Shot 45294 expected in dt: 13.3 s\
+2021-10-14 17:42:11,889 - In state "Trigger" for shot 45294\
+2021-10-14 17:42:06,852 - Shot 45294 expected in dt: 14.0 s\
+2021-10-14 17:41:56,806 - Shot 45294 expected in dt: 24.0 s\
+2021-10-14 17:41:46,770 - Shot 45294 expected in dt: 34.1 s\
+2021-10-14 17:41:36,707 - Shot 45294 expected in dt: 44.1 s\
+2021-10-14 17:41:26,647 - Shot 45294 expected in dt: 54.2 s\
+2021-10-14 17:41:16,589 - Shot 45294 expected in dt: 64.3 s\
+2021-10-14 17:41:06,555 - Shot 45294 expected in dt: 74.3 s\
+2021-10-14 17:40:56,504 - Shot 45294 expected in dt: 84.3 s\
+2021-10-14 17:40:46,457 - Shot 45294 expected in dt: 94.4 s\
+2021-10-14 17:40:42,424 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-14 17:40:38,427 - Shot 45294 expected in dt: 102.4 s\
 2021-10-14 17:40:37,424 - ========== Shot number changed to 45294. State: "PreShot" ==========\
 2021-10-14 17:40:12,414 - In state "Run" for shot 45293\
@@ -86,15 +98,3 @@
 2021-10-14 16:30:29,693 - Recording should finish in dt: 0.4 s\
 2021-10-14 16:30:28,679 - Recording should finish in dt: 1.4 s\
 2021-10-14 16:30:24,640 - Recording should finish in dt: 5.5 s\
-2021-10-14 16:30:20,606 - Shot 45291 expected in dt: 0.5 s\
-2021-10-14 16:30:19,603 - Shot 45291 expected in dt: 1.5 s\
-2021-10-14 16:30:18,592 - Shot 45291 expected in dt: 2.5 s\
-2021-10-14 16:30:17,582 - Shot 45291 expected in dt: 3.5 s\
-2021-10-14 16:30:16,568 - Shot 45291 expected in dt: 4.5 s\
-2021-10-14 16:30:15,520 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-14 16:30:15,519 - Shot 45291 expected in dt: 5.6 s\
-2021-10-14 16:30:14,517 - Shot 45291 expected in dt: 6.6 s\
-2021-10-14 16:30:11,500 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-14 16:30:08,020 - Shot 45291 expected in dt: 13.1 s\
-2021-10-14 16:30:07,019 - In state "Trigger" for shot 45291\
-2021-10-14 16:30:00,988 - Shot 45291 expected in dt: 14.8 s\
