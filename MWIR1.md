@@ -1,3 +1,8 @@
+2021-10-14 10:23:21,874 - Shot 45277 expected in dt: 88.3 s\
+2021-10-14 10:23:20,870 - ========== Shot number changed to 45277. State: "PreShot" ==========\
+2021-10-14 10:22:55,861 - In state "Run" for shot 45276\
+2021-10-14 10:17:55,789 - In state "PostShot" for shot 45276\
+2021-10-14 10:17:55,788 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-14 10:17:51,845 - ========== Ready for shot 45277 in state "PostShot" ==========\
 2021-10-14 10:17:51,799 - Re-arming MWIR1\
 2021-10-14 10:17:51,778 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
@@ -93,8 +98,3 @@
 2021-10-14 09:34:39,090 - Shot 45275 expected in dt: 6.3 s\
 2021-10-14 09:34:35,067 - Updated remote log: D:\ir_log\MWIR1.md\
 2021-10-14 09:34:31,463 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
-2021-10-14 09:34:31,460 - Shot 45275 expected in dt: 13.9 s\
-2021-10-14 09:34:30,446 - In state "Trigger" for shot 45275\
-2021-10-14 09:34:21,403 - Shot 45275 expected in dt: 18.6 s\
-2021-10-14 09:34:11,357 - Shot 45275 expected in dt: 28.7 s\
-2021-10-14 09:34:01,317 - Shot 45275 expected in dt: 38.7 s\
