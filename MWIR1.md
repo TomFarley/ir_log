@@ -1,3 +1,9 @@
+2021-10-14 11:19:37,071 - Shot 45279 expected in dt: 88.5 s\
+2021-10-14 11:19:36,055 - ========== Shot number changed to 45279. State: "PreShot" ==========\
+2021-10-14 11:18:46,028 - In state "Run" for shot 45278\
+2021-10-14 11:00:50,670 - Re-arming MWIR1\
+2021-10-14 11:00:25,656 - In state "PostShot" for shot 45278\
+2021-10-14 11:00:18,603 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-14 11:00:14,601 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 11:00:14,203 - Px_protection: Renaming latest file from "000010.seq" to "045278.seq"\
 2021-10-14 11:00:14,202 - Px_protection: File "000010.seq" for shot 10 (45278 expected) saved 9.2 s ago\
@@ -92,9 +98,3 @@
 2021-10-14 10:12:11,715 - ========== Ready for shot 45277 in state "PostShot" ==========\
 2021-10-14 10:12:11,684 - Re-arming MWIR1\
 2021-10-14 10:12:11,671 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-14 10:12:11,671 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-14 10:12:11,670 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
-2021-10-14 10:12:11,670 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-14 10:12:11,669 - Starting camera automation for cameras: MWIR1, Px_protection\
-2021-10-14 10:12:11,669 - Starting automation on "MWIR-PC1" PC\
-2021-10-14 10:12:08,678 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
