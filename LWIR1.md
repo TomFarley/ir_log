@@ -1,3 +1,18 @@
+2021-10-14 10:25:20,073 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45277.RAW" (after failing to move it there)\
+2021-10-14 10:25:18,562 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 10:25:18,081 - LWIR1: File "45277.RAW" for shot 45277 (45277 expected) saved 0.9 s ago\
+2021-10-14 10:25:18,080 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45277.RAW (file confirmed to exist)\
+2021-10-14 10:24:55,493 - Shot 45277 expected in dt: 0.4 s\
+2021-10-14 10:24:54,492 - Shot 45277 expected in dt: 1.4 s\
+2021-10-14 10:24:53,492 - Shot 45277 expected in dt: 2.4 s\
+2021-10-14 10:24:52,491 - Shot 45277 expected in dt: 3.4 s\
+2021-10-14 10:24:51,489 - Shot 45277 expected in dt: 4.4 s\
+2021-10-14 10:24:50,486 - Shot 45277 expected in dt: 5.4 s\
+2021-10-14 10:24:49,485 - Shot 45277 expected in dt: 6.4 s\
+2021-10-14 10:24:47,481 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-14 10:24:42,266 - Shot 45277 expected in dt: 13.7 s\
+2021-10-14 10:24:41,265 - In state "Trigger" for shot 45277\
+2021-10-14 10:23:22,179 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 10:23:17,693 - Shot 45277 expected in dt: 92.7 s\
 2021-10-14 10:23:16,691 - ========== Shot number changed to 45277. State: "PreShot" ==========\
 2021-10-14 10:22:51,689 - In state "Run" for shot 45276\
@@ -83,18 +98,3 @@
 2021-10-14 09:14:59,759 - Shot 45274 expected in dt: 0.9 s\
 2021-10-14 09:14:58,740 - Shot 45274 expected in dt: 1.9 s\
 2021-10-14 09:14:57,734 - Shot 45274 expected in dt: 2.9 s\
-2021-10-14 09:14:56,732 - Shot 45274 expected in dt: 3.9 s\
-2021-10-14 09:14:55,724 - Shot 45274 expected in dt: 4.9 s\
-2021-10-14 09:14:54,714 - Shot 45274 expected in dt: 5.9 s\
-2021-10-14 09:14:53,713 - Shot 45274 expected in dt: 6.9 s\
-2021-10-14 09:14:51,707 - Updated remote log: SUCCESS\
-2021-10-14 09:14:51,706 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-14 09:14:49,020 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-14 09:14:47,592 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-14 09:14:47,050 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-14 09:14:47,031 - Shot 45274 expected in dt: 13.6 s\
-2021-10-14 09:14:46,028 - In state "Trigger" for shot 45274\
-2021-10-14 09:13:45,817 - Updated remote log: SUCCESS\
-2021-10-14 09:13:45,816 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-14 09:13:42,609 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-14 09:13:41,543 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
