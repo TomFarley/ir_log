@@ -1,3 +1,13 @@
+2021-10-14 20:03:49,636 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45300.RAW" (after failing to move it there)\
+2021-10-14 20:03:47,989 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 20:03:47,582 - LWIR1: File "45300.RAW" for shot 45300 (45300 expected) saved 1.1 s ago\
+2021-10-14 20:03:47,578 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45300.RAW (file confirmed to exist)\
+2021-10-14 20:03:25,133 - Shot 45300 expected in dt: 0.6 s\
+2021-10-14 20:03:24,131 - Shot 45300 expected in dt: 1.6 s\
+2021-10-14 20:03:20,714 - Re-arming LWIR1\
+2021-10-14 20:03:20,714 - Shot 45300 expected in dt: 5.1 s\
+2021-10-14 20:03:19,712 - Shot 45300 expected in dt: 6.1 s\
+2021-10-14 20:03:15,707 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 20:03:12,128 - Shot 45300 expected in dt: 13.7 s\
 2021-10-14 20:03:11,128 - In state "Trigger" for shot 45300\
 2021-10-14 20:02:06,069 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -88,13 +98,3 @@
 2021-10-14 18:35:09,136 - ========== Shot number changed to 45296. State: "Run" ==========\
 2021-10-14 18:34:44,133 - In state "Run" for shot 45295\
 2021-10-14 18:08:51,621 - Re-arming LWIR1\
-2021-10-14 18:08:26,620 - In state "PostShot" for shot 45295\
-2021-10-14 18:08:23,616 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-14 18:08:19,252 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45295.RAW" (after failing to move it there)\
-2021-10-14 18:08:17,714 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
-2021-10-14 18:08:17,296 - LWIR1: File "45295.RAW" for shot 45295 (45295 expected) saved 0.9 s ago\
-2021-10-14 18:08:17,294 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45295.RAW (file confirmed to exist)\
-2021-10-14 18:07:54,772 - Shot 45295 expected in dt: 0.8 s\
-2021-10-14 18:07:53,771 - Shot 45295 expected in dt: 1.8 s\
-2021-10-14 18:07:52,770 - Shot 45295 expected in dt: 2.8 s\
-2021-10-14 18:07:51,769 - Shot 45295 expected in dt: 3.8 s\
