@@ -1,3 +1,10 @@
+2021-10-14 09:59:55,339 - Shot 45276 expected in dt: 95.3 s\
+2021-10-14 09:59:54,338 - ========== Shot number changed to 45276. State: "PreShot" ==========\
+2021-10-14 09:59:29,335 - In state "Run" for shot 45275\
+2021-10-14 09:35:41,677 - Re-arming LWIR1\
+2021-10-14 09:35:16,676 - In state "PostShot" for shot 45275\
+2021-10-14 09:35:13,671 - Updated remote log: D:\ir_log\LWIR1.md\
+2021-10-14 09:35:09,581 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
 2021-10-14 09:35:09,578 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45275.RAW" (after failing to move it there)\
 2021-10-14 09:35:08,054 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 09:35:07,631 - LWIR1: File "45275.RAW" for shot 45275 (45275 expected) saved 1.0 s ago\
@@ -91,10 +98,3 @@
 2021-10-13 17:07:09,957 - Updated remote log: SUCCESS\
 2021-10-13 17:07:09,957 - Git push "D:\ir_log\LWIR1.md"\
 2021-10-13 17:07:07,638 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:07:06,801 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:07:06,535 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-13 17:06:41,531 - Updated remote log: SUCCESS\
-2021-10-13 17:06:41,530 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:06:39,062 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:06:38,224 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:06:37,949 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
