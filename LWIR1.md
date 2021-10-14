@@ -1,3 +1,27 @@
+2021-10-14 10:01:59,901 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45276.RAW" (after failing to move it there)\
+2021-10-14 10:01:58,272 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 10:01:57,836 - LWIR1: File "45276.RAW" for shot 45276 (45276 expected) saved 1.0 s ago\
+2021-10-14 10:01:57,834 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45276.RAW (file confirmed to exist)\
+2021-10-14 10:01:35,315 - Shot 45276 expected in dt: 0.7 s\
+2021-10-14 10:01:34,313 - Shot 45276 expected in dt: 1.7 s\
+2021-10-14 10:01:33,312 - Shot 45276 expected in dt: 2.7 s\
+2021-10-14 10:01:32,311 - Shot 45276 expected in dt: 3.7 s\
+2021-10-14 10:01:31,309 - Shot 45276 expected in dt: 4.7 s\
+2021-10-14 10:01:30,308 - Shot 45276 expected in dt: 5.7 s\
+2021-10-14 10:01:29,307 - Shot 45276 expected in dt: 6.7 s\
+2021-10-14 10:01:27,305 - Updated remote log: D:\ir_log\LWIR1.md\
+2021-10-14 10:01:22,843 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
+2021-10-14 10:01:22,841 - Shot 45276 expected in dt: 13.1 s\
+2021-10-14 10:01:21,840 - In state "Trigger" for shot 45276\
+2021-10-14 09:59:58,756 - Updated remote log: D:\ir_log\LWIR1.md\
+2021-10-14 09:59:55,341 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
+2021-10-14 09:59:55,339 - Shot 45276 expected in dt: 95.3 s\
+2021-10-14 09:59:54,338 - ========== Shot number changed to 45276. State: "PreShot" ==========\
+2021-10-14 09:59:29,335 - In state "Run" for shot 45275\
+2021-10-14 09:35:41,677 - Re-arming LWIR1\
+2021-10-14 09:35:16,676 - In state "PostShot" for shot 45275\
+2021-10-14 09:35:13,671 - Updated remote log: D:\ir_log\LWIR1.md\
+2021-10-14 09:35:09,581 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
 2021-10-14 09:35:09,578 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45275.RAW" (after failing to move it there)\
 2021-10-14 09:35:08,054 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 09:35:07,631 - LWIR1: File "45275.RAW" for shot 45275 (45275 expected) saved 1.0 s ago\
@@ -74,27 +98,3 @@
 2021-10-14 09:08:26,476 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
 2021-10-14 09:08:26,474 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
 2021-10-14 09:08:26,470 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-14 09:08:26,470 - Starting camera automation for cameras: LWIR1\
-2021-10-14 09:08:26,465 - Starting automation on "H0012" PC\
-2021-10-13 17:08:07,722 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-13 17:08:07,708 - >>> CTRL+C <<<\
-2021-10-13 17:08:06,667 - Updated remote log: SUCCESS\
-2021-10-13 17:08:06,667 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:08:04,364 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:08:03,557 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:08:03,288 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-13 17:07:38,282 - Updated remote log: SUCCESS\
-2021-10-13 17:07:38,282 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:07:36,069 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:07:35,272 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:07:34,960 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-13 17:07:09,957 - Updated remote log: SUCCESS\
-2021-10-13 17:07:09,957 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:07:07,638 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:07:06,801 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:07:06,535 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-13 17:06:41,531 - Updated remote log: SUCCESS\
-2021-10-13 17:06:41,530 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:06:39,062 - Git push "D:\ir_log\LWIR1.md"\
-2021-10-13 17:06:38,224 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
-2021-10-13 17:06:37,949 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
