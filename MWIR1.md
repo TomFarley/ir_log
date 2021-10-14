@@ -1,3 +1,14 @@
+2021-10-14 11:20:57,407 - Shot 45279 expected in dt: 13.5 s\
+2021-10-14 11:20:56,405 - In state "Trigger" for shot 45279\
+2021-10-14 11:20:56,404 - Shot 45279 expected in dt: 9.1 s\
+2021-10-14 11:20:46,356 - Shot 45279 expected in dt: 19.2 s\
+2021-10-14 11:20:36,303 - Shot 45279 expected in dt: 29.2 s\
+2021-10-14 11:20:26,246 - Shot 45279 expected in dt: 39.3 s\
+2021-10-14 11:20:16,196 - Shot 45279 expected in dt: 49.3 s\
+2021-10-14 11:20:06,152 - Shot 45279 expected in dt: 59.4 s\
+2021-10-14 11:19:56,109 - Shot 45279 expected in dt: 69.4 s\
+2021-10-14 11:19:46,065 - Shot 45279 expected in dt: 79.5 s\
+2021-10-14 11:19:41,023 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-14 11:19:37,071 - Shot 45279 expected in dt: 88.5 s\
 2021-10-14 11:19:36,055 - ========== Shot number changed to 45279. State: "PreShot" ==========\
 2021-10-14 11:18:46,028 - In state "Run" for shot 45278\
@@ -87,14 +98,3 @@
 2021-10-14 10:14:16,239 - ========== Ready for shot 45277 in state "PostShot" ==========\
 2021-10-14 10:14:16,213 - Re-arming MWIR1\
 2021-10-14 10:14:16,191 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-14 10:14:16,190 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-14 10:14:16,190 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
-2021-10-14 10:14:16,189 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-14 10:14:16,189 - **Starting camera automation for cameras: MWIR1, Px_protection**\
-2021-10-14 10:14:16,188 - Starting automation on "MWIR-PC1" PC\
-2021-10-14 10:14:13,483 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-14 10:14:13,468 - >>> CTRL+C <<<\
-2021-10-14 10:12:11,717 - In state "PostShot" for shot 45276\
-2021-10-14 10:12:11,715 - ========== Ready for shot 45277 in state "PostShot" ==========\
-2021-10-14 10:12:11,684 - Re-arming MWIR1\
-2021-10-14 10:12:11,671 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
