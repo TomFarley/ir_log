@@ -1,3 +1,15 @@
+2021-10-14 12:08:40,372 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45281.RAW" (after failing to move it there)\
+2021-10-14 12:08:38,695 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 12:08:38,269 - LWIR1: File "45281.RAW" for shot 45281 (45281 expected) saved 0.8 s ago\
+2021-10-14 12:08:38,267 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45281.RAW (file confirmed to exist)\
+2021-10-14 12:08:15,588 - Shot 45281 expected in dt: 0.3 s\
+2021-10-14 12:08:14,587 - Shot 45281 expected in dt: 1.3 s\
+2021-10-14 12:08:13,587 - Shot 45281 expected in dt: 2.3 s\
+2021-10-14 12:08:12,585 - Shot 45281 expected in dt: 3.3 s\
+2021-10-14 12:08:11,584 - Shot 45281 expected in dt: 4.3 s\
+2021-10-14 12:08:10,583 - Shot 45281 expected in dt: 5.3 s\
+2021-10-14 12:08:09,581 - Shot 45281 expected in dt: 6.3 s\
+2021-10-14 12:08:06,576 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 12:08:02,422 - Shot 45281 expected in dt: 13.5 s\
 2021-10-14 12:08:01,422 - In state "Trigger" for shot 45281\
 2021-10-14 12:06:32,341 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -86,15 +98,3 @@
 2021-10-14 10:24:47,481 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 10:24:42,266 - Shot 45277 expected in dt: 13.7 s\
 2021-10-14 10:24:41,265 - In state "Trigger" for shot 45277\
-2021-10-14 10:23:22,179 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-14 10:23:17,693 - Shot 45277 expected in dt: 92.7 s\
-2021-10-14 10:23:16,691 - ========== Shot number changed to 45277. State: "PreShot" ==========\
-2021-10-14 10:22:51,689 - In state "Run" for shot 45276\
-2021-10-14 10:12:26,665 - In state "PostShot" for shot 45276\
-2021-10-14 10:12:26,664 - ========== Ready for shot 45277 in state "PostShot" ==========\
-2021-10-14 10:12:26,103 - Re-arming LWIR1\
-2021-10-14 10:12:26,076 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-14 10:12:26,075 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
-2021-10-14 10:12:26,075 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-14 10:12:26,073 - Starting camera automation for cameras: LWIR1\
-2021-10-14 10:12:26,073 - Starting automation on "H0012" PC\
