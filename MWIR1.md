@@ -1,3 +1,10 @@
+2021-10-14 09:59:52,508 - Shot 45276 expected in dt: 97.9 s\
+2021-10-14 09:59:51,501 - ========== Shot number changed to 45276. State: "PreShot" ==========\
+2021-10-14 09:59:26,485 - In state "Run" for shot 45275\
+2021-10-14 09:35:41,054 - Re-arming MWIR1\
+2021-10-14 09:35:16,049 - In state "PostShot" for shot 45275\
+2021-10-14 09:35:07,989 - Updated remote log: D:\ir_log\MWIR1.md\
+2021-10-14 09:35:02,820 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
 2021-10-14 09:35:02,817 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 09:35:02,441 - Px_protection: Renaming latest file from "000004.seq" to "045275.seq"\
 2021-10-14 09:35:02,441 - Px_protection: File "000004.seq" for shot 4 (45275 expected) saved 7.0 s ago\
@@ -91,10 +98,3 @@
 2021-10-14 09:13:29,364 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
 2021-10-14 09:13:29,362 - Shot 45274 expected in dt: 85.7 s\
 2021-10-14 09:13:28,357 - In state "PreShot" for shot 45274\
-2021-10-14 09:13:03,340 - ========== Shot number changed to 45274. State: "Run" ==========\
-2021-10-14 09:08:03,257 - In state "PostShot" for shot 45273\
-2021-10-14 09:08:03,255 - ========== Ready for shot 45274 in state "PostShot" ==========\
-2021-10-14 09:08:03,203 - Re-arming MWIR1\
-2021-10-14 09:08:03,184 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-14 09:08:03,184 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-14 09:08:03,182 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
