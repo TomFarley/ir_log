@@ -1,3 +1,10 @@
+2021-10-14 09:34:31,460 - Shot 45275 expected in dt: 13.9 s\
+2021-10-14 09:34:30,446 - In state "Trigger" for shot 45275\
+2021-10-14 09:34:21,403 - Shot 45275 expected in dt: 18.6 s\
+2021-10-14 09:34:11,357 - Shot 45275 expected in dt: 28.7 s\
+2021-10-14 09:34:01,317 - Shot 45275 expected in dt: 38.7 s\
+2021-10-14 09:33:52,271 - Updated remote log: D:\ir_log\MWIR1.md\
+2021-10-14 09:33:48,505 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
 2021-10-14 09:33:48,501 - Shot 45275 expected in dt: 51.5 s\
 2021-10-14 09:33:47,488 - In state "PreShot" for shot 45275\
 2021-10-14 09:33:47,486 - ========== Ready for shot 45276 in state "PreShot" ==========\
