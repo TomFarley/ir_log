@@ -1,3 +1,6 @@
+2021-10-14 14:11:53,017 - Shot 45287 expected in dt: 13.3 s\
+2021-10-14 14:11:52,014 - In state "Trigger" for shot 45287\
+2021-10-14 14:10:23,928 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 14:10:20,298 - Shot 45287 expected in dt: 100.4 s\
 2021-10-14 14:10:19,297 - ========== Shot number changed to 45287. State: "PreShot" ==========\
 2021-10-14 14:09:54,295 - In state "Run" for shot 45286\
@@ -95,6 +98,3 @@
 2021-10-14 12:52:43,881 - Shot 45282 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
 2021-10-14 12:52:18,879 - In state "Abort" for shot 45282\
 2021-10-14 12:51:28,877 - In state "Run" for shot 45282\
-2021-10-14 12:45:11,429 - Re-arming LWIR1\
-2021-10-14 12:44:46,429 - In state "PostShot" for shot 45282\
-2021-10-14 12:44:44,425 - Pushed update to remote log: D:\ir_log\LWIR1.md\
