@@ -1,3 +1,22 @@
+2021-10-14 09:35:02,817 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 09:35:02,441 - Px_protection: Renaming latest file from "000004.seq" to "045275.seq"\
+2021-10-14 09:35:02,441 - Px_protection: File "000004.seq" for shot 4 (45275 expected) saved 7.0 s ago\
+2021-10-14 09:35:02,439 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-14\045275.ats" (after failing to move it there)\
+2021-10-14 09:35:00,782 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 09:35:00,294 - MWIR1: Renaming latest file from "000003.ats" to "045275.ats"\
+2021-10-14 09:35:00,293 - MWIR1: File "000003.ats" for shot 3 (45275 expected) saved 12.0 s ago\
+2021-10-14 09:34:54,244 - Recording should finish in dt: 0.2 s\
+2021-10-14 09:34:53,233 - Recording should finish in dt: 1.2 s\
+2021-10-14 09:34:45,183 - Shot 45275 expected in dt: 0.2 s\
+2021-10-14 09:34:44,180 - Shot 45275 expected in dt: 1.2 s\
+2021-10-14 09:34:43,166 - Shot 45275 expected in dt: 2.2 s\
+2021-10-14 09:34:42,156 - Shot 45275 expected in dt: 3.3 s\
+2021-10-14 09:34:41,141 - Shot 45275 expected in dt: 4.3 s\
+2021-10-14 09:34:40,098 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-14 09:34:40,097 - Shot 45275 expected in dt: 5.3 s\
+2021-10-14 09:34:39,090 - Shot 45275 expected in dt: 6.3 s\
+2021-10-14 09:34:35,067 - Updated remote log: D:\ir_log\MWIR1.md\
+2021-10-14 09:34:31,463 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
 2021-10-14 09:34:31,460 - Shot 45275 expected in dt: 13.9 s\
 2021-10-14 09:34:30,446 - In state "Trigger" for shot 45275\
 2021-10-14 09:34:21,403 - Shot 45275 expected in dt: 18.6 s\
@@ -79,6 +98,3 @@
 2021-10-14 09:08:03,184 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
 2021-10-14 09:08:03,184 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
 2021-10-14 09:08:03,182 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
-2021-10-14 09:08:03,180 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-14 09:08:03,179 - Starting camera automation for cameras: MWIR1, Px_protection\
-2021-10-14 09:08:03,178 - Starting automation on "MWIR-PC1" PC\
