@@ -1,3 +1,10 @@
+2021-10-14 09:14:47,031 - Shot 45274 expected in dt: 13.6 s\
+2021-10-14 09:14:46,028 - In state "Trigger" for shot 45274\
+2021-10-14 09:13:45,817 - Updated remote log: SUCCESS\
+2021-10-14 09:13:45,816 - Git push "D:\ir_log\LWIR1.md"\
+2021-10-14 09:13:42,609 - Git push "D:\ir_log\LWIR1.md"\
+2021-10-14 09:13:41,543 - Git commit "D:\ir_log\LWIR1.md", "auto-update"\
+2021-10-14 09:13:41,237 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
 2021-10-14 09:13:41,235 - Shot 45274 expected in dt: 74.0 s\
 2021-10-14 09:13:40,233 - In state "PreShot" for shot 45274\
 2021-10-14 09:13:40,231 - Updated remote log: SUCCESS\
@@ -91,5 +98,3 @@
 2021-10-13 16:44:22,352 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
 2021-10-13 16:44:22,351 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211013.log"\
 2021-10-13 16:44:22,350 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-13 16:44:22,349 - Starting camera automation for cameras: LWIR1\
-2021-10-13 16:44:22,349 - Starting automation on "H0012" PC\
