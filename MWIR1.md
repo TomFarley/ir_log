@@ -1,3 +1,31 @@
+2021-10-14 09:33:48,501 - Shot 45275 expected in dt: 51.5 s\
+2021-10-14 09:33:47,488 - In state "PreShot" for shot 45275\
+2021-10-14 09:33:47,486 - ========== Ready for shot 45276 in state "PreShot" ==========\
+2021-10-14 09:33:47,445 - Re-arming MWIR1\
+2021-10-14 09:33:47,430 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
+2021-10-14 09:33:47,430 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
+2021-10-14 09:33:47,429 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
+2021-10-14 09:33:47,428 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-14 09:33:47,428 - Starting camera automation for cameras: MWIR1, Px_protection\
+2021-10-14 09:33:47,427 - Starting automation on "MWIR-PC1" PC\
+2021-10-14 09:25:17,401 - Re-arming LWIR1\
+2021-10-14 09:25:17,388 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
+2021-10-14 09:25:17,387 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup"\
+2021-10-14 09:25:17,386 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14"\
+2021-10-14 09:25:17,384 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-14 09:25:17,383 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211014.log"\
+2021-10-14 09:25:17,382 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-14 09:25:17,382 - Starting camera automation for cameras: LWIR1\
+2021-10-14 09:25:17,381 - Starting automation on "mwir-pc1" PC\
+2021-10-14 09:25:14,604 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
+2021-10-14 09:25:14,592 - >>> CTRL+C <<<\
+2021-10-14 09:15:55,953 - Re-arming MWIR1\
+2021-10-14 09:15:30,949 - In state "PostShot" for shot 45274\
+2021-10-14 09:15:21,887 - Updated remote log: SUCCESS\
+2021-10-14 09:15:21,887 - Git push "D:\ir_log\MWIR1.md"\
+2021-10-14 09:15:19,214 - Git push "D:\ir_log\MWIR1.md"\
+2021-10-14 09:15:18,247 - Git commit "D:\ir_log\MWIR1.md", "auto-update"\
+2021-10-14 09:15:17,906 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
 2021-10-14 09:15:17,904 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 09:15:16,970 - Px_protection: Renaming latest file from "000002.seq" to "045274.seq"\
 2021-10-14 09:15:16,969 - Px_protection: File "000002.seq" for shot 2 (45274 expected) saved 7.0 s ago\
