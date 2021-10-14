@@ -1,3 +1,9 @@
+2021-10-14 12:06:28,864 - Shot 45281 expected in dt: 101.6 s\
+2021-10-14 12:06:27,862 - ========== Shot number changed to 45281. State: "PreShot" ==========\
+2021-10-14 12:05:12,858 - In state "Run" for shot 45280\
+2021-10-14 11:33:55,330 - Re-arming LWIR1\
+2021-10-14 11:33:30,328 - In state "PostShot" for shot 45280\
+2021-10-14 11:33:29,326 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 11:33:24,971 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45280.RAW" (after failing to move it there)\
 2021-10-14 11:33:23,478 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 11:33:23,051 - LWIR1: File "45280.RAW" for shot 45280 (45280 expected) saved 0.9 s ago\
@@ -92,9 +98,3 @@
 2021-10-14 10:12:22,054 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
 2021-10-14 10:12:22,041 - >>> CTRL+C <<<\
 2021-10-14 10:02:31,844 - Re-arming LWIR1\
-2021-10-14 10:02:06,842 - In state "PostShot" for shot 45276\
-2021-10-14 10:02:04,839 - Updated remote log: D:\ir_log\LWIR1.md\
-2021-10-14 10:01:59,903 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-14 10:01:59,901 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45276.RAW" (after failing to move it there)\
-2021-10-14 10:01:58,272 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
-2021-10-14 10:01:57,836 - LWIR1: File "45276.RAW" for shot 45276 (45276 expected) saved 1.0 s ago\
