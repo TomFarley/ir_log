@@ -1,3 +1,18 @@
+2021-10-14 11:33:24,971 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45280.RAW" (after failing to move it there)\
+2021-10-14 11:33:23,478 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
+2021-10-14 11:33:23,051 - LWIR1: File "45280.RAW" for shot 45280 (45280 expected) saved 0.9 s ago\
+2021-10-14 11:33:23,050 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45280.RAW (file confirmed to exist)\
+2021-10-14 11:33:00,552 - Shot 45280 expected in dt: 0.6 s\
+2021-10-14 11:32:59,550 - Shot 45280 expected in dt: 1.6 s\
+2021-10-14 11:32:58,548 - Shot 45280 expected in dt: 2.6 s\
+2021-10-14 11:32:57,546 - Shot 45280 expected in dt: 3.6 s\
+2021-10-14 11:32:56,544 - Shot 45280 expected in dt: 4.6 s\
+2021-10-14 11:32:55,543 - Shot 45280 expected in dt: 5.6 s\
+2021-10-14 11:32:54,540 - Shot 45280 expected in dt: 6.6 s\
+2021-10-14 11:32:51,538 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-14 11:32:47,930 - Shot 45280 expected in dt: 13.2 s\
+2021-10-14 11:32:46,929 - In state "Trigger" for shot 45280\
+2021-10-14 11:31:23,840 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-14 11:31:19,650 - Shot 45280 expected in dt: 96.0 s\
 2021-10-14 11:31:18,648 - ========== Shot number changed to 45280. State: "PreShot" ==========\
 2021-10-14 11:30:53,647 - In state "Run" for shot 45279\
@@ -83,18 +98,3 @@
 2021-10-14 10:01:59,901 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-14\45276.RAW" (after failing to move it there)\
 2021-10-14 10:01:58,272 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 10:01:57,836 - LWIR1: File "45276.RAW" for shot 45276 (45276 expected) saved 1.0 s ago\
-2021-10-14 10:01:57,834 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45276.RAW (file confirmed to exist)\
-2021-10-14 10:01:35,315 - Shot 45276 expected in dt: 0.7 s\
-2021-10-14 10:01:34,313 - Shot 45276 expected in dt: 1.7 s\
-2021-10-14 10:01:33,312 - Shot 45276 expected in dt: 2.7 s\
-2021-10-14 10:01:32,311 - Shot 45276 expected in dt: 3.7 s\
-2021-10-14 10:01:31,309 - Shot 45276 expected in dt: 4.7 s\
-2021-10-14 10:01:30,308 - Shot 45276 expected in dt: 5.7 s\
-2021-10-14 10:01:29,307 - Shot 45276 expected in dt: 6.7 s\
-2021-10-14 10:01:27,305 - Updated remote log: D:\ir_log\LWIR1.md\
-2021-10-14 10:01:22,843 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-14 10:01:22,841 - Shot 45276 expected in dt: 13.1 s\
-2021-10-14 10:01:21,840 - In state "Trigger" for shot 45276\
-2021-10-14 09:59:58,756 - Updated remote log: D:\ir_log\LWIR1.md\
-2021-10-14 09:59:55,341 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_H0012.log" to "D:\ir_log\LWIR1.md"\
-2021-10-14 09:59:55,339 - Shot 45276 expected in dt: 95.3 s\
