@@ -1,3 +1,15 @@
+2021-10-14 10:01:21,872 - Shot 45276 expected in dt: 13.9 s\
+2021-10-14 10:01:20,868 - In state "Trigger" for shot 45276\
+2021-10-14 10:01:13,821 - Shot 45276 expected in dt: 16.6 s\
+2021-10-14 10:01:03,769 - Shot 45276 expected in dt: 26.6 s\
+2021-10-14 10:00:53,720 - Shot 45276 expected in dt: 36.7 s\
+2021-10-14 10:00:43,681 - Shot 45276 expected in dt: 46.7 s\
+2021-10-14 10:00:33,620 - Shot 45276 expected in dt: 56.8 s\
+2021-10-14 10:00:23,558 - Shot 45276 expected in dt: 66.8 s\
+2021-10-14 10:00:13,508 - Shot 45276 expected in dt: 76.9 s\
+2021-10-14 10:00:03,458 - Shot 45276 expected in dt: 86.9 s\
+2021-10-14 09:59:56,427 - Updated remote log: D:\ir_log\MWIR1.md\
+2021-10-14 09:59:52,510 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
 2021-10-14 09:59:52,508 - Shot 45276 expected in dt: 97.9 s\
 2021-10-14 09:59:51,501 - ========== Shot number changed to 45276. State: "PreShot" ==========\
 2021-10-14 09:59:26,485 - In state "Run" for shot 45275\
@@ -86,15 +98,3 @@
 2021-10-14 09:14:45,849 - In state "Trigger" for shot 45274\
 2021-10-14 09:14:39,817 - Shot 45274 expected in dt: 15.2 s\
 2021-10-14 09:14:29,764 - Shot 45274 expected in dt: 25.3 s\
-2021-10-14 09:14:19,709 - Shot 45274 expected in dt: 35.3 s\
-2021-10-14 09:14:09,665 - Shot 45274 expected in dt: 45.4 s\
-2021-10-14 09:13:59,610 - Shot 45274 expected in dt: 55.4 s\
-2021-10-14 09:13:49,578 - Shot 45274 expected in dt: 65.4 s\
-2021-10-14 09:13:39,531 - Shot 45274 expected in dt: 75.5 s\
-2021-10-14 09:13:33,502 - Updated remote log: SUCCESS\
-2021-10-14 09:13:33,501 - Git push "D:\ir_log\MWIR1.md"\
-2021-10-14 09:13:31,434 - Git push "D:\ir_log\MWIR1.md"\
-2021-10-14 09:13:29,686 - Git commit "D:\ir_log\MWIR1.md", "auto-update"\
-2021-10-14 09:13:29,364 - Copied tail from "D:\ir_tools\ir_tools\automation\log\IR_automation_MWIR-PC1.log" to "D:\ir_log\MWIR1.md"\
-2021-10-14 09:13:29,362 - Shot 45274 expected in dt: 85.7 s\
-2021-10-14 09:13:28,357 - In state "PreShot" for shot 45274\
