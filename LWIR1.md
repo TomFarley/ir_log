@@ -1,3 +1,9 @@
+2021-10-15 11:38:30,829 - Shot 45305 expected in dt: 101.2 s\
+2021-10-15 11:38:29,828 - ========== Shot number changed to 45305. State: "PreShot" ==========\
+2021-10-15 11:38:04,827 - In state "Run" for shot 45304\
+2021-10-15 11:09:17,316 - Re-arming LWIR1\
+2021-10-15 11:08:52,315 - In state "PostShot" for shot 45304\
+2021-10-15 11:08:50,313 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-15 11:08:45,916 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-15\45304.RAW" (after failing to move it there)\
 2021-10-15 11:08:44,299 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 11:08:43,822 - LWIR1: File "45304.RAW" for shot 45304 (45304 expected) saved 1.0 s ago\
@@ -92,9 +98,3 @@
 2021-10-15 09:13:27,337 - Starting camera automation for cameras: LWIR1\
 2021-10-15 09:13:27,336 - Starting automation on "H0012" PC\
 2021-10-15 09:12:48,771 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-15 09:12:48,682 - >>> CTRL+C <<<\
-2021-10-15 07:59:00,172 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-15"\
-2021-10-15 07:58:40,644 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-15 07:58:40,144 - Moved 27 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45274.RAW', '45275.RAW', '45276.RAW', '45277.RAW', '45278.RAW', '45279.RAW', '45280.RAW', '45281.RAW', '45282.RAW', '45283.RAW', '45284.RAW', '45285.RAW', '45286.RAW', '45287.RAW', '45288.RAW', '45289.RAW', '45290.RAW', '45291.RAW', '45292.RAW', '45293.RAW', '45294.RAW', '45295.RAW', '45296.RAW', '45297.RAW', '45298.RAW', '45299.RAW', '45300.RAW']\
-2021-10-15 07:58:40,112 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-15"\
-2021-10-15 07:55:36,543 - Re-arming LWIR1\
