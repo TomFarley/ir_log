@@ -1,3 +1,6 @@
+2021-10-15 11:40:02,455 - Shot 45305 expected in dt: 13.9 s\
+2021-10-15 11:40:01,453 - In state "Trigger" for shot 45305\
+2021-10-15 11:38:34,356 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-15 11:38:30,829 - Shot 45305 expected in dt: 101.2 s\
 2021-10-15 11:38:29,828 - ========== Shot number changed to 45305. State: "PreShot" ==========\
 2021-10-15 11:38:04,827 - In state "Run" for shot 45304\
@@ -95,6 +98,3 @@
 2021-10-15 09:13:27,354 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
 2021-10-15 09:13:27,339 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211015.log"\
 2021-10-15 09:13:27,337 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-15 09:13:27,337 - Starting camera automation for cameras: LWIR1\
-2021-10-15 09:13:27,336 - Starting automation on "H0012" PC\
-2021-10-15 09:12:48,771 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
