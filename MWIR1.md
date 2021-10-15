@@ -1,3 +1,8 @@
+2021-10-15 13:13:15,184 - Shot 45310 expected in dt: 90.8 s\
+2021-10-15 13:13:14,176 - ========== Shot number changed to 45310. State: "PreShot" ==========\
+2021-10-15 13:12:49,173 - In state "Run" for shot 45309\
+2021-10-15 13:04:29,040 - In state "PostShot" for shot 45309\
+2021-10-15 13:04:29,039 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 13:04:24,140 - ========== Ready for shot 45310 in state "PostShot" ==========\
 2021-10-15 13:04:24,107 - Re-arming MWIR1\
 2021-10-15 13:04:24,087 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
@@ -93,8 +98,3 @@
 2021-10-15 11:59:36,541 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 11:59:36,048 - MWIR1: Renaming latest file from "000066.ats" to "045306.ats"\
 2021-10-15 11:59:36,048 - MWIR1: File "000066.ats" for shot 66 (45306 expected) saved 9.2 s ago\
-2021-10-15 11:59:29,990 - Recording should finish in dt: 0.4 s\
-2021-10-15 11:59:28,985 - Recording should finish in dt: 1.4 s\
-2021-10-15 11:59:25,978 - Recording should finish in dt: 4.4 s\
-2021-10-15 11:59:20,936 - Shot 45306 expected in dt: 0.4 s\
-2021-10-15 11:59:19,922 - Shot 45306 expected in dt: 1.5 s\
