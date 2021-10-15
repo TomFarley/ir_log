@@ -1,3 +1,15 @@
+2021-10-15 13:43:37,905 - Shot 45311 expected in dt: 13.4 s\
+2021-10-15 13:43:36,898 - In state "Trigger" for shot 45311\
+2021-10-15 13:43:30,872 - Shot 45311 expected in dt: 16.0 s\
+2021-10-15 13:43:20,821 - Shot 45311 expected in dt: 26.0 s\
+2021-10-15 13:43:10,771 - Shot 45311 expected in dt: 36.1 s\
+2021-10-15 13:43:00,721 - Shot 45311 expected in dt: 46.1 s\
+2021-10-15 13:42:50,663 - Shot 45311 expected in dt: 56.2 s\
+2021-10-15 13:42:40,612 - Shot 45311 expected in dt: 66.2 s\
+2021-10-15 13:42:30,567 - Shot 45311 expected in dt: 76.3 s\
+2021-10-15 13:42:20,527 - Shot 45311 expected in dt: 86.3 s\
+2021-10-15 13:42:10,466 - Shot 45311 expected in dt: 96.4 s\
+2021-10-15 13:42:08,451 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 13:42:04,171 - Shot 45311 expected in dt: 102.7 s\
 2021-10-15 13:42:03,169 - ========== Shot number changed to 45311. State: "PreShot" ==========\
 2021-10-15 13:41:38,164 - In state "Run" for shot 45310\
@@ -86,15 +98,3 @@
 2021-10-15 12:50:36,435 - In state "Run" for shot 45308\
 2021-10-15 12:48:06,376 - In state "PostShot" for shot 45308\
 2021-10-15 12:48:06,375 - Shot 45308 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
-2021-10-15 12:47:41,364 - In state "Abort" for shot 45308\
-2021-10-15 12:47:41,362 - Shot 45308 expected in dt: 5.2 s\
-2021-10-15 12:47:40,357 - Shot 45308 expected in dt: 6.2 s\
-2021-10-15 12:47:38,346 - Shot 45308 expected in dt: 8.2 s\
-2021-10-15 12:47:28,298 - Shot 45308 expected in dt: 18.2 s\
-2021-10-15 12:47:18,252 - Shot 45308 expected in dt: 28.3 s\
-2021-10-15 12:47:08,191 - Shot 45308 expected in dt: 38.3 s\
-2021-10-15 12:46:58,146 - Shot 45308 expected in dt: 48.4 s\
-2021-10-15 12:46:48,096 - Shot 45308 expected in dt: 58.4 s\
-2021-10-15 12:46:38,050 - Shot 45308 expected in dt: 68.5 s\
-2021-10-15 12:46:27,982 - Shot 45308 expected in dt: 78.5 s\
-2021-10-15 12:46:21,948 - Pushed update to remote log: D:\ir_log\MWIR1.md\
