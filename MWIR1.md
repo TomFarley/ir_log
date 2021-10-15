@@ -1,3 +1,15 @@
+2021-10-15 14:48:53,340 - Shot 45313 expected in dt: 13.6 s\
+2021-10-15 14:48:52,338 - In state "Trigger" for shot 45313\
+2021-10-15 14:48:43,296 - Shot 45313 expected in dt: 18.0 s\
+2021-10-15 14:48:33,247 - Shot 45313 expected in dt: 28.0 s\
+2021-10-15 14:48:23,192 - Shot 45313 expected in dt: 38.1 s\
+2021-10-15 14:48:13,135 - Shot 45313 expected in dt: 48.2 s\
+2021-10-15 14:48:03,080 - Shot 45313 expected in dt: 58.2 s\
+2021-10-15 14:47:53,022 - Shot 45313 expected in dt: 68.3 s\
+2021-10-15 14:47:42,986 - Shot 45313 expected in dt: 78.3 s\
+2021-10-15 14:47:32,925 - Shot 45313 expected in dt: 88.4 s\
+2021-10-15 14:47:22,880 - Shot 45313 expected in dt: 98.4 s\
+2021-10-15 14:47:21,877 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 14:47:17,563 - Shot 45313 expected in dt: 103.7 s\
 2021-10-15 14:47:16,562 - ========== Shot number changed to 45313. State: "PreShot" ==========\
 2021-10-15 14:46:51,545 - In state "Run" for shot 45312\
@@ -86,15 +98,3 @@
 2021-10-15 13:15:06,350 - MWIR1: Renaming latest file from "000070.ats" to "045310.ats"\
 2021-10-15 13:15:06,350 - MWIR1: File "000070.ats" for shot 70 (45310 expected) saved 12.5 s ago\
 2021-10-15 13:15:00,296 - Recording should finish in dt: 0.3 s\
-2021-10-15 13:14:59,296 - Recording should finish in dt: 1.3 s\
-2021-10-15 13:14:52,231 - Recording should finish in dt: 8.3 s\
-2021-10-15 13:14:51,221 - Shot 45310 expected in dt: 0.3 s\
-2021-10-15 13:14:50,206 - Shot 45310 expected in dt: 1.4 s\
-2021-10-15 13:14:49,192 - Shot 45310 expected in dt: 2.4 s\
-2021-10-15 13:14:48,179 - Shot 45310 expected in dt: 3.4 s\
-2021-10-15 13:14:47,168 - Shot 45310 expected in dt: 4.4 s\
-2021-10-15 13:14:46,136 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-15 13:14:46,136 - Shot 45310 expected in dt: 5.4 s\
-2021-10-15 13:14:45,128 - Shot 45310 expected in dt: 6.4 s\
-2021-10-15 13:14:43,109 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 13:14:38,435 - Shot 45310 expected in dt: 13.1 s\
