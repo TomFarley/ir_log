@@ -1,3 +1,13 @@
+2021-10-15 12:51:27,368 - Shot 45309 expected in dt: 89.2 s\
+2021-10-15 12:51:27,368 - A shot has been missed! Last recorded shot was 45306\
+2021-10-15 12:51:26,366 - ========== Shot number changed to 45309. State: "PreShot" ==========\
+2021-10-15 12:50:36,363 - In state "Run" for shot 45308\
+2021-10-15 12:48:06,353 - In state "PostShot" for shot 45308\
+2021-10-15 12:48:06,351 - Shot 45308 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-15 12:47:41,350 - In state "Abort" for shot 45308\
+2021-10-15 12:47:41,348 - Shot 45308 expected in dt: 5.4 s\
+2021-10-15 12:47:40,346 - Shot 45308 expected in dt: 6.4 s\
+2021-10-15 12:46:23,204 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-15 12:46:18,452 - Shot 45308 expected in dt: 88.3 s\
 2021-10-15 12:46:18,452 - A shot has been missed! Last recorded shot was 45306\
 2021-10-15 12:46:17,451 - ========== Shot number changed to 45308. State: "PreShot" ==========\
@@ -88,13 +98,3 @@
 2021-10-15 11:06:40,211 - ========== Shot number changed to 45304. State: "PreShot" ==========\
 2021-10-15 11:05:50,208 - In state "Run" for shot 45303\
 2021-10-15 10:37:27,663 - Re-arming LWIR1\
-2021-10-15 10:37:02,662 - In state "PostShot" for shot 45303\
-2021-10-15 10:37:01,660 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-15 10:36:57,131 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-15\45303.RAW" (after failing to move it there)\
-2021-10-15 10:36:54,717 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 10:36:54,292 - LWIR1: File "45303.RAW" for shot 45303 (45303 expected) saved 1.0 s ago\
-2021-10-15 10:36:54,291 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45303.RAW (file confirmed to exist)\
-2021-10-15 10:36:31,740 - Shot 45303 expected in dt: 0.1 s\
-2021-10-15 10:36:30,739 - Shot 45303 expected in dt: 1.1 s\
-2021-10-15 10:36:29,739 - Shot 45303 expected in dt: 2.1 s\
-2021-10-15 10:36:28,738 - Shot 45303 expected in dt: 3.1 s\
