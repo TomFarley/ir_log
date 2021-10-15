@@ -1,3 +1,22 @@
+2021-10-15 11:08:39,469 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
+2021-10-15 11:08:38,833 - Px_protection: Renaming latest file from "000063.seq" to "045304.seq"\
+2021-10-15 11:08:38,832 - Px_protection: File "000063.seq" for shot 63 (45304 expected) saved 7.1 s ago\
+2021-10-15 11:08:38,827 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-15\045304.ats" (after failing to move it there)\
+2021-10-15 11:08:37,104 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
+2021-10-15 11:08:36,420 - MWIR1: Renaming latest file from "000062.ats" to "045304.ats"\
+2021-10-15 11:08:36,419 - MWIR1: File "000062.ats" for shot 62 (45304 expected) saved 9.0 s ago\
+2021-10-15 11:08:30,354 - Recording should finish in dt: 0.2 s\
+2021-10-15 11:08:29,339 - Recording should finish in dt: 1.2 s\
+2021-10-15 11:08:28,324 - Recording should finish in dt: 2.2 s\
+2021-10-15 11:08:21,269 - Shot 45304 expected in dt: 0.3 s\
+2021-10-15 11:08:20,255 - Shot 45304 expected in dt: 1.3 s\
+2021-10-15 11:08:19,251 - Shot 45304 expected in dt: 2.3 s\
+2021-10-15 11:08:18,237 - Shot 45304 expected in dt: 3.3 s\
+2021-10-15 11:08:17,233 - Shot 45304 expected in dt: 4.3 s\
+2021-10-15 11:08:16,202 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-15 11:08:16,201 - Shot 45304 expected in dt: 5.3 s\
+2021-10-15 11:08:15,199 - Shot 45304 expected in dt: 6.3 s\
+2021-10-15 11:08:11,166 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 11:08:07,953 - Shot 45304 expected in dt: 13.6 s\
 2021-10-15 11:08:06,950 - In state "Trigger" for shot 45304\
 2021-10-15 11:08:04,941 - Shot 45304 expected in dt: 11.2 s\
@@ -79,22 +98,3 @@
 2021-10-15 10:07:45,899 - Shot 45302 expected in dt: 45.3 s\
 2021-10-15 10:07:35,849 - Shot 45302 expected in dt: 55.3 s\
 2021-10-15 10:07:25,803 - Shot 45302 expected in dt: 65.4 s\
-2021-10-15 10:07:15,750 - Shot 45302 expected in dt: 75.4 s\
-2021-10-15 10:07:05,711 - Shot 45302 expected in dt: 85.5 s\
-2021-10-15 10:06:55,659 - Shot 45302 expected in dt: 95.5 s\
-2021-10-15 10:06:52,639 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 10:06:48,150 - Shot 45302 expected in dt: 103.0 s\
-2021-10-15 10:06:47,147 - ========== Shot number changed to 45302. State: "PreShot" ==========\
-2021-10-15 10:05:57,123 - In state "Run" for shot 45301\
-2021-10-15 09:44:41,605 - Re-arming MWIR1\
-2021-10-15 09:44:16,595 - In state "PostShot" for shot 45301\
-2021-10-15 09:44:09,519 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 09:44:04,913 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 09:44:03,960 - Px_protection: Renaming latest file from "000057.seq" to "045301.seq"\
-2021-10-15 09:44:03,960 - Px_protection: File "000057.seq" for shot 57 (45301 expected) saved 7.0 s ago\
-2021-10-15 09:44:03,956 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-15\045301.ats" (after failing to move it there)\
-2021-10-15 09:44:02,089 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 09:44:01,600 - MWIR1: Renaming latest file from "000056.ats" to "045301.ats"\
-2021-10-15 09:44:01,599 - MWIR1: File "000056.ats" for shot 56 (45301 expected) saved 10.9 s ago\
-2021-10-15 09:43:55,537 - Recording should finish in dt: 0.2 s\
-2021-10-15 09:43:54,526 - Recording should finish in dt: 1.2 s\
