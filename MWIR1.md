@@ -1,3 +1,15 @@
+2021-10-15 10:08:23,076 - Shot 45302 expected in dt: 13.5 s\
+2021-10-15 10:08:22,073 - In state "Trigger" for shot 45302\
+2021-10-15 10:08:16,042 - Shot 45302 expected in dt: 15.1 s\
+2021-10-15 10:08:05,989 - Shot 45302 expected in dt: 25.2 s\
+2021-10-15 10:07:55,937 - Shot 45302 expected in dt: 35.2 s\
+2021-10-15 10:07:45,899 - Shot 45302 expected in dt: 45.3 s\
+2021-10-15 10:07:35,849 - Shot 45302 expected in dt: 55.3 s\
+2021-10-15 10:07:25,803 - Shot 45302 expected in dt: 65.4 s\
+2021-10-15 10:07:15,750 - Shot 45302 expected in dt: 75.4 s\
+2021-10-15 10:07:05,711 - Shot 45302 expected in dt: 85.5 s\
+2021-10-15 10:06:55,659 - Shot 45302 expected in dt: 95.5 s\
+2021-10-15 10:06:52,639 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 10:06:48,150 - Shot 45302 expected in dt: 103.0 s\
 2021-10-15 10:06:47,147 - ========== Shot number changed to 45302. State: "PreShot" ==========\
 2021-10-15 10:05:57,123 - In state "Run" for shot 45301\
@@ -86,15 +98,3 @@
 2021-10-14 20:02:29,696 - Shot 45300 expected in dt: 51.4 s\
 2021-10-14 20:02:19,623 - Shot 45300 expected in dt: 61.5 s\
 2021-10-14 20:02:09,562 - Shot 45300 expected in dt: 71.6 s\
-2021-10-14 20:02:06,544 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-14 20:02:01,722 - Shot 45300 expected in dt: 79.4 s\
-2021-10-14 20:02:00,714 - In state "PreShot" for shot 45300\
-2021-10-14 20:02:00,713 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-14 20:01:57,407 - Shot 45300 expected in dt: 83.6 s\
-2021-10-14 20:01:32,404 - ========== Shot number changed to 45300. State: "Ready" ==========\
-2021-10-14 20:01:07,401 - In state "Run" for shot 45299\
-2021-10-14 19:40:42,027 - In state "PostShot" for shot 45299\
-2021-10-14 19:40:32,949 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-14 19:40:28,544 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-14" and copied file back to "auto_export"\
-2021-10-14 19:40:27,829 - Px_protection: Renaming latest file from "000051.seq" to "045299.seq"\
-2021-10-14 19:40:27,826 - Px_protection: File "000051.seq" for shot 51 (45299 expected) saved 6.1 s ago\
