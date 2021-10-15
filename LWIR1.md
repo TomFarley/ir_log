@@ -1,3 +1,18 @@
+2021-10-15 12:46:18,452 - Shot 45308 expected in dt: 88.3 s\
+2021-10-15 12:46:18,452 - A shot has been missed! Last recorded shot was 45306\
+2021-10-15 12:46:17,451 - ========== Shot number changed to 45308. State: "PreShot" ==========\
+2021-10-15 12:45:52,447 - In state "Run" for shot 45307\
+2021-10-15 12:44:37,444 - In state "PostShot" for shot 45307\
+2021-10-15 12:44:37,442 - Shot 45307 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-15 12:44:12,440 - In state "Abort" for shot 45307\
+2021-10-15 12:43:35,374 - Shot 45307 expected in dt: 1.0 s\
+2021-10-15 12:43:34,373 - Shot 45307 expected in dt: 2.0 s\
+2021-10-15 12:43:33,371 - Shot 45307 expected in dt: 3.0 s\
+2021-10-15 12:43:32,369 - Shot 45307 expected in dt: 4.0 s\
+2021-10-15 12:43:31,367 - Shot 45307 expected in dt: 5.0 s\
+2021-10-15 12:43:30,365 - Shot 45307 expected in dt: 6.0 s\
+2021-10-15 12:43:29,363 - Shot 45307 expected in dt: 7.0 s\
+2021-10-15 12:42:05,226 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-15 12:42:00,824 - Shot 45307 expected in dt: 95.5 s\
 2021-10-15 12:41:59,823 - ========== Shot number changed to 45307. State: "PreShot" ==========\
 2021-10-15 12:41:34,820 - In state "Run" for shot 45306\
@@ -83,18 +98,3 @@
 2021-10-15 10:36:30,739 - Shot 45303 expected in dt: 1.1 s\
 2021-10-15 10:36:29,739 - Shot 45303 expected in dt: 2.1 s\
 2021-10-15 10:36:28,738 - Shot 45303 expected in dt: 3.1 s\
-2021-10-15 10:36:27,736 - Shot 45303 expected in dt: 4.1 s\
-2021-10-15 10:36:26,736 - Shot 45303 expected in dt: 5.1 s\
-2021-10-15 10:36:25,735 - Shot 45303 expected in dt: 6.1 s\
-2021-10-15 10:36:22,731 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-15 10:36:18,827 - Shot 45303 expected in dt: 13.0 s\
-2021-10-15 10:36:17,826 - In state "Trigger" for shot 45303\
-2021-10-15 10:35:05,750 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-15 10:35:00,594 - Shot 45303 expected in dt: 85.7 s\
-2021-10-15 10:34:59,593 - In state "PreShot" for shot 45303\
-2021-10-15 10:34:34,592 - ========== Shot number changed to 45303. State: "Run" ==========\
-2021-10-15 10:34:09,589 - In state "Run" for shot 45302\
-2021-10-15 10:09:32,081 - Re-arming LWIR1\
-2021-10-15 10:09:07,081 - In state "PostShot" for shot 45302\
-2021-10-15 10:09:06,078 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-15 10:09:00,986 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-15\45302.RAW" (after failing to move it there)\
