@@ -1,3 +1,9 @@
+2021-10-15 13:42:04,171 - Shot 45311 expected in dt: 102.7 s\
+2021-10-15 13:42:03,169 - ========== Shot number changed to 45311. State: "PreShot" ==========\
+2021-10-15 13:41:38,164 - In state "Run" for shot 45310\
+2021-10-15 13:15:47,685 - Re-arming MWIR1\
+2021-10-15 13:15:22,670 - In state "PostShot" for shot 45310\
+2021-10-15 13:15:13,594 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 13:15:09,536 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 13:15:08,633 - Px_protection: Renaming latest file from "000071.seq" to "045310.seq"\
 2021-10-15 13:15:08,633 - Px_protection: File "000071.seq" for shot 71 (45310 expected) saved 6.8 s ago\
@@ -92,9 +98,3 @@
 2021-10-15 12:46:38,050 - Shot 45308 expected in dt: 68.5 s\
 2021-10-15 12:46:27,982 - Shot 45308 expected in dt: 78.5 s\
 2021-10-15 12:46:21,948 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 12:46:18,656 - Shot 45308 expected in dt: 87.9 s\
-2021-10-15 12:46:18,655 - A shot has been missed! Last recorded shot was 45306\
-2021-10-15 12:46:17,637 - ========== Shot number changed to 45308. State: "PreShot" ==========\
-2021-10-15 12:45:52,631 - In state "Run" for shot 45307\
-2021-10-15 12:44:37,606 - In state "PostShot" for shot 45307\
-2021-10-15 12:44:37,605 - Shot 45307 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
