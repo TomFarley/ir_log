@@ -1,3 +1,6 @@
+2021-10-15 14:20:23,743 - Shot 45312 expected in dt: 77.6 s\
+2021-10-15 14:20:22,734 - In state "PreShot" for shot 45312\
+2021-10-15 14:20:22,733 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 14:20:18,253 - Shot 45312 expected in dt: 82.9 s\
 2021-10-15 14:19:53,249 - ========== Shot number changed to 45312. State: "Ready" ==========\
 2021-10-15 14:19:28,236 - In state "Run" for shot 45311\
@@ -95,6 +98,3 @@
 2021-10-15 12:53:18,928 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-15\045309.ats" (after failing to move it there)\
 2021-10-15 12:53:17,106 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 12:53:16,627 - MWIR1: Renaming latest file from "000068.ats" to "045309.ats"\
-2021-10-15 12:53:16,626 - MWIR1: File "000068.ats" for shot 68 (45309 expected) saved 12.2 s ago\
-2021-10-15 12:53:10,559 - Recording should finish in dt: 0.2 s\
-2021-10-15 12:53:09,554 - Recording should finish in dt: 1.2 s\
