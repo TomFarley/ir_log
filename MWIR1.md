@@ -1,3 +1,13 @@
+2021-10-15 12:52:48,198 - Shot 45309 expected in dt: 13.6 s\
+2021-10-15 12:52:47,194 - In state "Trigger" for shot 45309\
+2021-10-15 12:52:38,146 - Shot 45309 expected in dt: 18.2 s\
+2021-10-15 12:52:28,093 - Shot 45309 expected in dt: 28.2 s\
+2021-10-15 12:52:18,030 - Shot 45309 expected in dt: 38.3 s\
+2021-10-15 12:52:07,988 - Shot 45309 expected in dt: 48.3 s\
+2021-10-15 12:51:57,939 - Shot 45309 expected in dt: 58.4 s\
+2021-10-15 12:51:47,903 - Shot 45309 expected in dt: 68.4 s\
+2021-10-15 12:51:37,860 - Shot 45309 expected in dt: 78.4 s\
+2021-10-15 12:51:30,812 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 12:51:27,442 - Shot 45309 expected in dt: 88.9 s\
 2021-10-15 12:51:27,442 - A shot has been missed! Last recorded shot was 45306\
 2021-10-15 12:51:26,440 - ========== Shot number changed to 45309. State: "PreShot" ==========\
@@ -88,13 +98,3 @@
 2021-10-15 11:40:38,381 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 11:40:34,284 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 11:40:32,945 - Px_protection: Renaming latest file from "000065.seq" to "045305.seq"\
-2021-10-15 11:40:32,944 - Px_protection: File "000065.seq" for shot 65 (45305 expected) saved 1.7 s ago\
-2021-10-15 11:40:32,943 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-15\045305.ats" (after failing to move it there)\
-2021-10-15 11:40:31,215 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 11:40:30,725 - MWIR1: Renaming latest file from "000064.ats" to "045305.ats"\
-2021-10-15 11:40:30,725 - MWIR1: File "000064.ats" for shot 64 (45305 expected) saved 9.7 s ago\
-2021-10-15 11:40:24,687 - Recording should finish in dt: 0.4 s\
-2021-10-15 11:40:23,679 - Recording should finish in dt: 1.4 s\
-2021-10-15 11:40:19,636 - Recording should finish in dt: 5.5 s\
-2021-10-15 11:40:15,606 - Shot 45305 expected in dt: 0.5 s\
-2021-10-15 11:40:14,593 - Shot 45305 expected in dt: 1.5 s\
