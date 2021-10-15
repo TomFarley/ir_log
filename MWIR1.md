@@ -1,3 +1,9 @@
+2021-10-15 14:47:17,563 - Shot 45313 expected in dt: 103.7 s\
+2021-10-15 14:47:16,562 - ========== Shot number changed to 45313. State: "PreShot" ==========\
+2021-10-15 14:46:51,545 - In state "Run" for shot 45312\
+2021-10-15 14:22:41,112 - Re-arming MWIR1\
+2021-10-15 14:22:16,108 - In state "PostShot" for shot 45312\
+2021-10-15 14:22:09,056 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 14:22:03,657 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 14:22:03,303 - Px_protection: Renaming latest file from "000075.seq" to "045312.seq"\
 2021-10-15 14:22:03,302 - Px_protection: File "000075.seq" for shot 75 (45312 expected) saved 6.9 s ago\
@@ -92,9 +98,3 @@
 2021-10-15 13:14:45,128 - Shot 45310 expected in dt: 6.4 s\
 2021-10-15 13:14:43,109 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 13:14:38,435 - Shot 45310 expected in dt: 13.1 s\
-2021-10-15 13:14:37,431 - In state "Trigger" for shot 45310\
-2021-10-15 13:14:37,430 - Shot 45310 expected in dt: 8.6 s\
-2021-10-15 13:14:27,373 - Shot 45310 expected in dt: 18.7 s\
-2021-10-15 13:14:17,314 - Shot 45310 expected in dt: 28.7 s\
-2021-10-15 13:14:07,259 - Shot 45310 expected in dt: 38.8 s\
-2021-10-15 13:13:57,202 - Shot 45310 expected in dt: 48.8 s\
