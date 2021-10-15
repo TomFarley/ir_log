@@ -1,3 +1,14 @@
+2021-10-15 13:14:38,435 - Shot 45310 expected in dt: 13.1 s\
+2021-10-15 13:14:37,431 - In state "Trigger" for shot 45310\
+2021-10-15 13:14:37,430 - Shot 45310 expected in dt: 8.6 s\
+2021-10-15 13:14:27,373 - Shot 45310 expected in dt: 18.7 s\
+2021-10-15 13:14:17,314 - Shot 45310 expected in dt: 28.7 s\
+2021-10-15 13:14:07,259 - Shot 45310 expected in dt: 38.8 s\
+2021-10-15 13:13:57,202 - Shot 45310 expected in dt: 48.8 s\
+2021-10-15 13:13:47,140 - Shot 45310 expected in dt: 58.9 s\
+2021-10-15 13:13:37,100 - Shot 45310 expected in dt: 68.9 s\
+2021-10-15 13:13:27,063 - Shot 45310 expected in dt: 79.0 s\
+2021-10-15 13:13:19,019 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 13:13:15,184 - Shot 45310 expected in dt: 90.8 s\
 2021-10-15 13:13:14,176 - ========== Shot number changed to 45310. State: "PreShot" ==========\
 2021-10-15 13:12:49,173 - In state "Run" for shot 45309\
@@ -87,14 +98,3 @@
 2021-10-15 12:42:03,897 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 12:41:59,301 - Shot 45307 expected in dt: 96.8 s\
 2021-10-15 12:41:58,297 - ========== Shot number changed to 45307. State: "PreShot" ==========\
-2021-10-15 12:41:33,291 - In state "Run" for shot 45306\
-2021-10-15 12:00:17,514 - Re-arming MWIR1\
-2021-10-15 11:59:52,511 - In state "PostShot" for shot 45306\
-2021-10-15 11:59:44,429 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 11:59:39,072 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 11:59:38,563 - Px_protection: Renaming latest file from "000067.seq" to "045306.seq"\
-2021-10-15 11:59:38,562 - Px_protection: File "000067.seq" for shot 67 (45306 expected) saved 7.1 s ago\
-2021-10-15 11:59:38,558 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-15\045306.ats" (after failing to move it there)\
-2021-10-15 11:59:36,541 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 11:59:36,048 - MWIR1: Renaming latest file from "000066.ats" to "045306.ats"\
-2021-10-15 11:59:36,048 - MWIR1: File "000066.ats" for shot 66 (45306 expected) saved 9.2 s ago\
