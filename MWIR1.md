@@ -1,3 +1,16 @@
+2021-10-15 13:04:24,140 - ========== Ready for shot 45310 in state "PostShot" ==========\
+2021-10-15 13:04:24,107 - Re-arming MWIR1\
+2021-10-15 13:04:24,087 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
+2021-10-15 13:04:24,087 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
+2021-10-15 13:04:24,086 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211015.log"\
+2021-10-15 13:04:24,086 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-15 13:04:24,085 - **Starting camera automation for cameras: MWIR1, Px_protection**\
+2021-10-15 13:04:24,084 - Starting automation on "MWIR-PC1" PC\
+2021-10-15 13:04:04,772 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
+2021-10-15 13:04:04,707 - >>> CTRL+C <<<\
+2021-10-15 12:53:56,639 - Re-arming MWIR1\
+2021-10-15 12:53:31,633 - In state "PostShot" for shot 45309\
+2021-10-15 12:53:25,566 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 12:53:19,926 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 12:53:18,932 - Px_protection: Renaming latest file from "000069.seq" to "045309.seq"\
 2021-10-15 12:53:18,931 - Px_protection: File "000069.seq" for shot 69 (45309 expected) saved 6.9 s ago\
@@ -85,16 +98,3 @@
 2021-10-15 11:59:25,978 - Recording should finish in dt: 4.4 s\
 2021-10-15 11:59:20,936 - Shot 45306 expected in dt: 0.4 s\
 2021-10-15 11:59:19,922 - Shot 45306 expected in dt: 1.5 s\
-2021-10-15 11:59:18,918 - Shot 45306 expected in dt: 2.5 s\
-2021-10-15 11:59:17,906 - Shot 45306 expected in dt: 3.5 s\
-2021-10-15 11:59:16,898 - Shot 45306 expected in dt: 4.5 s\
-2021-10-15 11:59:15,850 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-15 11:59:15,850 - Shot 45306 expected in dt: 5.5 s\
-2021-10-15 11:59:14,845 - Shot 45306 expected in dt: 6.5 s\
-2021-10-15 11:59:10,821 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 11:59:07,564 - Shot 45306 expected in dt: 13.8 s\
-2021-10-15 11:59:06,562 - In state "Trigger" for shot 45306\
-2021-10-15 11:58:55,488 - Shot 45306 expected in dt: 1.0 s\
-2021-10-15 11:58:54,483 - Shot 45306 expected in dt: 2.0 s\
-2021-10-15 11:58:53,477 - Shot 45306 expected in dt: 3.0 s\
-2021-10-15 11:58:52,471 - Shot 45306 expected in dt: 4.0 s\
