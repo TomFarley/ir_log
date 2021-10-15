@@ -1,3 +1,6 @@
+2021-10-15 09:42:19,854 - Shot 45301 expected in dt: 81.4 s\
+2021-10-15 09:42:18,844 - In state "PreShot" for shot 45301\
+2021-10-15 09:42:18,843 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 09:42:13,391 - ========== Ready for shot 45302 in state "PreShot" ==========\
 2021-10-15 09:42:13,327 - Re-arming MWIR1\
 2021-10-15 09:42:13,307 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
@@ -95,6 +98,3 @@
 2021-10-14 19:24:59,220 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-14" and copied file back to "auto_export"\
 2021-10-14 19:24:58,194 - Px_protection: Renaming latest file from "000049.seq" to "045298.seq"\
 2021-10-14 19:24:58,192 - Px_protection: File "000049.seq" for shot 49 (45298 expected) saved 6.9 s ago\
-2021-10-14 19:24:58,181 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-14\045298.ats" (after failing to move it there)\
-2021-10-14 19:24:56,459 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-14" and copied file back to "auto_export"\
-2021-10-14 19:24:55,805 - MWIR1: Renaming latest file from "000050.ats" to "045298.ats"\
