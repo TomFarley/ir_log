@@ -1,3 +1,26 @@
+2021-10-15 12:46:18,656 - Shot 45308 expected in dt: 87.9 s\
+2021-10-15 12:46:18,655 - A shot has been missed! Last recorded shot was 45306\
+2021-10-15 12:46:17,637 - ========== Shot number changed to 45308. State: "PreShot" ==========\
+2021-10-15 12:45:52,631 - In state "Run" for shot 45307\
+2021-10-15 12:44:37,606 - In state "PostShot" for shot 45307\
+2021-10-15 12:44:37,605 - Shot 45307 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-15 12:44:12,600 - In state "Abort" for shot 45307\
+2021-10-15 12:43:35,405 - Shot 45307 expected in dt: 0.7 s\
+2021-10-15 12:43:34,401 - Shot 45307 expected in dt: 1.7 s\
+2021-10-15 12:43:33,397 - Shot 45307 expected in dt: 2.7 s\
+2021-10-15 12:43:32,393 - Shot 45307 expected in dt: 3.7 s\
+2021-10-15 12:43:31,387 - Shot 45307 expected in dt: 4.7 s\
+2021-10-15 12:43:30,383 - Shot 45307 expected in dt: 5.7 s\
+2021-10-15 12:43:29,377 - Shot 45307 expected in dt: 6.7 s\
+2021-10-15 12:43:24,342 - Shot 45307 expected in dt: 11.8 s\
+2021-10-15 12:43:14,285 - Shot 45307 expected in dt: 21.8 s\
+2021-10-15 12:43:04,232 - Shot 45307 expected in dt: 31.9 s\
+2021-10-15 12:42:54,179 - Shot 45307 expected in dt: 41.9 s\
+2021-10-15 12:42:44,137 - Shot 45307 expected in dt: 52.0 s\
+2021-10-15 12:42:34,072 - Shot 45307 expected in dt: 62.0 s\
+2021-10-15 12:42:24,022 - Shot 45307 expected in dt: 72.1 s\
+2021-10-15 12:42:13,972 - Shot 45307 expected in dt: 82.1 s\
+2021-10-15 12:42:03,897 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 12:41:59,301 - Shot 45307 expected in dt: 96.8 s\
 2021-10-15 12:41:58,297 - ========== Shot number changed to 45307. State: "PreShot" ==========\
 2021-10-15 12:41:33,291 - In state "Run" for shot 45306\
@@ -75,26 +98,3 @@
 2021-10-15 11:38:54,582 - Shot 45305 expected in dt: 77.2 s\
 2021-10-15 11:38:44,529 - Shot 45305 expected in dt: 87.3 s\
 2021-10-15 11:38:34,474 - Shot 45305 expected in dt: 97.3 s\
-2021-10-15 11:38:32,466 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 11:38:28,295 - Shot 45305 expected in dt: 103.5 s\
-2021-10-15 11:38:27,292 - ========== Shot number changed to 45305. State: "PreShot" ==========\
-2021-10-15 11:38:02,277 - In state "Run" for shot 45304\
-2021-10-15 11:09:16,673 - Re-arming MWIR1\
-2021-10-15 11:08:51,668 - In state "PostShot" for shot 45304\
-2021-10-15 11:08:43,599 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 11:08:39,469 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 11:08:38,833 - Px_protection: Renaming latest file from "000063.seq" to "045304.seq"\
-2021-10-15 11:08:38,832 - Px_protection: File "000063.seq" for shot 63 (45304 expected) saved 7.1 s ago\
-2021-10-15 11:08:38,827 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-15\045304.ats" (after failing to move it there)\
-2021-10-15 11:08:37,104 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 11:08:36,420 - MWIR1: Renaming latest file from "000062.ats" to "045304.ats"\
-2021-10-15 11:08:36,419 - MWIR1: File "000062.ats" for shot 62 (45304 expected) saved 9.0 s ago\
-2021-10-15 11:08:30,354 - Recording should finish in dt: 0.2 s\
-2021-10-15 11:08:29,339 - Recording should finish in dt: 1.2 s\
-2021-10-15 11:08:28,324 - Recording should finish in dt: 2.2 s\
-2021-10-15 11:08:21,269 - Shot 45304 expected in dt: 0.3 s\
-2021-10-15 11:08:20,255 - Shot 45304 expected in dt: 1.3 s\
-2021-10-15 11:08:19,251 - Shot 45304 expected in dt: 2.3 s\
-2021-10-15 11:08:18,237 - Shot 45304 expected in dt: 3.3 s\
-2021-10-15 11:08:17,233 - Shot 45304 expected in dt: 4.3 s\
-2021-10-15 11:08:16,202 - Starting protection cameras recording 6.0s before shot for 15.0s\
