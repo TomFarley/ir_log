@@ -1,3 +1,22 @@
+2021-10-15 14:22:03,657 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
+2021-10-15 14:22:03,303 - Px_protection: Renaming latest file from "000075.seq" to "045312.seq"\
+2021-10-15 14:22:03,302 - Px_protection: File "000075.seq" for shot 75 (45312 expected) saved 6.9 s ago\
+2021-10-15 14:22:03,299 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-15\045312.ats" (after failing to move it there)\
+2021-10-15 14:22:01,588 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
+2021-10-15 14:22:01,086 - MWIR1: Renaming latest file from "000074.ats" to "045312.ats"\
+2021-10-15 14:22:01,082 - MWIR1: File "000074.ats" for shot 74 (45312 expected) saved 12.2 s ago\
+2021-10-15 14:21:55,030 - Recording should finish in dt: 0.8 s\
+2021-10-15 14:21:54,020 - Recording should finish in dt: 1.8 s\
+2021-10-15 14:21:49,982 - Recording should finish in dt: 5.9 s\
+2021-10-15 14:21:45,951 - Shot 45312 expected in dt: 0.9 s\
+2021-10-15 14:21:44,939 - Shot 45312 expected in dt: 1.9 s\
+2021-10-15 14:21:43,925 - Shot 45312 expected in dt: 2.9 s\
+2021-10-15 14:21:42,924 - Shot 45312 expected in dt: 3.9 s\
+2021-10-15 14:21:41,922 - Shot 45312 expected in dt: 4.9 s\
+2021-10-15 14:21:40,892 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-15 14:21:40,891 - Shot 45312 expected in dt: 5.9 s\
+2021-10-15 14:21:39,884 - Shot 45312 expected in dt: 7.0 s\
+2021-10-15 14:21:36,868 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 14:21:33,588 - Shot 45312 expected in dt: 13.3 s\
 2021-10-15 14:21:32,585 - In state "Trigger" for shot 45312\
 2021-10-15 14:21:26,558 - Shot 45312 expected in dt: 14.7 s\
@@ -79,22 +98,3 @@
 2021-10-15 13:14:17,314 - Shot 45310 expected in dt: 28.7 s\
 2021-10-15 13:14:07,259 - Shot 45310 expected in dt: 38.8 s\
 2021-10-15 13:13:57,202 - Shot 45310 expected in dt: 48.8 s\
-2021-10-15 13:13:47,140 - Shot 45310 expected in dt: 58.9 s\
-2021-10-15 13:13:37,100 - Shot 45310 expected in dt: 68.9 s\
-2021-10-15 13:13:27,063 - Shot 45310 expected in dt: 79.0 s\
-2021-10-15 13:13:19,019 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 13:13:15,184 - Shot 45310 expected in dt: 90.8 s\
-2021-10-15 13:13:14,176 - ========== Shot number changed to 45310. State: "PreShot" ==========\
-2021-10-15 13:12:49,173 - In state "Run" for shot 45309\
-2021-10-15 13:04:29,040 - In state "PostShot" for shot 45309\
-2021-10-15 13:04:29,039 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 13:04:24,140 - ========== Ready for shot 45310 in state "PostShot" ==========\
-2021-10-15 13:04:24,107 - Re-arming MWIR1\
-2021-10-15 13:04:24,087 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-15 13:04:24,087 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-15 13:04:24,086 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211015.log"\
-2021-10-15 13:04:24,086 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-15 13:04:24,085 - **Starting camera automation for cameras: MWIR1, Px_protection**\
-2021-10-15 13:04:24,084 - Starting automation on "MWIR-PC1" PC\
-2021-10-15 13:04:04,772 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-15 13:04:04,707 - >>> CTRL+C <<<\
