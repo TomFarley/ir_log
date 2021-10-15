@@ -1,3 +1,16 @@
+2021-10-15 16:13:07,515 - Shot 45316 expected in dt: 13.9 s\
+2021-10-15 16:13:06,507 - In state "Trigger" for shot 45316\
+2021-10-15 16:13:06,506 - Shot 45316 expected in dt: 5.4 s\
+2021-10-15 16:13:05,504 - Shot 45316 expected in dt: 6.4 s\
+2021-10-15 16:12:59,463 - Shot 45316 expected in dt: 12.4 s\
+2021-10-15 16:12:49,417 - Shot 45316 expected in dt: 22.5 s\
+2021-10-15 16:12:39,370 - Shot 45316 expected in dt: 32.5 s\
+2021-10-15 16:12:29,323 - Shot 45316 expected in dt: 42.6 s\
+2021-10-15 16:12:19,274 - Shot 45316 expected in dt: 52.6 s\
+2021-10-15 16:12:09,227 - Shot 45316 expected in dt: 62.7 s\
+2021-10-15 16:11:59,182 - Shot 45316 expected in dt: 72.7 s\
+2021-10-15 16:11:49,134 - Shot 45316 expected in dt: 82.8 s\
+2021-10-15 16:11:42,106 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 16:11:38,231 - Shot 45316 expected in dt: 93.7 s\
 2021-10-15 16:11:37,225 - ========== Shot number changed to 45316. State: "PreShot" ==========\
 2021-10-15 16:11:12,216 - In state "Run" for shot 45315\
@@ -85,16 +98,3 @@
 2021-10-15 14:49:21,499 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 14:49:21,005 - MWIR1: Renaming latest file from "000076.ats" to "045313.ats"\
 2021-10-15 14:49:21,005 - MWIR1: File "000076.ats" for shot 76 (45313 expected) saved 8.8 s ago\
-2021-10-15 14:49:15,954 - Recording should finish in dt: 0.0 s\
-2021-10-15 14:49:14,941 - Recording should finish in dt: 1.0 s\
-2021-10-15 14:49:06,865 - Shot 45313 expected in dt: 0.1 s\
-2021-10-15 14:49:05,862 - Shot 45313 expected in dt: 1.1 s\
-2021-10-15 14:49:04,851 - Shot 45313 expected in dt: 2.1 s\
-2021-10-15 14:49:03,839 - Shot 45313 expected in dt: 3.1 s\
-2021-10-15 14:49:02,834 - Shot 45313 expected in dt: 4.1 s\
-2021-10-15 14:49:01,785 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-15 14:49:01,785 - Shot 45313 expected in dt: 5.2 s\
-2021-10-15 14:49:00,779 - Shot 45313 expected in dt: 6.2 s\
-2021-10-15 14:48:56,738 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 14:48:53,340 - Shot 45313 expected in dt: 13.6 s\
-2021-10-15 14:48:52,338 - In state "Trigger" for shot 45313\
