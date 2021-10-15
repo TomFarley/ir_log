@@ -1,3 +1,6 @@
+2021-10-15 15:56:18,339 - Shot 45315 expected in dt: 13.7 s\
+2021-10-15 15:56:17,338 - In state "Trigger" for shot 45315\
+2021-10-15 15:54:50,250 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-15 15:54:45,720 - Shot 45315 expected in dt: 101.0 s\
 2021-10-15 15:54:44,719 - ========== Shot number changed to 45315. State: "PreShot" ==========\
 2021-10-15 15:54:19,717 - In state "Run" for shot 45314\
@@ -95,6 +98,3 @@
 2021-10-15 13:15:13,971 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-15" and copied file back to "auto_export"\
 2021-10-15 13:15:13,476 - LWIR1: File "45310.RAW" for shot 45310 (45310 expected) saved 1.0 s ago\
 2021-10-15 13:15:13,474 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45310.RAW (file confirmed to exist)\
-2021-10-15 13:14:50,933 - Shot 45310 expected in dt: 0.9 s\
-2021-10-15 13:14:49,932 - Shot 45310 expected in dt: 1.9 s\
-2021-10-15 13:14:48,930 - Shot 45310 expected in dt: 2.9 s\
