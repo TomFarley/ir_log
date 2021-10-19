@@ -1,3 +1,26 @@
+2021-10-19 18:47:08,176 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 18:47:07,055 - SW_beam_dump: Renaming latest file from "000064.seq" to "045338.seq"\
+2021-10-19 18:47:07,054 - SW_beam_dump: File "000064.seq" for shot 64 (45338 expected) saved 7.7 s ago\
+2021-10-19 18:47:07,049 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 18:47:06,066 - Px_protection: Renaming latest file from "000063.seq" to "045338.seq"\
+2021-10-19 18:47:06,065 - Px_protection: File "000063.seq" for shot 63 (45338 expected) saved 6.7 s ago\
+2021-10-19 18:47:06,057 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19\045338.ats" (after failing to move it there)\
+2021-10-19 18:47:04,412 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 18:47:03,880 - MWIR1: Renaming latest file from "000060.ats" to "045338.ats"\
+2021-10-19 18:47:03,879 - MWIR1: File "000060.ats" for shot 60 (45338 expected) saved 11.0 s ago\
+2021-10-19 18:46:57,819 - Recording should finish in dt: 0.8 s\
+2021-10-19 18:46:56,811 - Recording should finish in dt: 1.8 s\
+2021-10-19 18:46:51,761 - Recording should finish in dt: 6.8 s\
+2021-10-19 18:46:48,742 - Shot 45338 expected in dt: 0.9 s\
+2021-10-19 18:46:47,734 - Shot 45338 expected in dt: 1.9 s\
+2021-10-19 18:46:46,730 - Shot 45338 expected in dt: 2.9 s\
+2021-10-19 18:46:45,727 - Shot 45338 expected in dt: 3.9 s\
+2021-10-19 18:46:44,724 - Shot 45338 expected in dt: 4.9 s\
+2021-10-19 18:46:43,657 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-19 18:46:43,657 - Shot 45338 expected in dt: 6.0 s\
+2021-10-19 18:46:42,643 - Shot 45338 expected in dt: 7.0 s\
+2021-10-19 18:46:41,639 - Shot 45338 expected in dt: 8.0 s\
+2021-10-19 18:46:39,632 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 18:46:36,126 - Shot 45338 expected in dt: 13.5 s\
 2021-10-19 18:46:35,113 - In state "Trigger" for shot 45338\
 2021-10-19 18:46:28,063 - Shot 45338 expected in dt: 16.2 s\
@@ -275,26 +298,3 @@
 2021-10-19 15:25:53,912 - Shot 45331 expected in dt: 0.6 s\
 2021-10-19 15:25:52,897 - Shot 45331 expected in dt: 1.6 s\
 2021-10-19 15:25:51,892 - Shot 45331 expected in dt: 2.6 s\
-2021-10-19 15:25:50,888 - Shot 45331 expected in dt: 3.6 s\
-2021-10-19 15:25:49,884 - Shot 45331 expected in dt: 4.6 s\
-2021-10-19 15:25:48,818 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-19 15:25:48,818 - Shot 45331 expected in dt: 5.7 s\
-2021-10-19 15:25:47,813 - Shot 45331 expected in dt: 6.7 s\
-2021-10-19 15:25:45,795 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 15:25:41,492 - Shot 45331 expected in dt: 13.0 s\
-2021-10-19 15:25:40,490 - In state "Trigger" for shot 45331\
-2021-10-19 15:24:54,256 - Shot 45331 expected in dt: 0.4 s\
-2021-10-19 15:24:53,249 - Shot 45331 expected in dt: 1.4 s\
-2021-10-19 15:24:52,244 - Shot 45331 expected in dt: 2.4 s\
-2021-10-19 15:24:51,242 - Shot 45331 expected in dt: 3.4 s\
-2021-10-19 15:24:50,237 - Shot 45331 expected in dt: 4.4 s\
-2021-10-19 15:24:49,235 - Shot 45331 expected in dt: 5.4 s\
-2021-10-19 15:24:48,227 - Shot 45331 expected in dt: 6.4 s\
-2021-10-19 15:24:39,175 - Shot 45331 expected in dt: 15.5 s\
-2021-10-19 15:24:29,138 - Shot 45331 expected in dt: 25.5 s\
-2021-10-19 15:24:19,081 - Shot 45331 expected in dt: 35.5 s\
-2021-10-19 15:24:09,033 - Shot 45331 expected in dt: 45.6 s\
-2021-10-19 15:23:58,974 - Shot 45331 expected in dt: 55.7 s\
-2021-10-19 15:23:48,935 - Shot 45331 expected in dt: 65.7 s\
-2021-10-19 15:23:38,895 - Shot 45331 expected in dt: 75.7 s\
-2021-10-19 15:23:28,842 - Shot 45331 expected in dt: 85.8 s\
