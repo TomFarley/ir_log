@@ -1,3 +1,18 @@
+2021-10-19 09:33:56,246 - Shot 45318 expected in dt: 13.1 s\
+2021-10-19 09:33:55,242 - In state "Trigger" for shot 45318\
+2021-10-19 09:33:55,240 - Shot 45318 expected in dt: 3.5 s\
+2021-10-19 09:33:54,238 - Shot 45318 expected in dt: 4.5 s\
+2021-10-19 09:33:53,220 - Shot 45318 expected in dt: 5.5 s\
+2021-10-19 09:33:52,218 - Shot 45318 expected in dt: 6.5 s\
+2021-10-19 09:33:50,207 - Shot 45318 expected in dt: 8.5 s\
+2021-10-19 09:33:40,142 - Shot 45318 expected in dt: 18.6 s\
+2021-10-19 09:33:30,075 - Shot 45318 expected in dt: 28.6 s\
+2021-10-19 09:33:20,019 - Shot 45318 expected in dt: 38.7 s\
+2021-10-19 09:33:09,964 - Shot 45318 expected in dt: 48.7 s\
+2021-10-19 09:32:59,926 - Shot 45318 expected in dt: 58.8 s\
+2021-10-19 09:32:49,862 - Shot 45318 expected in dt: 68.8 s\
+2021-10-19 09:32:39,817 - Shot 45318 expected in dt: 78.9 s\
+2021-10-19 09:32:29,764 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 09:32:26,283 - Shot 45318 expected in dt: 92.4 s\
 2021-10-19 09:32:25,278 - ========== Shot number changed to 45318. State: "PreShot" ==========\
 2021-10-19 09:32:00,267 - In state "Run" for shot 45317\
@@ -283,18 +298,3 @@
 2021-10-15 14:21:49,982 - Recording should finish in dt: 5.9 s\
 2021-10-15 14:21:45,951 - Shot 45312 expected in dt: 0.9 s\
 2021-10-15 14:21:44,939 - Shot 45312 expected in dt: 1.9 s\
-2021-10-15 14:21:43,925 - Shot 45312 expected in dt: 2.9 s\
-2021-10-15 14:21:42,924 - Shot 45312 expected in dt: 3.9 s\
-2021-10-15 14:21:41,922 - Shot 45312 expected in dt: 4.9 s\
-2021-10-15 14:21:40,892 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-15 14:21:40,891 - Shot 45312 expected in dt: 5.9 s\
-2021-10-15 14:21:39,884 - Shot 45312 expected in dt: 7.0 s\
-2021-10-15 14:21:36,868 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 14:21:33,588 - Shot 45312 expected in dt: 13.3 s\
-2021-10-15 14:21:32,585 - In state "Trigger" for shot 45312\
-2021-10-15 14:21:26,558 - Shot 45312 expected in dt: 14.7 s\
-2021-10-15 14:21:16,515 - Shot 45312 expected in dt: 24.8 s\
-2021-10-15 14:21:06,464 - Shot 45312 expected in dt: 34.8 s\
-2021-10-15 14:20:56,401 - Shot 45312 expected in dt: 44.9 s\
-2021-10-15 14:20:46,357 - Shot 45312 expected in dt: 54.9 s\
-2021-10-15 14:20:36,315 - Shot 45312 expected in dt: 65.0 s\
