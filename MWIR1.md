@@ -1,3 +1,14 @@
+2021-10-19 18:46:36,126 - Shot 45338 expected in dt: 13.5 s\
+2021-10-19 18:46:35,113 - In state "Trigger" for shot 45338\
+2021-10-19 18:46:28,063 - Shot 45338 expected in dt: 16.2 s\
+2021-10-19 18:46:18,037 - Shot 45338 expected in dt: 26.2 s\
+2021-10-19 18:46:07,970 - Shot 45338 expected in dt: 36.3 s\
+2021-10-19 18:45:57,878 - Shot 45338 expected in dt: 46.4 s\
+2021-10-19 18:45:47,792 - Shot 45338 expected in dt: 56.5 s\
+2021-10-19 18:45:37,755 - Shot 45338 expected in dt: 66.5 s\
+2021-10-19 18:45:27,692 - Shot 45338 expected in dt: 76.6 s\
+2021-10-19 18:45:17,642 - Shot 45338 expected in dt: 86.6 s\
+2021-10-19 18:45:09,584 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 18:45:05,853 - Shot 45338 expected in dt: 98.4 s\
 2021-10-19 18:45:04,839 - ========== Shot number changed to 45338. State: "PreShot" ==========\
 2021-10-19 18:44:39,831 - In state "Run" for shot 45337\
@@ -287,14 +298,3 @@
 2021-10-19 15:23:48,935 - Shot 45331 expected in dt: 65.7 s\
 2021-10-19 15:23:38,895 - Shot 45331 expected in dt: 75.7 s\
 2021-10-19 15:23:28,842 - Shot 45331 expected in dt: 85.8 s\
-2021-10-19 15:23:25,818 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 15:23:21,345 - Shot 45331 expected in dt: 93.3 s\
-2021-10-19 15:23:20,330 - ========== Shot number changed to 45331. State: "PreShot" ==========\
-2021-10-19 15:22:55,314 - In state "Run" for shot 45330\
-2021-10-19 14:55:24,789 - Re-arming MWIR1\
-2021-10-19 14:54:59,786 - In state "PostShot" for shot 45330\
-2021-10-19 14:54:52,730 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 14:54:47,510 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
-2021-10-19 14:54:47,094 - SW_beam_dump: Renaming latest file from "000041.seq" to "045330.seq"\
-2021-10-19 14:54:47,094 - SW_beam_dump: File "000041.seq" for shot 41 (45330 expected) saved 7.7 s ago\
-2021-10-19 14:54:47,091 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19" and copied file back to "auto_export"\
