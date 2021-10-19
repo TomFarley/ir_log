@@ -1,3 +1,15 @@
+2021-10-19 10:44:14,272 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45321.RAW" (after failing to move it there)\
+2021-10-19 10:44:12,680 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 10:44:12,249 - LWIR1: File "45321.RAW" for shot 45321 (45321 expected) saved 0.9 s ago\
+2021-10-19 10:44:12,248 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45321.RAW (file confirmed to exist)\
+2021-10-19 10:43:49,680 - Shot 45321 expected in dt: 0.3 s\
+2021-10-19 10:43:48,679 - Shot 45321 expected in dt: 1.3 s\
+2021-10-19 10:43:47,678 - Shot 45321 expected in dt: 2.3 s\
+2021-10-19 10:43:46,677 - Shot 45321 expected in dt: 3.3 s\
+2021-10-19 10:43:45,676 - Shot 45321 expected in dt: 4.3 s\
+2021-10-19 10:43:44,674 - Shot 45321 expected in dt: 5.3 s\
+2021-10-19 10:43:43,673 - Shot 45321 expected in dt: 6.3 s\
+2021-10-19 10:43:40,670 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 10:43:36,654 - Shot 45321 expected in dt: 13.4 s\
 2021-10-19 10:43:35,653 - In state "Trigger" for shot 45321\
 2021-10-19 10:42:12,569 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-15 12:48:06,353 - In state "PostShot" for shot 45308\
 2021-10-15 12:48:06,351 - Shot 45308 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
 2021-10-15 12:47:41,350 - In state "Abort" for shot 45308\
-2021-10-15 12:47:41,348 - Shot 45308 expected in dt: 5.4 s\
-2021-10-15 12:47:40,346 - Shot 45308 expected in dt: 6.4 s\
-2021-10-15 12:46:23,204 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-15 12:46:18,452 - Shot 45308 expected in dt: 88.3 s\
-2021-10-15 12:46:18,452 - A shot has been missed! Last recorded shot was 45306\
-2021-10-15 12:46:17,451 - ========== Shot number changed to 45308. State: "PreShot" ==========\
-2021-10-15 12:45:52,447 - In state "Run" for shot 45307\
-2021-10-15 12:44:37,444 - In state "PostShot" for shot 45307\
-2021-10-15 12:44:37,442 - Shot 45307 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
-2021-10-15 12:44:12,440 - In state "Abort" for shot 45307\
-2021-10-15 12:43:35,374 - Shot 45307 expected in dt: 1.0 s\
-2021-10-15 12:43:34,373 - Shot 45307 expected in dt: 2.0 s\
