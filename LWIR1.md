@@ -1,3 +1,8 @@
+2021-10-19 19:50:11,726 - Shot 45341 expected in dt: 103.0 s\
+2021-10-19 19:50:10,725 - ========== Shot number changed to 45341. State: "PreShot" ==========\
+2021-10-19 19:49:45,723 - In state "Run" for shot 45340\
+2021-10-19 19:25:10,660 - In state "PostShot" for shot 45340\
+2021-10-19 19:25:08,658 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 19:25:04,564 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45340.RAW" (after failing to move it there)\
 2021-10-19 19:25:02,854 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19" and copied file back to "auto_export"\
 2021-10-19 19:25:02,346 - LWIR1: File "45340.RAW" for shot 45340 (45340 expected) saved 1.3 s ago\
@@ -293,8 +298,3 @@
 2021-10-19 15:09:14,173 - In state "UNDEFINED" for shot\
 2021-10-19 15:09:14,172 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 15:09:10,426 - ========== Ready for shot None in state "UNDEFINED" ==========\
-2021-10-19 15:09:09,967 - Re-arming LWIR1\
-2021-10-19 15:09:09,944 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-19 15:09:09,943 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
-2021-10-19 15:09:09,943 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-19 15:09:09,942 - **Starting camera automation for cameras: LWIR1**\
