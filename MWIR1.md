@@ -1,3 +1,25 @@
+2021-10-19 12:22:23,236 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 12:22:22,193 - SW_beam_dump: Renaming latest file from "000026.seq" to "045325.seq"\
+2021-10-19 12:22:22,192 - SW_beam_dump: File "000026.seq" for shot 26 (45325 expected) saved 7.3 s ago\
+2021-10-19 12:22:22,190 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 12:22:21,668 - Px_protection: Renaming latest file from "000025.seq" to "045325.seq"\
+2021-10-19 12:22:21,666 - Px_protection: File "000025.seq" for shot 25 (45325 expected) saved 6.5 s ago\
+2021-10-19 12:22:21,659 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19\045325.ats" (after failing to move it there)\
+2021-10-19 12:22:19,876 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 12:22:19,338 - MWIR1: Renaming latest file from "000024.ats" to "045325.ats"\
+2021-10-19 12:22:19,338 - MWIR1: File "000024.ats" for shot 24 (45325 expected) saved 9.1 s ago\
+2021-10-19 12:22:13,256 - Recording should finish in dt: 0.3 s\
+2021-10-19 12:22:12,246 - Recording should finish in dt: 1.3 s\
+2021-10-19 12:22:10,223 - Recording should finish in dt: 3.3 s\
+2021-10-19 12:22:04,169 - Shot 45325 expected in dt: 0.3 s\
+2021-10-19 12:22:03,153 - Shot 45325 expected in dt: 1.4 s\
+2021-10-19 12:22:02,144 - Shot 45325 expected in dt: 2.4 s\
+2021-10-19 12:22:01,133 - Shot 45325 expected in dt: 3.4 s\
+2021-10-19 12:22:00,127 - Shot 45325 expected in dt: 4.4 s\
+2021-10-19 12:21:59,072 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-19 12:21:59,072 - Shot 45325 expected in dt: 5.4 s\
+2021-10-19 12:21:58,067 - Shot 45325 expected in dt: 6.4 s\
+2021-10-19 12:21:54,041 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 12:21:50,573 - Shot 45325 expected in dt: 13.9 s\
 2021-10-19 12:21:49,570 - In state "Trigger" for shot 45325\
 2021-10-19 12:21:46,560 - Shot 45325 expected in dt: 12.5 s\
@@ -276,25 +298,3 @@
 2021-10-19 09:33:53,220 - Shot 45318 expected in dt: 5.5 s\
 2021-10-19 09:33:52,218 - Shot 45318 expected in dt: 6.5 s\
 2021-10-19 09:33:50,207 - Shot 45318 expected in dt: 8.5 s\
-2021-10-19 09:33:40,142 - Shot 45318 expected in dt: 18.6 s\
-2021-10-19 09:33:30,075 - Shot 45318 expected in dt: 28.6 s\
-2021-10-19 09:33:20,019 - Shot 45318 expected in dt: 38.7 s\
-2021-10-19 09:33:09,964 - Shot 45318 expected in dt: 48.7 s\
-2021-10-19 09:32:59,926 - Shot 45318 expected in dt: 58.8 s\
-2021-10-19 09:32:49,862 - Shot 45318 expected in dt: 68.8 s\
-2021-10-19 09:32:39,817 - Shot 45318 expected in dt: 78.9 s\
-2021-10-19 09:32:29,764 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 09:32:26,283 - Shot 45318 expected in dt: 92.4 s\
-2021-10-19 09:32:25,278 - ========== Shot number changed to 45318. State: "PreShot" ==========\
-2021-10-19 09:32:00,267 - In state "Run" for shot 45317\
-2021-10-19 09:19:54,986 - Re-arming MWIR1\
-2021-10-19 09:19:29,976 - In state "PostShot" for shot 45317\
-2021-10-19 09:19:25,934 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 09:19:18,846 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
-2021-10-19 09:19:17,676 - SW_beam_dump: Renaming latest file from "000003.seq" to "045317.seq"\
-2021-10-19 09:19:17,675 - SW_beam_dump: File "000003.seq" for shot 3 (45317 expected) saved 8.6 s ago\
-2021-10-19 09:19:17,674 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19" and copied file back to "auto_export"\
-2021-10-19 09:19:16,395 - Px_protection: Renaming latest file from "000002.seq" to "045317.seq"\
-2021-10-19 09:19:16,393 - Px_protection: File "000002.seq" for shot 2 (45317 expected) saved 7.3 s ago\
-2021-10-19 09:19:16,381 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19\045317.ats" (after failing to move it there)\
-2021-10-19 09:19:14,193 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
