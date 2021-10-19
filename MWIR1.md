@@ -1,3 +1,14 @@
+2021-10-19 11:04:30,637 - Shot 45322 expected in dt: 13.1 s\
+2021-10-19 11:04:29,635 - In state "Trigger" for shot 45322\
+2021-10-19 11:04:23,600 - Shot 45322 expected in dt: 15.6 s\
+2021-10-19 11:04:13,546 - Shot 45322 expected in dt: 25.7 s\
+2021-10-19 11:04:03,482 - Shot 45322 expected in dt: 35.7 s\
+2021-10-19 11:03:53,434 - Shot 45322 expected in dt: 45.8 s\
+2021-10-19 11:03:43,384 - Shot 45322 expected in dt: 55.8 s\
+2021-10-19 11:03:33,320 - Shot 45322 expected in dt: 65.9 s\
+2021-10-19 11:03:23,264 - Shot 45322 expected in dt: 76.0 s\
+2021-10-19 11:03:13,211 - Shot 45322 expected in dt: 86.0 s\
+2021-10-19 11:03:09,193 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 11:03:05,736 - Shot 45322 expected in dt: 93.5 s\
 2021-10-19 11:03:04,729 - ========== Shot number changed to 45322. State: "PreShot" ==========\
 2021-10-19 11:02:39,714 - In state "Run" for shot 45321\
@@ -287,14 +298,3 @@
 2021-10-15 16:13:35,999 - MWIR1 file created at 2021-10-15 15:56:47.309248. Shot state change at 2021-10-15 16:11:26.900688. dt=-879.6 < 0\
 2021-10-15 16:13:35,999 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
 2021-10-15 16:13:35,998 - MWIR1: File "045315.ats" for shot 45315 (45316 expected) saved 1008.7 s ago\
-2021-10-15 16:13:35,997 - MWIR1: **Number of files, 13, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
-2021-10-15 16:13:29,960 - Recording should finish in dt: 0.5 s\
-2021-10-15 16:13:28,955 - Recording should finish in dt: 1.5 s\
-2021-10-15 16:13:22,896 - Recording should finish in dt: 7.5 s\
-2021-10-15 16:13:20,880 - Shot 45316 expected in dt: 0.5 s\
-2021-10-15 16:13:19,877 - Shot 45316 expected in dt: 1.5 s\
-2021-10-15 16:13:18,864 - Shot 45316 expected in dt: 2.6 s\
-2021-10-15 16:13:17,850 - Shot 45316 expected in dt: 3.6 s\
-2021-10-15 16:13:16,838 - Shot 45316 expected in dt: 4.6 s\
-2021-10-15 16:13:15,792 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-15 16:13:15,792 - Shot 45316 expected in dt: 5.6 s\
