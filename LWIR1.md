@@ -1,3 +1,6 @@
+2021-10-19 13:48:31,588 - Shot 45329 expected in dt: 13.1 s\
+2021-10-19 13:48:30,586 - In state "Trigger" for shot 45329\
+2021-10-19 13:47:26,519 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 13:47:22,118 - Shot 45329 expected in dt: 78.1 s\
 2021-10-19 13:47:21,117 - In state "PreShot" for shot 45329\
 2021-10-19 13:47:21,115 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -295,6 +298,3 @@
 2021-10-15 16:13:16,635 - Shot 45316 expected in dt: 5.0 s\
 2021-10-15 16:13:15,635 - Shot 45316 expected in dt: 6.0 s\
 2021-10-15 16:13:11,632 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-15 16:13:07,992 - Shot 45316 expected in dt: 13.7 s\
-2021-10-15 16:13:06,991 - In state "Trigger" for shot 45316\
-2021-10-15 16:13:06,989 - Shot 45316 expected in dt: 5.2 s\
