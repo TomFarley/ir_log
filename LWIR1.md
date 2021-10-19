@@ -1,3 +1,6 @@
+2021-10-19 18:46:36,444 - Shot 45338 expected in dt: 13.7 s\
+2021-10-19 18:46:35,443 - In state "Trigger" for shot 45338\
+2021-10-19 18:45:09,349 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 18:45:05,620 - Shot 45338 expected in dt: 99.2 s\
 2021-10-19 18:45:04,618 - ========== Shot number changed to 45338. State: "PreShot" ==========\
 2021-10-19 18:44:39,615 - In state "Run" for shot 45337\
@@ -295,6 +298,3 @@
 2021-10-19 13:47:17,567 - Shot 45329 expected in dt: 82.5 s\
 2021-10-19 13:46:52,566 - ========== Shot number changed to 45329. State: "Ready" ==========\
 2021-10-19 13:46:27,564 - In state "Run" for shot 45328\
-2021-10-19 13:29:45,086 - Re-arming LWIR1\
-2021-10-19 13:29:20,085 - In state "PostShot" for shot 45328\
-2021-10-19 13:29:19,084 - Pushed update to remote log: D:\ir_log\LWIR1.md\
