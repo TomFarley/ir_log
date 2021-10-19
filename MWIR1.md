@@ -1,3 +1,25 @@
+2021-10-19 11:05:15,625 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 11:05:14,169 - SW_beam_dump: Renaming latest file from "000017.seq" to "045322.seq"\
+2021-10-19 11:05:14,168 - SW_beam_dump: File "000017.seq" for shot 17 (45322 expected) saved 20.4 s ago\
+2021-10-19 11:05:14,165 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 11:05:13,209 - Px_protection: Renaming latest file from "000016.seq" to "045322.seq"\
+2021-10-19 11:05:13,208 - Px_protection: File "000016.seq" for shot 16 (45322 expected) saved 19.5 s ago\
+2021-10-19 11:05:13,202 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19\045322.ats" (after failing to move it there)\
+2021-10-19 11:04:58,909 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 11:04:58,297 - MWIR1: Renaming latest file from "000015.ats" to "045322.ats"\
+2021-10-19 11:04:58,297 - MWIR1: File "000015.ats" for shot 15 (45322 expected) saved 8.0 s ago\
+2021-10-19 11:04:52,234 - Recording should finish in dt: 0.5 s\
+2021-10-19 11:04:51,231 - Recording should finish in dt: 1.5 s\
+2021-10-19 11:04:47,186 - Recording should finish in dt: 5.6 s\
+2021-10-19 11:04:43,154 - Shot 45322 expected in dt: 0.6 s\
+2021-10-19 11:04:42,141 - Shot 45322 expected in dt: 1.6 s\
+2021-10-19 11:04:41,138 - Shot 45322 expected in dt: 2.6 s\
+2021-10-19 11:04:40,133 - Shot 45322 expected in dt: 3.6 s\
+2021-10-19 11:04:39,131 - Shot 45322 expected in dt: 4.6 s\
+2021-10-19 11:04:38,050 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-19 11:04:38,050 - Shot 45322 expected in dt: 5.7 s\
+2021-10-19 11:04:37,047 - Shot 45322 expected in dt: 6.7 s\
+2021-10-19 11:04:34,032 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 11:04:30,637 - Shot 45322 expected in dt: 13.1 s\
 2021-10-19 11:04:29,635 - In state "Trigger" for shot 45322\
 2021-10-19 11:04:23,600 - Shot 45322 expected in dt: 15.6 s\
@@ -276,25 +298,3 @@
 2021-10-15 16:28:01,082 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-15 16:27:57,701 - Shot 45316 expected in dt: 13.4 s\
 2021-10-15 16:27:56,698 - In state "Trigger" for shot 45316\
-2021-10-15 16:27:49,667 - Shot 45316 expected in dt: 22.0 s\
-2021-10-15 16:27:39,616 - Shot 45316 expected in dt: 32.1 s\
-2021-10-15 16:27:29,572 - Shot 45316 expected in dt: 42.1 s\
-2021-10-15 16:27:19,521 - Shot 45316 expected in dt: 52.2 s\
-2021-10-15 16:27:09,466 - Shot 45316 expected in dt: 62.2 s\
-2021-10-15 16:26:59,410 - Shot 45316 expected in dt: 72.3 s\
-2021-10-15 16:26:55,392 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 16:26:52,168 - Shot 45316 expected in dt: 79.5 s\
-2021-10-15 16:26:51,157 - In state "PreShot" for shot 45316\
-2021-10-15 16:26:51,156 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 16:26:46,927 - Shot 45316 expected in dt: 79.5 s\
-2021-10-15 16:26:21,915 - In state "Ready" for shot 45316\
-2021-10-15 16:14:16,671 - Re-arming MWIR1\
-2021-10-15 16:13:51,661 - In state "PostShot" for shot 45316\
-2021-10-15 16:13:40,601 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 16:13:36,930 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 16:13:36,003 - Px_protection: Renaming latest file from "000083.seq" to "045316.seq"\
-2021-10-15 16:13:36,002 - Px_protection: File "000083.seq" for shot 83 (45316 expected) saved 4.6 s ago\
-2021-10-15 16:13:35,999 - MWIR1: **Didn't copy file as rename success = False**\
-2021-10-15 16:13:35,999 - MWIR1 file created at 2021-10-15 15:56:47.309248. Shot state change at 2021-10-15 16:11:26.900688. dt=-879.6 < 0\
-2021-10-15 16:13:35,999 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-15 16:13:35,998 - MWIR1: File "045315.ats" for shot 45315 (45316 expected) saved 1008.7 s ago\
