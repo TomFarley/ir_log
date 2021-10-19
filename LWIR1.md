@@ -1,3 +1,9 @@
+2021-10-19 13:06:58,126 - Shot 45327 expected in dt: 82.1 s\
+2021-10-19 13:06:33,120 - ========== Shot number changed to 45327. State: "Ready" ==========\
+2021-10-19 13:05:18,115 - In state "Run" for shot 45326\
+2021-10-19 12:44:50,592 - Re-arming LWIR1\
+2021-10-19 12:44:25,591 - In state "PostShot" for shot 45326\
+2021-10-19 12:44:22,584 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 12:44:18,284 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45326.RAW" (after failing to move it there)\
 2021-10-19 12:44:16,780 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19" and copied file back to "auto_export"\
 2021-10-19 12:44:16,229 - LWIR1: File "45326.RAW" for shot 45326 (45326 expected) saved 0.9 s ago\
@@ -292,9 +298,3 @@
 2021-10-15 15:12:34,108 - ========== Shot number changed to 45314. State: "PreShot" ==========\
 2021-10-15 15:12:09,106 - In state "Run" for shot 45313\
 2021-10-15 14:50:01,596 - Re-arming LWIR1\
-2021-10-15 14:49:36,595 - In state "PostShot" for shot 45313\
-2021-10-15 14:49:35,592 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-15 14:49:31,216 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-15\45313.RAW" (after failing to move it there)\
-2021-10-15 14:49:29,723 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-15" and copied file back to "auto_export"\
-2021-10-15 14:49:29,273 - LWIR1: File "45313.RAW" for shot 45313 (45313 expected) saved 1.0 s ago\
-2021-10-15 14:49:29,271 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45313.RAW (file confirmed to exist)\
