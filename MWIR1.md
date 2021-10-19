@@ -1,3 +1,13 @@
+2021-10-19 13:28:36,473 - Shot 45328 expected in dt: 13.1 s\
+2021-10-19 13:28:35,468 - In state "Trigger" for shot 45328\
+2021-10-19 13:28:27,412 - Shot 45328 expected in dt: 16.7 s\
+2021-10-19 13:28:17,370 - Shot 45328 expected in dt: 26.8 s\
+2021-10-19 13:28:07,301 - Shot 45328 expected in dt: 36.8 s\
+2021-10-19 13:27:57,242 - Shot 45328 expected in dt: 46.9 s\
+2021-10-19 13:27:47,191 - Shot 45328 expected in dt: 56.9 s\
+2021-10-19 13:27:37,133 - Shot 45328 expected in dt: 67.0 s\
+2021-10-19 13:27:27,088 - Shot 45328 expected in dt: 77.0 s\
+2021-10-19 13:27:22,043 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 13:27:15,857 - Shot 45328 expected in dt: 88.3 s\
 2021-10-19 13:27:14,852 - ========== Shot number changed to 45328. State: "PreShot" ==========\
 2021-10-19 13:26:24,831 - In state "Run" for shot 45327\
@@ -288,13 +298,3 @@
 2021-10-19 10:22:41,643 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19\045320.ats" (after failing to move it there)\
 2021-10-19 10:22:39,893 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
 2021-10-19 10:22:39,342 - MWIR1: Renaming latest file from "000010.ats" to "045320.ats"\
-2021-10-19 10:22:39,341 - MWIR1: File "000010.ats" for shot 10 (45320 expected) saved 8.6 s ago\
-2021-10-19 10:22:33,260 - Recording should finish in dt: 0.1 s\
-2021-10-19 10:22:32,241 - Recording should finish in dt: 1.1 s\
-2021-10-19 10:22:24,201 - Shot 45320 expected in dt: 0.1 s\
-2021-10-19 10:22:23,199 - Shot 45320 expected in dt: 1.1 s\
-2021-10-19 10:22:22,195 - Shot 45320 expected in dt: 2.1 s\
-2021-10-19 10:22:21,191 - Shot 45320 expected in dt: 3.1 s\
-2021-10-19 10:22:20,190 - Shot 45320 expected in dt: 4.1 s\
-2021-10-19 10:22:19,116 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-19 10:22:19,114 - Shot 45320 expected in dt: 5.2 s\
