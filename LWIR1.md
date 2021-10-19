@@ -1,3 +1,14 @@
+2021-10-19 15:19:04,490 - ========== Ready for shot 45331 in state "PostShot" ==========\
+2021-10-19 15:19:04,044 - Re-arming LWIR1\
+2021-10-19 15:19:04,021 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-19 15:19:04,020 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
+2021-10-19 15:19:04,019 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-19 15:19:04,018 - **Starting camera automation for cameras: LWIR1**\
+2021-10-19 15:19:04,017 - Starting automation on "H0012" PC\
+2021-10-19 15:15:33,875 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
+2021-10-19 15:15:33,849 - >>> CTRL+C <<<\
+2021-10-19 15:13:09,187 - In state "PostShot" for shot 45330\
+2021-10-19 15:13:09,185 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 15:13:05,478 - ========== Ready for shot 45331 in state "PostShot" ==========\
 2021-10-19 15:13:05,066 - Re-arming LWIR1\
 2021-10-19 15:13:05,044 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
@@ -287,14 +298,3 @@
 2021-10-19 09:57:23,568 - Shot 45319 expected in dt: 2.1 s\
 2021-10-19 09:57:22,567 - Shot 45319 expected in dt: 3.1 s\
 2021-10-19 09:57:21,564 - Shot 45319 expected in dt: 4.1 s\
-2021-10-19 09:57:20,563 - Shot 45319 expected in dt: 5.1 s\
-2021-10-19 09:57:19,561 - Shot 45319 expected in dt: 6.1 s\
-2021-10-19 09:57:16,555 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 09:57:12,633 - Shot 45319 expected in dt: 13.0 s\
-2021-10-19 09:57:11,633 - In state "Trigger" for shot 45319\
-2021-10-19 09:55:56,543 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 09:55:52,793 - Shot 45319 expected in dt: 87.2 s\
-2021-10-19 09:55:51,792 - In state "PreShot" for shot 45319\
-2021-10-19 09:55:26,791 - ========== Shot number changed to 45319. State: "Run" ==========\
-2021-10-19 09:42:56,762 - In state "PostShot" for shot 45318\
-2021-10-19 09:42:56,760 - Pushed update to remote log: D:\ir_log\LWIR1.md\
