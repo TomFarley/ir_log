@@ -1,3 +1,14 @@
+2021-10-19 19:52:24,565 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45341.RAW" (after failing to move it there)\
+2021-10-19 19:52:22,986 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 19:52:22,529 - LWIR1: File "45341.RAW" for shot 45341 (45341 expected) saved 1.4 s ago\
+2021-10-19 19:52:22,526 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45341.RAW (file confirmed to exist)\
+2021-10-19 19:52:00,073 - Shot 45341 expected in dt: 0.2 s\
+2021-10-19 19:51:59,071 - Shot 45341 expected in dt: 1.2 s\
+2021-10-19 19:51:58,070 - Shot 45341 expected in dt: 2.2 s\
+2021-10-19 19:51:54,561 - Re-arming LWIR1\
+2021-10-19 19:51:54,561 - Shot 45341 expected in dt: 5.7 s\
+2021-10-19 19:51:53,561 - Shot 45341 expected in dt: 6.7 s\
+2021-10-19 19:51:50,559 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 19:51:46,735 - Shot 45341 expected in dt: 13.5 s\
 2021-10-19 19:51:45,734 - In state "Trigger" for shot 45341\
 2021-10-19 19:50:15,647 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -287,14 +298,3 @@
 2021-10-19 15:12:50,843 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
 2021-10-19 15:12:50,843 - **Starting camera automation for cameras: LWIR1**\
 2021-10-19 15:12:50,843 - Starting automation on "H0012" PC\
-2021-10-19 15:10:15,176 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-19 15:10:15,132 - >>> CTRL+C <<<\
-2021-10-19 15:10:09,126 - In state "UNDEFINED" for shot\
-2021-10-19 15:10:09,124 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 15:10:04,635 - ========== Ready for shot None in state "UNDEFINED" ==========\
-2021-10-19 15:10:04,207 - Re-arming LWIR1\
-2021-10-19 15:10:04,190 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-19 15:10:04,188 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
-2021-10-19 15:10:04,187 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-19 15:10:04,186 - **Starting camera automation for cameras: LWIR1**\
-2021-10-19 15:10:04,186 - Starting automation on "H0012" PC\
