@@ -1,3 +1,14 @@
+2021-10-19 15:12:51,295 - ========== Ready for shot 45331 in state "PostShot" ==========\
+2021-10-19 15:12:50,874 - Re-arming LWIR1\
+2021-10-19 15:12:50,845 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-19 15:12:50,844 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
+2021-10-19 15:12:50,843 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-19 15:12:50,843 - **Starting camera automation for cameras: LWIR1**\
+2021-10-19 15:12:50,843 - Starting automation on "H0012" PC\
+2021-10-19 15:10:15,176 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
+2021-10-19 15:10:15,132 - >>> CTRL+C <<<\
+2021-10-19 15:10:09,126 - In state "UNDEFINED" for shot\
+2021-10-19 15:10:09,124 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 15:10:04,635 - ========== Ready for shot None in state "UNDEFINED" ==========\
 2021-10-19 15:10:04,207 - Re-arming LWIR1\
 2021-10-19 15:10:04,190 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
@@ -287,14 +298,3 @@
 2021-10-19 09:42:40,963 - Starting automation on "H0012" PC\
 2021-10-19 09:42:33,417 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
 2021-10-19 09:42:33,297 - >>> CTRL+C <<<\
-2021-10-19 07:56:36,019 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19"\
-2021-10-19 07:56:16,842 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-19 07:56:16,841 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19"\
-2021-10-19 07:55:26,837 - ========== Waiting for shot 45317. State: "PostShot" ==========\
-2021-10-19 07:55:26,837 - >>> GOOD MORNING <<<\
-2021-10-18 20:15:01,816 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
-2021-10-18 07:58:45,290 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-18"\
-2021-10-18 07:58:26,263 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-18 07:58:26,261 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-18"\
-2021-10-18 07:55:31,253 - ========== Waiting for shot 45317. State: "PostShot" ==========\
-2021-10-18 07:55:31,251 - >>> GOOD MORNING <<<\
