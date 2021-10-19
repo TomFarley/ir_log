@@ -1,3 +1,12 @@
+2021-10-19 15:13:05,478 - ========== Ready for shot 45331 in state "PostShot" ==========\
+2021-10-19 15:13:05,066 - Re-arming LWIR1\
+2021-10-19 15:13:05,044 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-19 15:13:05,043 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
+2021-10-19 15:13:05,042 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-19 15:13:05,041 - **Starting camera automation for cameras: LWIR1**\
+2021-10-19 15:13:05,041 - Starting automation on "H0012" PC\
+2021-10-19 15:12:55,214 - In state "PostShot" for shot 45330\
+2021-10-19 15:12:55,213 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 15:12:51,295 - ========== Ready for shot 45331 in state "PostShot" ==========\
 2021-10-19 15:12:50,874 - Re-arming LWIR1\
 2021-10-19 15:12:50,845 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
@@ -289,12 +298,3 @@
 2021-10-19 09:55:26,791 - ========== Shot number changed to 45319. State: "Run" ==========\
 2021-10-19 09:42:56,762 - In state "PostShot" for shot 45318\
 2021-10-19 09:42:56,760 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 09:42:49,380 - ========== Ready for shot 45319 in state "PostShot" ==========\
-2021-10-19 09:42:40,991 - Re-arming LWIR1\
-2021-10-19 09:42:40,969 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-19 09:42:40,967 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
-2021-10-19 09:42:40,966 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-19 09:42:40,964 - **Starting camera automation for cameras: LWIR1**\
-2021-10-19 09:42:40,963 - Starting automation on "H0012" PC\
-2021-10-19 09:42:33,417 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-19 09:42:33,297 - >>> CTRL+C <<<\
