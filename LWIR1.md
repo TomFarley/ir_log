@@ -1,3 +1,14 @@
+2021-10-19 18:54:49,340 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45339.RAW" (after failing to move it there)\
+2021-10-19 18:54:47,719 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 18:54:47,172 - LWIR1: File "45339.RAW" for shot 45339 (45339 expected) saved 1.4 s ago\
+2021-10-19 18:54:47,169 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45339.RAW (file confirmed to exist)\
+2021-10-19 18:54:24,704 - Shot 45339 expected in dt: 0.2 s\
+2021-10-19 18:54:23,704 - Shot 45339 expected in dt: 1.2 s\
+2021-10-19 18:54:22,703 - Shot 45339 expected in dt: 2.2 s\
+2021-10-19 18:54:19,287 - Re-arming LWIR1\
+2021-10-19 18:54:19,286 - Shot 45339 expected in dt: 5.7 s\
+2021-10-19 18:54:18,285 - Shot 45339 expected in dt: 6.7 s\
+2021-10-19 18:54:15,280 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 18:54:11,776 - Shot 45339 expected in dt: 13.2 s\
 2021-10-19 18:54:10,775 - In state "Trigger" for shot 45339\
 2021-10-19 18:52:50,693 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -287,14 +298,3 @@
 2021-10-19 14:54:21,660 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 14:54:16,330 - Shot 45330 expected in dt: 13.6 s\
 2021-10-19 14:54:15,328 - In state "Trigger" for shot 45330\
-2021-10-19 14:53:15,268 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 14:53:10,777 - Shot 45330 expected in dt: 73.9 s\
-2021-10-19 14:53:09,776 - In state "PreShot" for shot 45330\
-2021-10-19 14:53:09,774 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 14:53:02,648 - Shot 45330 expected in dt: 81.9 s\
-2021-10-19 14:52:37,647 - ========== Shot number changed to 45330. State: "Ready" ==========\
-2021-10-19 14:51:47,644 - In state "Run" for shot 45329\
-2021-10-19 13:49:40,039 - Re-arming LWIR1\
-2021-10-19 13:49:15,038 - In state "PostShot" for shot 45329\
-2021-10-19 13:49:13,031 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 13:49:09,927 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45329.RAW" (after failing to move it there)\
