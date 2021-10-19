@@ -1,3 +1,6 @@
+2021-10-19 19:51:46,735 - Shot 45341 expected in dt: 13.5 s\
+2021-10-19 19:51:45,734 - In state "Trigger" for shot 45341\
+2021-10-19 19:50:15,647 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 19:50:11,726 - Shot 45341 expected in dt: 103.0 s\
 2021-10-19 19:50:10,725 - ========== Shot number changed to 45341. State: "PreShot" ==========\
 2021-10-19 19:49:45,723 - In state "Run" for shot 45340\
@@ -295,6 +298,3 @@
 2021-10-19 15:10:04,187 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
 2021-10-19 15:10:04,186 - **Starting camera automation for cameras: LWIR1**\
 2021-10-19 15:10:04,186 - Starting automation on "H0012" PC\
-2021-10-19 15:09:14,173 - In state "UNDEFINED" for shot\
-2021-10-19 15:09:14,172 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 15:09:10,426 - ========== Ready for shot None in state "UNDEFINED" ==========\
