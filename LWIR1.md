@@ -1,3 +1,12 @@
+2021-10-19 15:10:04,635 - ========== Ready for shot None in state "UNDEFINED" ==========\
+2021-10-19 15:10:04,207 - Re-arming LWIR1\
+2021-10-19 15:10:04,190 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-19 15:10:04,188 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
+2021-10-19 15:10:04,187 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-19 15:10:04,186 - **Starting camera automation for cameras: LWIR1**\
+2021-10-19 15:10:04,186 - Starting automation on "H0012" PC\
+2021-10-19 15:09:14,173 - In state "UNDEFINED" for shot\
+2021-10-19 15:09:14,172 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 15:09:10,426 - ========== Ready for shot None in state "UNDEFINED" ==========\
 2021-10-19 15:09:09,967 - Re-arming LWIR1\
 2021-10-19 15:09:09,944 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
@@ -289,12 +298,3 @@
 2021-10-18 07:58:26,261 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-18"\
 2021-10-18 07:55:31,253 - ========== Waiting for shot 45317. State: "PostShot" ==========\
 2021-10-18 07:55:31,251 - >>> GOOD MORNING <<<\
-2021-10-16 20:15:06,322 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
-2021-10-16 07:58:24,756 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-16"\
-2021-10-16 07:58:05,602 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-16 07:58:05,101 - Moved 14 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45301.RAW', '45302.RAW', '45303.RAW', '45304.RAW', '45305.RAW', '45306.RAW', '45309.RAW', '45310.RAW', '45311.RAW', '45312.RAW', '45313.RAW', '45314.RAW', '45315.RAW', '45316.RAW']\
-2021-10-16 07:58:05,088 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-16"\
-2021-10-16 07:55:35,080 - ========== Waiting for shot 45317. State: "PostShot" ==========\
-2021-10-16 07:55:35,078 - >>> GOOD MORNING <<<\
-2021-10-15 20:15:10,087 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
-2021-10-15 16:29:17,157 - Re-arming LWIR1\
