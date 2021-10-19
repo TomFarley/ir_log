@@ -1,3 +1,8 @@
+2021-10-19 15:51:02,615 - Shot 45332 expected in dt: 101.9 s\
+2021-10-19 15:51:01,613 - ========== Shot number changed to 45332. State: "PreShot" ==========\
+2021-10-19 15:50:36,611 - In state "Run" for shot 45331\
+2021-10-19 15:28:06,557 - In state "PostShot" for shot 45331\
+2021-10-19 15:28:06,555 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 15:28:01,845 - ========== Ready for shot 45332 in state "PostShot" ==========\
 2021-10-19 15:28:01,396 - Re-arming LWIR1\
 2021-10-19 15:28:01,376 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
@@ -293,8 +298,3 @@
 2021-10-19 10:43:49,680 - Shot 45321 expected in dt: 0.3 s\
 2021-10-19 10:43:48,679 - Shot 45321 expected in dt: 1.3 s\
 2021-10-19 10:43:47,678 - Shot 45321 expected in dt: 2.3 s\
-2021-10-19 10:43:46,677 - Shot 45321 expected in dt: 3.3 s\
-2021-10-19 10:43:45,676 - Shot 45321 expected in dt: 4.3 s\
-2021-10-19 10:43:44,674 - Shot 45321 expected in dt: 5.3 s\
-2021-10-19 10:43:43,673 - Shot 45321 expected in dt: 6.3 s\
-2021-10-19 10:43:40,670 - Pushed update to remote log: D:\ir_log\LWIR1.md\
