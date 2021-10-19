@@ -1,3 +1,10 @@
+2021-10-19 09:17:29,703 - Shot 45317 expected in dt: 84.2 s\
+2021-10-19 09:17:28,698 - In state "PreShot" for shot 45317\
+2021-10-19 09:17:03,681 - ========== Shot number changed to 45317. State: "Run" ==========\
+2021-10-19 09:16:38,670 - In state "Run" for shot 45316\
+2021-10-19 09:16:13,658 - In state "PostShot" for shot 45316\
+2021-10-19 09:13:43,598 - In state "PostShot" for shot 45316\
+2021-10-19 09:13:43,597 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 09:13:34,867 - ========== Ready for shot 45317 in state "PostShot" ==========\
 2021-10-19 09:13:34,818 - Re-arming MWIR1\
 2021-10-19 09:13:34,816 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19"\
@@ -291,10 +298,3 @@
 2021-10-15 13:42:50,663 - Shot 45311 expected in dt: 56.2 s\
 2021-10-15 13:42:40,612 - Shot 45311 expected in dt: 66.2 s\
 2021-10-15 13:42:30,567 - Shot 45311 expected in dt: 76.3 s\
-2021-10-15 13:42:20,527 - Shot 45311 expected in dt: 86.3 s\
-2021-10-15 13:42:10,466 - Shot 45311 expected in dt: 96.4 s\
-2021-10-15 13:42:08,451 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-15 13:42:04,171 - Shot 45311 expected in dt: 102.7 s\
-2021-10-15 13:42:03,169 - ========== Shot number changed to 45311. State: "PreShot" ==========\
-2021-10-15 13:41:38,164 - In state "Run" for shot 45310\
-2021-10-15 13:15:47,685 - Re-arming MWIR1\
