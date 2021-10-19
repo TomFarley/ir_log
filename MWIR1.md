@@ -1,3 +1,12 @@
+2021-10-19 12:00:20,030 - Shot 45324 expected in dt: 14.0 s\
+2021-10-19 12:00:19,022 - In state "Trigger" for shot 45324\
+2021-10-19 12:00:13,991 - Shot 45324 expected in dt: 15.6 s\
+2021-10-19 12:00:03,921 - Shot 45324 expected in dt: 25.7 s\
+2021-10-19 11:59:53,873 - Shot 45324 expected in dt: 35.7 s\
+2021-10-19 11:59:43,827 - Shot 45324 expected in dt: 45.8 s\
+2021-10-19 11:59:33,773 - Shot 45324 expected in dt: 55.8 s\
+2021-10-19 11:59:23,704 - Shot 45324 expected in dt: 65.9 s\
+2021-10-19 11:59:14,650 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 11:59:10,297 - Shot 45324 expected in dt: 79.3 s\
 2021-10-19 11:59:09,292 - In state "PreShot" for shot 45324\
 2021-10-19 11:58:44,287 - ========== Shot number changed to 45324. State: "Run" ==========\
@@ -289,12 +298,3 @@
 2021-10-19 09:13:34,270 - Moved 1 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": ['000086.seq']\
 2021-10-19 09:13:34,267 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19"\
 2021-10-19 09:13:34,266 - Moved previously exported files to D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup from D:\MAST-U_Operations\AIR-FLIR_1\auto_export\
-2021-10-19 09:13:34,266 - Created new directory "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19"\
-2021-10-19 09:13:34,265 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-19 09:13:34,264 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-19 09:13:34,264 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-19 09:13:34,263 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
-2021-10-19 09:13:34,262 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-19 09:13:34,261 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-19 09:13:34,261 - Starting automation on "MWIR-PC1" PC\
-2021-10-18 10:22:01,318 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
