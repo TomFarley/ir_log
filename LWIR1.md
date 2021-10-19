@@ -1,3 +1,15 @@
+2021-10-19 17:16:34,329 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45334.RAW" (after failing to move it there)\
+2021-10-19 17:16:32,470 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 17:16:31,991 - LWIR1: File "45334.RAW" for shot 45334 (45334 expected) saved 1.3 s ago\
+2021-10-19 17:16:31,989 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45334.RAW (file confirmed to exist)\
+2021-10-19 17:16:09,325 - Shot 45334 expected in dt: 0.5 s\
+2021-10-19 17:16:08,325 - Shot 45334 expected in dt: 1.5 s\
+2021-10-19 17:16:07,323 - Shot 45334 expected in dt: 2.5 s\
+2021-10-19 17:16:06,321 - Shot 45334 expected in dt: 3.6 s\
+2021-10-19 17:16:05,320 - Shot 45334 expected in dt: 4.6 s\
+2021-10-19 17:16:04,318 - Shot 45334 expected in dt: 5.6 s\
+2021-10-19 17:16:03,317 - Shot 45334 expected in dt: 6.6 s\
+2021-10-19 17:16:00,315 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 17:15:56,733 - Shot 45334 expected in dt: 13.1 s\
 2021-10-19 17:15:55,731 - In state "Trigger" for shot 45334\
 2021-10-19 17:14:29,637 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-19 12:19:52,419 - In state "Run" for shot 45324\
 2021-10-19 12:01:29,846 - Re-arming LWIR1\
 2021-10-19 12:01:04,844 - In state "PostShot" for shot 45324\
-2021-10-19 12:01:03,841 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 12:00:58,857 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-19\45324.RAW" (after failing to move it there)\
-2021-10-19 12:00:57,311 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-19" and copied file back to "auto_export"\
-2021-10-19 12:00:56,736 - LWIR1: File "45324.RAW" for shot 45324 (45324 expected) saved 1.0 s ago\
-2021-10-19 12:00:56,734 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45324.RAW (file confirmed to exist)\
-2021-10-19 12:00:34,085 - Shot 45324 expected in dt: 0.5 s\
-2021-10-19 12:00:33,083 - Shot 45324 expected in dt: 1.5 s\
-2021-10-19 12:00:32,082 - Shot 45324 expected in dt: 2.5 s\
-2021-10-19 12:00:31,080 - Shot 45324 expected in dt: 3.5 s\
-2021-10-19 12:00:30,079 - Shot 45324 expected in dt: 4.5 s\
-2021-10-19 12:00:29,077 - Shot 45324 expected in dt: 5.5 s\
-2021-10-19 12:00:28,076 - Shot 45324 expected in dt: 6.5 s\
