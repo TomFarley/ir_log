@@ -1,3 +1,10 @@
+2021-10-19 11:59:10,297 - Shot 45324 expected in dt: 79.3 s\
+2021-10-19 11:59:09,292 - In state "PreShot" for shot 45324\
+2021-10-19 11:58:44,287 - ========== Shot number changed to 45324. State: "Run" ==========\
+2021-10-19 11:58:19,279 - In state "Run" for shot 45323\
+2021-10-19 11:33:43,824 - Re-arming MWIR1\
+2021-10-19 11:33:18,794 - In state "PostShot" for shot 45323\
+2021-10-19 11:33:17,769 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 11:33:09,350 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
 2021-10-19 11:33:08,174 - SW_beam_dump: Renaming latest file from "000020.seq" to "045323.seq"\
 2021-10-19 11:33:08,173 - SW_beam_dump: File "000020.seq" for shot 20 (45323 expected) saved 8.2 s ago\
@@ -291,10 +298,3 @@
 2021-10-19 09:13:34,261 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
 2021-10-19 09:13:34,261 - Starting automation on "MWIR-PC1" PC\
 2021-10-18 10:22:01,318 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-18 10:22:01,298 - >>> CTRL+C <<<\
-2021-10-18 07:58:00,131 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-18"\
-2021-10-18 07:58:00,021 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
-2021-10-18 07:57:59,507 - Moved 0 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": []\
-2021-10-18 07:57:59,503 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-18"\
-2021-10-18 07:57:59,501 - Moved previously exported files to D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup from D:\MAST-U_Operations\AIR-FLIR_1\auto_export\
-2021-10-18 07:57:59,499 - Created new directory "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-18"\
