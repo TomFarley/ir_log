@@ -1,3 +1,15 @@
+2021-10-19 12:21:50,573 - Shot 45325 expected in dt: 13.9 s\
+2021-10-19 12:21:49,570 - In state "Trigger" for shot 45325\
+2021-10-19 12:21:46,560 - Shot 45325 expected in dt: 12.5 s\
+2021-10-19 12:21:36,509 - Shot 45325 expected in dt: 22.5 s\
+2021-10-19 12:21:26,420 - Shot 45325 expected in dt: 32.6 s\
+2021-10-19 12:21:16,374 - Shot 45325 expected in dt: 42.7 s\
+2021-10-19 12:21:06,324 - Shot 45325 expected in dt: 52.7 s\
+2021-10-19 12:20:56,284 - Shot 45325 expected in dt: 62.8 s\
+2021-10-19 12:20:46,241 - Shot 45325 expected in dt: 72.8 s\
+2021-10-19 12:20:36,184 - Shot 45325 expected in dt: 82.9 s\
+2021-10-19 12:20:26,141 - Shot 45325 expected in dt: 92.9 s\
+2021-10-19 12:20:20,103 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 12:20:15,894 - Shot 45325 expected in dt: 103.2 s\
 2021-10-19 12:20:14,890 - ========== Shot number changed to 45325. State: "PreShot" ==========\
 2021-10-19 12:19:49,885 - In state "Run" for shot 45324\
@@ -286,15 +298,3 @@
 2021-10-19 09:19:16,393 - Px_protection: File "000002.seq" for shot 2 (45317 expected) saved 7.3 s ago\
 2021-10-19 09:19:16,381 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19\045317.ats" (after failing to move it there)\
 2021-10-19 09:19:14,193 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
-2021-10-19 09:19:13,660 - MWIR1: Renaming latest file from "000001.ats" to "045317.ats"\
-2021-10-19 09:19:13,658 - MWIR1: File "000001.ats" for shot 1 (45317 expected) saved 11.3 s ago\
-2021-10-19 09:19:07,542 - Recording should finish in dt: 0.8 s\
-2021-10-19 09:19:06,538 - Recording should finish in dt: 1.8 s\
-2021-10-19 09:18:59,496 - Recording should finish in dt: 8.9 s\
-2021-10-19 09:18:58,491 - Shot 45317 expected in dt: 0.9 s\
-2021-10-19 09:18:57,489 - Shot 45317 expected in dt: 1.9 s\
-2021-10-19 09:18:56,485 - Shot 45317 expected in dt: 2.9 s\
-2021-10-19 09:18:55,471 - Shot 45317 expected in dt: 3.9 s\
-2021-10-19 09:18:54,469 - Shot 45317 expected in dt: 4.9 s\
-2021-10-19 09:18:53,393 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-19 09:18:53,392 - Shot 45317 expected in dt: 6.0 s\
