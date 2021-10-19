@@ -1,3 +1,9 @@
+2021-10-19 16:34:37,182 - Shot 45333 expected in dt: 96.9 s\
+2021-10-19 16:34:36,170 - ========== Shot number changed to 45333. State: "PreShot" ==========\
+2021-10-19 16:34:11,157 - In state "Run" for shot 45332\
+2021-10-19 15:53:45,383 - Re-arming MWIR1\
+2021-10-19 15:53:20,375 - In state "PostShot" for shot 45332\
+2021-10-19 15:53:18,345 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 15:53:12,922 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
 2021-10-19 15:53:12,248 - SW_beam_dump: Renaming latest file from "000047.seq" to "045332.seq"\
 2021-10-19 15:53:12,246 - SW_beam_dump: File "000047.seq" for shot 47 (45332 expected) saved 7.3 s ago\
@@ -292,9 +298,3 @@
 2021-10-19 12:22:19,876 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
 2021-10-19 12:22:19,338 - MWIR1: Renaming latest file from "000024.ats" to "045325.ats"\
 2021-10-19 12:22:19,338 - MWIR1: File "000024.ats" for shot 24 (45325 expected) saved 9.1 s ago\
-2021-10-19 12:22:13,256 - Recording should finish in dt: 0.3 s\
-2021-10-19 12:22:12,246 - Recording should finish in dt: 1.3 s\
-2021-10-19 12:22:10,223 - Recording should finish in dt: 3.3 s\
-2021-10-19 12:22:04,169 - Shot 45325 expected in dt: 0.3 s\
-2021-10-19 12:22:03,153 - Shot 45325 expected in dt: 1.4 s\
-2021-10-19 12:22:02,144 - Shot 45325 expected in dt: 2.4 s\
