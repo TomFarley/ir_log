@@ -1,3 +1,12 @@
+2021-10-19 13:08:10,622 - Shot 45327 expected in dt: 13.5 s\
+2021-10-19 13:08:09,621 - In state "Trigger" for shot 45327\
+2021-10-19 13:08:01,575 - Shot 45327 expected in dt: 17.3 s\
+2021-10-19 13:07:51,522 - Shot 45327 expected in dt: 27.3 s\
+2021-10-19 13:07:41,466 - Shot 45327 expected in dt: 37.4 s\
+2021-10-19 13:07:31,414 - Shot 45327 expected in dt: 47.4 s\
+2021-10-19 13:07:21,371 - Shot 45327 expected in dt: 57.5 s\
+2021-10-19 13:07:11,327 - Shot 45327 expected in dt: 67.5 s\
+2021-10-19 13:07:05,307 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 13:07:00,639 - Shot 45327 expected in dt: 78.2 s\
 2021-10-19 13:06:59,635 - In state "PreShot" for shot 45327\
 2021-10-19 13:06:59,634 - Pushed update to remote log: D:\ir_log\MWIR1.md\
@@ -289,12 +298,3 @@
 2021-10-19 09:57:41,439 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19\045319.ats" (after failing to move it there)\
 2021-10-19 09:57:39,733 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-19" and copied file back to "auto_export"\
 2021-10-19 09:57:39,186 - MWIR1: Renaming latest file from "000007.ats" to "045319.ats"\
-2021-10-19 09:57:39,185 - MWIR1: File "000007.ats" for shot 7 (45319 expected) saved 12.8 s ago\
-2021-10-19 09:57:33,139 - Recording should finish in dt: 1.0 s\
-2021-10-19 09:57:32,128 - Recording should finish in dt: 2.0 s\
-2021-10-19 09:57:25,055 - Shot 45319 expected in dt: 0.1 s\
-2021-10-19 09:57:24,047 - Shot 45319 expected in dt: 1.1 s\
-2021-10-19 09:57:23,033 - Shot 45319 expected in dt: 2.1 s\
-2021-10-19 09:57:22,033 - Shot 45319 expected in dt: 3.1 s\
-2021-10-19 09:57:21,019 - Shot 45319 expected in dt: 4.1 s\
-2021-10-19 09:57:19,942 - Starting protection cameras recording 6.0s before shot for 15.0s\
