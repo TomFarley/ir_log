@@ -1,3 +1,25 @@
+2021-10-19 12:00:51,286 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 12:00:49,953 - SW_beam_dump: Renaming latest file from "000023.seq" to "045324.seq"\
+2021-10-19 12:00:49,948 - SW_beam_dump: File "000023.seq" for shot 23 (45324 expected) saved 5.4 s ago\
+2021-10-19 12:00:49,931 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19" and copied file back to "auto_export"\
+2021-10-19 12:00:48,848 - Px_protection: Renaming latest file from "000022.seq" to "045324.seq"\
+2021-10-19 12:00:48,841 - Px_protection: File "000022.seq" for shot 22 (45324 expected) saved 4.6 s ago\
+2021-10-19 12:00:48,837 - MWIR1: **Didn't copy file as rename success = False**\
+2021-10-19 12:00:48,835 - MWIR1 file created at 2021-10-19 11:47:28.812624. Shot state change at 2021-10-19 11:58:38.410204. dt=-669.6 < 0\
+2021-10-19 12:00:48,834 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
+2021-10-19 12:00:48,834 - MWIR1: File "000021.ats" for shot 21 (45324 expected) saved 800.0 s ago\
+2021-10-19 12:00:42,764 - Recording should finish in dt: 0.2 s\
+2021-10-19 12:00:41,748 - Recording should finish in dt: 1.3 s\
+2021-10-19 12:00:37,719 - Recording should finish in dt: 5.3 s\
+2021-10-19 12:00:33,676 - Shot 45324 expected in dt: 0.3 s\
+2021-10-19 12:00:32,663 - Shot 45324 expected in dt: 1.3 s\
+2021-10-19 12:00:31,648 - Shot 45324 expected in dt: 2.4 s\
+2021-10-19 12:00:30,633 - Shot 45324 expected in dt: 3.4 s\
+2021-10-19 12:00:29,620 - Shot 45324 expected in dt: 4.4 s\
+2021-10-19 12:00:28,531 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-19 12:00:28,530 - Shot 45324 expected in dt: 5.5 s\
+2021-10-19 12:00:27,522 - Shot 45324 expected in dt: 6.5 s\
+2021-10-19 12:00:23,508 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-19 12:00:20,030 - Shot 45324 expected in dt: 14.0 s\
 2021-10-19 12:00:19,022 - In state "Trigger" for shot 45324\
 2021-10-19 12:00:13,991 - Shot 45324 expected in dt: 15.6 s\
@@ -276,25 +298,3 @@
 2021-10-19 09:18:44,506 - In state "Trigger" for shot 45317\
 2021-10-19 09:18:43,503 - Shot 45317 expected in dt: 10.4 s\
 2021-10-19 09:18:33,443 - Shot 45317 expected in dt: 20.5 s\
-2021-10-19 09:18:23,389 - Shot 45317 expected in dt: 30.5 s\
-2021-10-19 09:18:13,340 - Shot 45317 expected in dt: 40.6 s\
-2021-10-19 09:18:03,276 - Shot 45317 expected in dt: 50.7 s\
-2021-10-19 09:17:53,210 - Shot 45317 expected in dt: 60.7 s\
-2021-10-19 09:17:43,158 - Shot 45317 expected in dt: 70.8 s\
-2021-10-19 09:17:33,093 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 09:17:29,703 - Shot 45317 expected in dt: 84.2 s\
-2021-10-19 09:17:28,698 - In state "PreShot" for shot 45317\
-2021-10-19 09:17:03,681 - ========== Shot number changed to 45317. State: "Run" ==========\
-2021-10-19 09:16:38,670 - In state "Run" for shot 45316\
-2021-10-19 09:16:13,658 - In state "PostShot" for shot 45316\
-2021-10-19 09:13:43,598 - In state "PostShot" for shot 45316\
-2021-10-19 09:13:43,597 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 09:13:34,867 - ========== Ready for shot 45317 in state "PostShot" ==========\
-2021-10-19 09:13:34,818 - Re-arming MWIR1\
-2021-10-19 09:13:34,816 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-19"\
-2021-10-19 09:13:34,789 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
-2021-10-19 09:13:34,785 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-19"\
-2021-10-19 09:13:34,783 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
-2021-10-19 09:13:34,270 - Moved 1 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": ['000086.seq']\
-2021-10-19 09:13:34,267 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-19"\
-2021-10-19 09:13:34,266 - Moved previously exported files to D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup from D:\MAST-U_Operations\AIR-FLIR_1\auto_export\
