@@ -1,3 +1,6 @@
+2021-10-20 09:15:21,511 - Shot 45344 expected in dt: 13.6 s\
+2021-10-20 09:15:20,510 - In state "Trigger" for shot 45344\
+2021-10-20 09:14:08,432 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 09:14:04,608 - Shot 45344 expected in dt: 86.1 s\
 2021-10-20 09:14:03,606 - In state "PreShot" for shot 45344\
 2021-10-20 09:13:38,605 - ========== Shot number changed to 45344. State: "Run" ==========\
@@ -295,6 +298,3 @@
 2021-10-19 15:26:17,530 - LWIR1: **Didn't copy file as rename success = False**\
 2021-10-19 15:26:17,529 - LWIR1 file created at 2021-10-19 14:54:53.005544. Shot state change at 2021-10-19 15:23:10.117887. dt=-1697.1 < 0\
 2021-10-19 15:26:17,529 - **>>> Newest LWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-19 15:26:17,528 - LWIR1: File "45330.RAW" for shot 45330 (45331 expected) saved 1884.5 s ago\
-2021-10-19 15:25:54,427 - Shot 45331 expected in dt: 0.6 s\
-2021-10-19 15:25:53,423 - Shot 45331 expected in dt: 1.6 s\
