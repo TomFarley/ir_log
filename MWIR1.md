@@ -1,3 +1,9 @@
+2021-10-20 19:55:31,941 - Shot 45368 expected in dt: 88.3 s\
+2021-10-20 19:55:30,937 - In state "PreShot" for shot 45368\
+2021-10-20 19:55:05,928 - ========== Shot number changed to 45368. State: "Run" ==========\
+2021-10-20 19:53:25,898 - In state "Run" for shot 45367\
+2021-10-20 19:29:15,410 - In state "PostShot" for shot 45367\
+2021-10-20 19:29:09,325 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 19:29:03,577 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-20" and copied file back to "auto_export"\
 2021-10-20 19:29:03,066 - SW_beam_dump: Renaming latest file from "000049.seq" to "045367.seq"\
 2021-10-20 19:29:03,066 - SW_beam_dump: File "000049.seq" for shot 49 (45367 expected) saved 7.1 s ago\
@@ -292,9 +298,3 @@
 2021-10-20 16:01:44,533 - Shot 45360 expected in dt: 5.1 s\
 2021-10-20 16:01:43,528 - Shot 45360 expected in dt: 6.2 s\
 2021-10-20 16:01:39,508 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-20 16:01:35,959 - Shot 45360 expected in dt: 13.7 s\
-2021-10-20 16:01:34,951 - In state "Trigger" for shot 45360\
-2021-10-20 16:01:25,884 - Shot 45360 expected in dt: 19.3 s\
-2021-10-20 16:01:15,839 - Shot 45360 expected in dt: 29.4 s\
-2021-10-20 16:01:05,776 - Shot 45360 expected in dt: 39.4 s\
-2021-10-20 16:00:55,691 - Shot 45360 expected in dt: 49.5 s\
