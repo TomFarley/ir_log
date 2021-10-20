@@ -1,3 +1,13 @@
+2021-10-20 17:34:25,969 - Shot 45363 expected in dt: 13.8 s\
+2021-10-20 17:34:24,963 - In state "Trigger" for shot 45363\
+2021-10-20 17:34:15,920 - Shot 45363 expected in dt: 19.6 s\
+2021-10-20 17:34:05,866 - Shot 45363 expected in dt: 29.6 s\
+2021-10-20 17:33:55,817 - Shot 45363 expected in dt: 39.7 s\
+2021-10-20 17:33:45,757 - Shot 45363 expected in dt: 49.7 s\
+2021-10-20 17:33:35,716 - Shot 45363 expected in dt: 59.8 s\
+2021-10-20 17:33:25,659 - Shot 45363 expected in dt: 69.8 s\
+2021-10-20 17:33:15,609 - Shot 45363 expected in dt: 79.9 s\
+2021-10-20 17:33:07,554 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 17:33:03,102 - Shot 45363 expected in dt: 92.4 s\
 2021-10-20 17:33:02,099 - ========== Shot number changed to 45363. State: "PreShot" ==========\
 2021-10-20 17:31:22,063 - In state "Run" for shot 45362\
@@ -288,13 +298,3 @@
 2021-10-20 14:00:02,149 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
 2021-10-20 14:00:02,145 - SW_beam_dump: File "045343.seq" for shot 45343 (45354 expected) saved 18620.3 s ago\
 2021-10-20 14:00:02,139 - SW_beam_dump: **Number of files, 1, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-20 14:00:02,130 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 14:00:01,560 - Px_protection: Renaming latest file from "000022.seq" to "045354.seq"\
-2021-10-20 14:00:01,554 - Px_protection: File "000022.seq" for shot 22 (45354 expected) saved 7.3 s ago\
-2021-10-20 14:00:01,529 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-20\045354.ats" (after failing to move it there)\
-2021-10-20 13:59:59,652 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 13:59:59,026 - MWIR1: Renaming latest file from "000021.ats" to "045354.ats"\
-2021-10-20 13:59:59,025 - MWIR1: File "000021.ats" for shot 21 (45354 expected) saved 11.2 s ago\
-2021-10-20 13:59:52,996 - Recording should finish in dt: 0.6 s\
-2021-10-20 13:59:51,983 - Recording should finish in dt: 1.6 s\
-2021-10-20 13:59:43,930 - Shot 45354 expected in dt: 0.7 s\
