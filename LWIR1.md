@@ -1,3 +1,10 @@
+2021-10-20 15:01:14,922 - Shot 45357 expected in dt: 80.4 s\
+2021-10-20 15:01:13,921 - In state "PreShot" for shot 45357\
+2021-10-20 15:00:48,918 - ========== Shot number changed to 45357. State: "Run" ==========\
+2021-10-20 15:00:23,915 - In state "Run" for shot 45356\
+2021-10-20 14:32:26,403 - Re-arming LWIR1\
+2021-10-20 14:32:01,402 - In state "PostShot" for shot 45356\
+2021-10-20 14:31:59,399 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 14:31:55,045 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45356.RAW" (after failing to move it there)\
 2021-10-20 14:31:53,281 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
 2021-10-20 14:31:52,782 - LWIR1: File "45356.RAW" for shot 45356 (45356 expected) saved 1.1 s ago\
@@ -291,10 +298,3 @@
 2021-10-20 08:41:35,545 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211020.log"\
 2021-10-20 08:41:35,544 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
 2021-10-20 08:41:35,542 - **Starting camera automation for cameras: LWIR1**\
-2021-10-20 08:41:35,542 - Starting automation on "H0012" PC\
-2021-10-20 08:41:26,493 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-20 08:41:26,429 - >>> CTRL+C <<<\
-2021-10-20 07:56:42,296 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20"\
-2021-10-20 07:56:23,165 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-20 07:56:22,663 - Moved 22 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45319.RAW', '45320.RAW', '45321.RAW', '45322.RAW', '45323.RAW', '45324.RAW', '45325.RAW', '45326.RAW', '45327.RAW', '45328.RAW', '45329.RAW', '45330.RAW', '45331.RAW', '45332.RAW', '45333.RAW', '45334.RAW', '45335.RAW', '45336.RAW', '45338.RAW', '45339.RAW', '45340.RAW', '45341.RAW']\
-2021-10-20 07:56:22,613 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20"\
