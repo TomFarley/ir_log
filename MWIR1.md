@@ -1,3 +1,9 @@
+2021-10-20 11:48:37,036 - Shot 45350 expected in dt: 98.2 s\
+2021-10-20 11:48:36,030 - ========== Shot number changed to 45350. State: "PreShot" ==========\
+2021-10-20 11:48:11,022 - In state "Run" for shot 45349\
+2021-10-20 11:29:50,703 - Re-arming MWIR1\
+2021-10-20 11:29:25,695 - In state "PostShot" for shot 45349\
+2021-10-20 11:29:17,643 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 11:29:12,223 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-20 11:29:12,221 - SW_beam_dump file created at 2021-10-20 08:49:41.834769. Shot state change at 2021-10-20 11:27:05.168466. dt=-9443.3 < 0\
 2021-10-20 11:29:12,221 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-20 08:44:37,292 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
 2021-10-20 08:44:37,250 - >>> CTRL+C <<<\
 2021-10-20 07:59:14,224 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-20"\
-2021-10-20 07:59:14,197 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
-2021-10-20 07:59:13,681 - Moved 24 files from "D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export" to "D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup": ['045317.seq', '045318.seq', '045319.seq', '045321.seq', '045322.seq', '045323.seq', '045324.seq', '045325.seq', '045326.seq', '045327.seq', '045328.seq', '045329.seq', '045330.seq', '045331.seq', '045332.seq', '045333.seq', '045334.seq', '045335.seq', '045336.seq', '045337.seq', '045338.seq', '045339.seq', '045340.seq', '045341.seq']\
-2021-10-20 07:59:13,455 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-20"\
-2021-10-20 07:59:13,450 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
-2021-10-20 07:59:12,937 - Moved 25 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": ['045317.seq', '045318.seq', '045319.seq', '045320.seq', '045321.seq', '045322.seq', '045323.seq', '045324.seq', '045325.seq', '045326.seq', '045327.seq', '045328.seq', '045329.seq', '045330.seq', '045331.seq', '045332.seq', '045333.seq', '045334.seq', '045335.seq', '045336.seq', '045337.seq', '045338.seq', '045339.seq', '045340.seq', '045341.seq']\
-2021-10-20 07:59:12,792 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-20"\
