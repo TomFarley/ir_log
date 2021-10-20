@@ -1,3 +1,14 @@
+2021-10-20 14:31:16,534 - Shot 45356 expected in dt: 13.6 s\
+2021-10-20 14:31:15,530 - In state "Trigger" for shot 45356\
+2021-10-20 14:31:11,511 - Shot 45356 expected in dt: 13.3 s\
+2021-10-20 14:31:01,467 - Shot 45356 expected in dt: 23.3 s\
+2021-10-20 14:30:51,395 - Shot 45356 expected in dt: 33.4 s\
+2021-10-20 14:30:41,341 - Shot 45356 expected in dt: 43.4 s\
+2021-10-20 14:30:31,262 - Shot 45356 expected in dt: 53.5 s\
+2021-10-20 14:30:21,215 - Shot 45356 expected in dt: 63.6 s\
+2021-10-20 14:30:11,172 - Shot 45356 expected in dt: 73.6 s\
+2021-10-20 14:30:01,113 - Shot 45356 expected in dt: 83.7 s\
+2021-10-20 14:30:00,105 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 14:29:56,786 - Shot 45356 expected in dt: 88.0 s\
 2021-10-20 14:29:56,786 - A shot has been missed! Last recorded shot was 45354\
 2021-10-20 14:29:55,782 - ========== Shot number changed to 45356. State: "PreShot" ==========\
@@ -287,14 +298,3 @@
 2021-10-20 10:57:30,372 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 10:57:25,930 - Shot 45348 expected in dt: 13.5 s\
 2021-10-20 10:57:24,924 - In state "Trigger" for shot 45348\
-2021-10-20 10:57:16,881 - Shot 45348 expected in dt: 18.1 s\
-2021-10-20 10:57:06,805 - Shot 45348 expected in dt: 28.2 s\
-2021-10-20 10:56:56,750 - Shot 45348 expected in dt: 38.2 s\
-2021-10-20 10:56:46,690 - Shot 45348 expected in dt: 48.3 s\
-2021-10-20 10:56:36,632 - Shot 45348 expected in dt: 58.3 s\
-2021-10-20 10:56:26,586 - Shot 45348 expected in dt: 68.4 s\
-2021-10-20 10:56:16,525 - Shot 45348 expected in dt: 78.4 s\
-2021-10-20 10:56:07,483 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-20 10:56:01,891 - Shot 45348 expected in dt: 93.1 s\
-2021-10-20 10:56:00,883 - ========== Shot number changed to 45348. State: "PreShot" ==========\
-2021-10-20 10:54:20,856 - In state "Run" for shot 45347\
