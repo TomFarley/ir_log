@@ -1,3 +1,14 @@
+2021-10-20 11:50:06,417 - Shot 45350 expected in dt: 13.4 s\
+2021-10-20 11:50:05,414 - In state "Trigger" for shot 45350\
+2021-10-20 11:49:59,384 - Shot 45350 expected in dt: 15.9 s\
+2021-10-20 11:49:49,333 - Shot 45350 expected in dt: 25.9 s\
+2021-10-20 11:49:39,278 - Shot 45350 expected in dt: 36.0 s\
+2021-10-20 11:49:29,230 - Shot 45350 expected in dt: 46.0 s\
+2021-10-20 11:49:19,167 - Shot 45350 expected in dt: 56.1 s\
+2021-10-20 11:49:09,125 - Shot 45350 expected in dt: 66.1 s\
+2021-10-20 11:48:59,066 - Shot 45350 expected in dt: 76.2 s\
+2021-10-20 11:48:49,021 - Shot 45350 expected in dt: 86.3 s\
+2021-10-20 11:48:40,971 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 11:48:37,036 - Shot 45350 expected in dt: 98.2 s\
 2021-10-20 11:48:36,030 - ========== Shot number changed to 45350. State: "PreShot" ==========\
 2021-10-20 11:48:11,022 - In state "Run" for shot 45349\
@@ -287,14 +298,3 @@
 2021-10-20 08:44:50,059 - In state "PostShot" for shot 45342\
 2021-10-20 08:44:50,058 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 08:44:43,865 - ========== Ready for shot 45343 in state "PostShot" ==========\
-2021-10-20 08:44:43,795 - Re-arming MWIR1\
-2021-10-20 08:44:43,766 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-20 08:44:43,766 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-20 08:44:43,765 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-20 08:44:43,764 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211020.log"\
-2021-10-20 08:44:43,763 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-20 08:44:43,761 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-20 08:44:43,761 - Starting automation on "MWIR-PC1" PC\
-2021-10-20 08:44:37,292 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-20 08:44:37,250 - >>> CTRL+C <<<\
-2021-10-20 07:59:14,224 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-20"\
