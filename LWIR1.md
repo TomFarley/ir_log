@@ -1,3 +1,6 @@
+2021-10-20 13:06:53,833 - Shot 45352 expected in dt: 76.9 s\
+2021-10-20 13:06:52,832 - In state "PreShot" for shot 45352\
+2021-10-20 13:06:52,830 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 13:06:48,755 - Shot 45352 expected in dt: 81.8 s\
 2021-10-20 13:06:23,753 - ========== Shot number changed to 45352. State: "Ready" ==========\
 2021-10-20 13:05:58,752 - In state "Run" for shot 45351\
@@ -295,6 +298,3 @@
 2021-10-19 18:28:23,120 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
 2021-10-19 18:28:20,720 - Re-arming LWIR1\
 2021-10-19 18:27:55,717 - In state "PostShot" for shot 45337\
-2021-10-19 18:27:55,716 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 18:27:51,421 - LWIR1: **Didn't copy file as rename success = False**\
-2021-10-19 18:27:51,420 - LWIR1 file created at 2021-10-19 18:14:12.077484. Shot state change at 2021-10-19 18:24:44.467754. dt=-632.4 < 0\
