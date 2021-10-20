@@ -1,3 +1,15 @@
+2021-10-20 13:08:40,752 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45352.RAW" (after failing to move it there)\
+2021-10-20 13:08:38,036 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
+2021-10-20 13:08:37,493 - LWIR1: File "45352.RAW" for shot 45352 (45352 expected) saved 1.2 s ago\
+2021-10-20 13:08:37,491 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45352.RAW (file confirmed to exist)\
+2021-10-20 13:08:14,982 - Shot 45352 expected in dt: 0.1 s\
+2021-10-20 13:08:13,980 - Shot 45352 expected in dt: 1.2 s\
+2021-10-20 13:08:12,980 - Shot 45352 expected in dt: 2.2 s\
+2021-10-20 13:08:11,978 - Shot 45352 expected in dt: 3.2 s\
+2021-10-20 13:08:10,976 - Shot 45352 expected in dt: 4.2 s\
+2021-10-20 13:08:09,975 - Shot 45352 expected in dt: 5.2 s\
+2021-10-20 13:08:08,973 - Shot 45352 expected in dt: 6.2 s\
+2021-10-20 13:08:06,970 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 13:08:01,620 - Shot 45352 expected in dt: 13.5 s\
 2021-10-20 13:08:00,618 - In state "Trigger" for shot 45352\
 2021-10-20 13:06:57,556 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-19 18:46:50,023 - Shot 45338 expected in dt: 0.1 s\
 2021-10-19 18:46:49,022 - Shot 45338 expected in dt: 1.1 s\
 2021-10-19 18:46:48,021 - Shot 45338 expected in dt: 2.1 s\
-2021-10-19 18:46:47,020 - Shot 45338 expected in dt: 3.1 s\
-2021-10-19 18:46:46,018 - Shot 45338 expected in dt: 4.1 s\
-2021-10-19 18:46:45,017 - Shot 45338 expected in dt: 5.1 s\
-2021-10-19 18:46:44,017 - Shot 45338 expected in dt: 6.1 s\
-2021-10-19 18:46:40,013 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 18:46:36,444 - Shot 45338 expected in dt: 13.7 s\
-2021-10-19 18:46:35,443 - In state "Trigger" for shot 45338\
-2021-10-19 18:45:09,349 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 18:45:05,620 - Shot 45338 expected in dt: 99.2 s\
-2021-10-19 18:45:04,618 - ========== Shot number changed to 45338. State: "PreShot" ==========\
-2021-10-19 18:44:39,615 - In state "Run" for shot 45337\
-2021-10-19 18:28:24,579 - SUCCESSFULLY re-armed camera.\
