@@ -1,3 +1,25 @@
+2021-10-20 16:32:14,806 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45361.RAW" (after failing to move it there)\
+2021-10-20 16:32:13,099 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
+2021-10-20 16:32:12,587 - LWIR1: File "45361.RAW" for shot 45361 (45361 expected) saved 1.1 s ago\
+2021-10-20 16:32:12,584 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45361.RAW (file confirmed to exist)\
+2021-10-20 16:31:50,064 - Shot 45361 expected in dt: 0.1 s\
+2021-10-20 16:31:49,063 - Shot 45361 expected in dt: 1.1 s\
+2021-10-20 16:31:48,061 - Shot 45361 expected in dt: 2.1 s\
+2021-10-20 16:31:47,059 - Shot 45361 expected in dt: 3.1 s\
+2021-10-20 16:31:46,058 - Shot 45361 expected in dt: 4.1 s\
+2021-10-20 16:31:45,057 - Shot 45361 expected in dt: 5.1 s\
+2021-10-20 16:31:44,054 - Shot 45361 expected in dt: 6.1 s\
+2021-10-20 16:31:41,049 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-20 16:31:36,912 - Shot 45361 expected in dt: 13.3 s\
+2021-10-20 16:31:35,912 - In state "Trigger" for shot 45361\
+2021-10-20 16:30:22,844 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-20 16:30:19,574 - Shot 45361 expected in dt: 86.3 s\
+2021-10-20 16:30:18,573 - In state "PreShot" for shot 45361\
+2021-10-20 16:29:53,570 - ========== Shot number changed to 45361. State: "Run" ==========\
+2021-10-20 16:29:28,568 - In state "Run" for shot 45360\
+2021-10-20 16:02:46,037 - Re-arming LWIR1\
+2021-10-20 16:02:21,036 - In state "PostShot" for shot 45360\
+2021-10-20 16:02:20,034 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 16:02:15,756 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45360.RAW" (after failing to move it there)\
 2021-10-20 16:02:12,875 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
 2021-10-20 16:02:12,380 - LWIR1: File "45360.RAW" for shot 45360 (45360 expected) saved 1.1 s ago\
@@ -276,25 +298,3 @@
 2021-10-20 10:24:08,771 - In state "Run" for shot 45346\
 2021-10-20 10:22:03,764 - In state "PostShot" for shot 45346\
 2021-10-20 10:21:38,762 - In state "Run" for shot 45346\
-2021-10-20 10:02:26,144 - Re-arming LWIR1\
-2021-10-20 10:02:01,143 - In state "PostShot" for shot 45346\
-2021-10-20 10:01:58,138 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-20 10:01:54,610 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45346.RAW" (after failing to move it there)\
-2021-10-20 10:01:52,849 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 10:01:52,390 - LWIR1: File "45346.RAW" for shot 45346 (45346 expected) saved 1.0 s ago\
-2021-10-20 10:01:52,389 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45346.RAW (file confirmed to exist)\
-2021-10-20 10:01:29,909 - Shot 45346 expected in dt: 0.2 s\
-2021-10-20 10:01:28,908 - Shot 45346 expected in dt: 1.2 s\
-2021-10-20 10:01:27,907 - Shot 45346 expected in dt: 2.2 s\
-2021-10-20 10:01:26,905 - Shot 45346 expected in dt: 3.2 s\
-2021-10-20 10:01:25,903 - Shot 45346 expected in dt: 4.2 s\
-2021-10-20 10:01:24,900 - Shot 45346 expected in dt: 5.2 s\
-2021-10-20 10:01:23,898 - Shot 45346 expected in dt: 6.2 s\
-2021-10-20 10:01:20,896 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-20 10:01:16,821 - Shot 45346 expected in dt: 13.2 s\
-2021-10-20 10:01:15,820 - In state "Trigger" for shot 45346\
-2021-10-20 10:00:08,753 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-20 10:00:00,018 - Shot 45346 expected in dt: 85.6 s\
-2021-10-20 09:59:59,015 - ========== Shot number changed to 45346. State: "PreShot" ==========\
-2021-10-20 09:59:34,012 - In state "Run" for shot 45345\
-2021-10-20 09:36:36,511 - Re-arming LWIR1\
