@@ -1,3 +1,9 @@
+2021-10-20 13:06:48,755 - Shot 45352 expected in dt: 81.8 s\
+2021-10-20 13:06:23,753 - ========== Shot number changed to 45352. State: "Ready" ==========\
+2021-10-20 13:05:58,752 - In state "Run" for shot 45351\
+2021-10-20 12:35:06,232 - Re-arming LWIR1\
+2021-10-20 12:34:41,231 - In state "PostShot" for shot 45351\
+2021-10-20 12:34:39,228 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 12:34:35,445 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45351.RAW" (after failing to move it there)\
 2021-10-20 12:34:33,281 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
 2021-10-20 12:34:32,809 - LWIR1: File "45351.RAW" for shot 45351 (45351 expected) saved 1.0 s ago\
@@ -292,9 +298,3 @@
 2021-10-19 18:27:55,716 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-19 18:27:51,421 - LWIR1: **Didn't copy file as rename success = False**\
 2021-10-19 18:27:51,420 - LWIR1 file created at 2021-10-19 18:14:12.077484. Shot state change at 2021-10-19 18:24:44.467754. dt=-632.4 < 0\
-2021-10-19 18:27:51,420 - **>>> Newest LWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-19 18:27:51,420 - LWIR1: File "45336.RAW" for shot 45336 (45337 expected) saved 819.3 s ago\
-2021-10-19 18:27:51,419 - LWIR1: **Number of files, 18, has not changed after shot! D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export**\
-2021-10-19 18:27:51,416 - IRcam LWIR1 camera is still armed after shot - not exporting RAW data\
-2021-10-19 18:27:46,414 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-19 18:27:40,992 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
