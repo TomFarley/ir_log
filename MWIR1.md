@@ -1,3 +1,14 @@
+2021-10-20 12:33:56,225 - Shot 45351 expected in dt: 13.8 s\
+2021-10-20 12:33:55,220 - In state "Trigger" for shot 45351\
+2021-10-20 12:33:50,193 - Shot 45351 expected in dt: 14.5 s\
+2021-10-20 12:33:40,137 - Shot 45351 expected in dt: 24.6 s\
+2021-10-20 12:33:30,061 - Shot 45351 expected in dt: 34.6 s\
+2021-10-20 12:33:20,010 - Shot 45351 expected in dt: 44.7 s\
+2021-10-20 12:33:09,955 - Shot 45351 expected in dt: 54.8 s\
+2021-10-20 12:32:59,905 - Shot 45351 expected in dt: 64.8 s\
+2021-10-20 12:32:49,856 - Shot 45351 expected in dt: 74.9 s\
+2021-10-20 12:32:39,798 - Shot 45351 expected in dt: 84.9 s\
+2021-10-20 12:32:35,774 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 12:32:32,399 - Shot 45351 expected in dt: 92.3 s\
 2021-10-20 12:32:31,384 - ========== Shot number changed to 45351. State: "PreShot" ==========\
 2021-10-20 12:32:06,374 - In state "Run" for shot 45350\
@@ -287,14 +298,3 @@
 2021-10-20 09:14:16,918 - Shot 45344 expected in dt: 73.3 s\
 2021-10-20 09:14:06,858 - Shot 45344 expected in dt: 83.3 s\
 2021-10-20 09:14:05,845 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-20 09:14:02,183 - Shot 45344 expected in dt: 88.0 s\
-2021-10-20 09:14:01,179 - ========== Shot number changed to 45344. State: "PreShot" ==========\
-2021-10-20 09:13:36,171 - In state "Run" for shot 45343\
-2021-10-20 08:50:15,639 - Re-arming MWIR1\
-2021-10-20 08:49:50,629 - In state "PostShot" for shot 45343\
-2021-10-20 08:49:46,591 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-20 08:49:41,865 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 08:49:40,715 - SW_beam_dump: Renaming latest file from "000077.seq" to "045343.seq"\
-2021-10-20 08:49:40,715 - SW_beam_dump: File "000077.seq" for shot 77 (45343 expected) saved 10.4 s ago\
-2021-10-20 08:49:40,713 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 08:49:35,020 - Px_protection: Renaming latest file from "000075.ats" to "045343.seq"\
