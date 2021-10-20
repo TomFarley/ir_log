@@ -1,3 +1,6 @@
+2021-10-20 10:01:16,821 - Shot 45346 expected in dt: 13.2 s\
+2021-10-20 10:01:15,820 - In state "Trigger" for shot 45346\
+2021-10-20 10:00:08,753 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 10:00:00,018 - Shot 45346 expected in dt: 85.6 s\
 2021-10-20 09:59:59,015 - ========== Shot number changed to 45346. State: "PreShot" ==========\
 2021-10-20 09:59:34,012 - In state "Run" for shot 45345\
@@ -295,6 +298,3 @@
 2021-10-19 16:13:56,698 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
 2021-10-19 16:13:56,696 - **Starting camera automation for cameras: LWIR1**\
 2021-10-19 16:13:56,695 - Starting automation on "H0012" PC\
-2021-10-19 16:13:01,066 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-19 16:13:01,053 - >>> CTRL+C <<<\
-2021-10-19 15:53:49,296 - Re-arming LWIR1\
