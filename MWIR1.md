@@ -1,3 +1,9 @@
+2021-10-20 09:59:56,367 - Shot 45346 expected in dt: 88.8 s\
+2021-10-20 09:59:55,349 - ========== Shot number changed to 45346. State: "PreShot" ==========\
+2021-10-20 09:59:30,342 - In state "Run" for shot 45345\
+2021-10-20 09:36:34,819 - Re-arming MWIR1\
+2021-10-20 09:36:09,805 - In state "PostShot" for shot 45345\
+2021-10-20 09:36:01,753 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 09:35:56,694 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-20 09:35:56,694 - SW_beam_dump file created at 2021-10-20 08:49:41.834769. Shot state change at 2021-10-20 09:33:50.088170. dt=-2648.3 < 0\
 2021-10-20 09:35:56,693 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-19 18:45:37,755 - Shot 45338 expected in dt: 66.5 s\
 2021-10-19 18:45:27,692 - Shot 45338 expected in dt: 76.6 s\
 2021-10-19 18:45:17,642 - Shot 45338 expected in dt: 86.6 s\
-2021-10-19 18:45:09,584 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-19 18:45:05,853 - Shot 45338 expected in dt: 98.4 s\
-2021-10-19 18:45:04,839 - ========== Shot number changed to 45338. State: "PreShot" ==========\
-2021-10-19 18:44:39,831 - In state "Run" for shot 45337\
-2021-10-19 18:27:59,487 - Re-arming MWIR1\
-2021-10-19 18:27:34,475 - In state "PostShot" for shot 45337\
