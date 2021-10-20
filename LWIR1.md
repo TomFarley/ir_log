@@ -1,3 +1,15 @@
+2021-10-20 09:15:59,471 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45344.RAW" (after failing to move it there)\
+2021-10-20 09:15:57,703 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
+2021-10-20 09:15:57,197 - LWIR1: File "45344.RAW" for shot 45344 (45344 expected) saved 1.1 s ago\
+2021-10-20 09:15:57,196 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45344.RAW (file confirmed to exist)\
+2021-10-20 09:15:34,634 - Shot 45344 expected in dt: 0.5 s\
+2021-10-20 09:15:33,631 - Shot 45344 expected in dt: 1.5 s\
+2021-10-20 09:15:32,629 - Shot 45344 expected in dt: 2.5 s\
+2021-10-20 09:15:31,628 - Shot 45344 expected in dt: 3.5 s\
+2021-10-20 09:15:30,625 - Shot 45344 expected in dt: 4.5 s\
+2021-10-20 09:15:29,624 - Shot 45344 expected in dt: 5.5 s\
+2021-10-20 09:15:28,622 - Shot 45344 expected in dt: 6.5 s\
+2021-10-20 09:15:25,620 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 09:15:21,511 - Shot 45344 expected in dt: 13.6 s\
 2021-10-20 09:15:20,510 - In state "Trigger" for shot 45344\
 2021-10-20 09:14:08,432 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-19 15:28:01,845 - ========== Ready for shot 45332 in state "PostShot" ==========\
 2021-10-19 15:28:01,396 - Re-arming LWIR1\
 2021-10-19 15:28:01,376 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-19 15:28:01,374 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
-2021-10-19 15:28:01,374 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-19 15:28:01,373 - **Starting camera automation for cameras: LWIR1**\
-2021-10-19 15:28:01,358 - Starting automation on "H0012" PC\
-2021-10-19 15:27:57,555 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-19 15:27:57,488 - >>> CTRL+C <<<\
-2021-10-19 15:26:50,663 - Re-arming LWIR1\
-2021-10-19 15:26:25,662 - In state "PostShot" for shot 45331\
-2021-10-19 15:26:22,655 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 15:26:17,530 - LWIR1: **Didn't copy file as rename success = False**\
-2021-10-19 15:26:17,529 - LWIR1 file created at 2021-10-19 14:54:53.005544. Shot state change at 2021-10-19 15:23:10.117887. dt=-1697.1 < 0\
-2021-10-19 15:26:17,529 - **>>> Newest LWIR1 file is older than time of change to latest shot number. <<<**\
