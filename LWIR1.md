@@ -1,3 +1,47 @@
+2021-10-20 09:15:59,471 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45344.RAW" (after failing to move it there)\
+2021-10-20 09:15:57,703 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
+2021-10-20 09:15:57,197 - LWIR1: File "45344.RAW" for shot 45344 (45344 expected) saved 1.1 s ago\
+2021-10-20 09:15:57,196 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45344.RAW (file confirmed to exist)\
+2021-10-20 09:15:34,634 - Shot 45344 expected in dt: 0.5 s\
+2021-10-20 09:15:33,631 - Shot 45344 expected in dt: 1.5 s\
+2021-10-20 09:15:32,629 - Shot 45344 expected in dt: 2.5 s\
+2021-10-20 09:15:31,628 - Shot 45344 expected in dt: 3.5 s\
+2021-10-20 09:15:30,625 - Shot 45344 expected in dt: 4.5 s\
+2021-10-20 09:15:29,624 - Shot 45344 expected in dt: 5.5 s\
+2021-10-20 09:15:28,622 - Shot 45344 expected in dt: 6.5 s\
+2021-10-20 09:15:25,620 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-20 09:15:21,511 - Shot 45344 expected in dt: 13.6 s\
+2021-10-20 09:15:20,510 - In state "Trigger" for shot 45344\
+2021-10-20 09:14:08,432 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-20 09:14:04,608 - Shot 45344 expected in dt: 86.1 s\
+2021-10-20 09:14:03,606 - In state "PreShot" for shot 45344\
+2021-10-20 09:13:38,605 - ========== Shot number changed to 45344. State: "Run" ==========\
+2021-10-20 08:50:16,087 - Re-arming LWIR1\
+2021-10-20 08:49:51,087 - In state "PostShot" for shot 45343\
+2021-10-20 08:49:48,083 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-20 08:49:44,657 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45343.RAW" (after failing to move it there)\
+2021-10-20 08:49:42,986 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
+2021-10-20 08:49:42,475 - LWIR1: File "45343.RAW" for shot 45343 (45343 expected) saved 1.1 s ago\
+2021-10-20 08:49:42,473 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45343.RAW (file confirmed to exist)\
+2021-10-20 08:49:19,970 - Shot 45343 expected in dt: 0.7 s\
+2021-10-20 08:49:18,969 - Shot 45343 expected in dt: 1.7 s\
+2021-10-20 08:49:17,968 - Shot 45343 expected in dt: 2.7 s\
+2021-10-20 08:49:16,967 - Shot 45343 expected in dt: 3.7 s\
+2021-10-20 08:49:15,966 - Shot 45343 expected in dt: 4.7 s\
+2021-10-20 08:49:14,964 - Shot 45343 expected in dt: 5.7 s\
+2021-10-20 08:49:13,962 - Shot 45343 expected in dt: 6.7 s\
+2021-10-20 08:49:11,960 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-20 08:49:07,319 - Shot 45343 expected in dt: 13.4 s\
+2021-10-20 08:49:06,317 - In state "Trigger" for shot 45343\
+2021-10-20 08:47:51,221 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-20 08:47:35,646 - Shot 45343 expected in dt: 99.6 s\
+2021-10-20 08:47:34,645 - ========== Shot number changed to 45343. State: "PreShot" ==========\
+2021-10-20 08:47:09,642 - In state "Run" for shot 45342\
+2021-10-20 08:45:04,636 - In state "PostShot" for shot 45342\
+2021-10-20 08:45:04,635 - Shot 45342 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-20 08:44:39,634 - In state "Abort" for shot 45342\
+2021-10-20 08:41:44,623 - In state "Run" for shot 45342\
+2021-10-20 08:41:44,621 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 08:41:38,795 - ========== Ready for shot 45343 in state "Run" ==========\
 2021-10-20 08:41:35,590 - Re-arming LWIR1\
 2021-10-20 08:41:35,546 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
@@ -254,47 +298,3 @@
 2021-10-19 15:28:01,845 - ========== Ready for shot 45332 in state "PostShot" ==========\
 2021-10-19 15:28:01,396 - Re-arming LWIR1\
 2021-10-19 15:28:01,376 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-19 15:28:01,374 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
-2021-10-19 15:28:01,374 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-19 15:28:01,373 - **Starting camera automation for cameras: LWIR1**\
-2021-10-19 15:28:01,358 - Starting automation on "H0012" PC\
-2021-10-19 15:27:57,555 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-19 15:27:57,488 - >>> CTRL+C <<<\
-2021-10-19 15:26:50,663 - Re-arming LWIR1\
-2021-10-19 15:26:25,662 - In state "PostShot" for shot 45331\
-2021-10-19 15:26:22,655 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 15:26:17,530 - LWIR1: **Didn't copy file as rename success = False**\
-2021-10-19 15:26:17,529 - LWIR1 file created at 2021-10-19 14:54:53.005544. Shot state change at 2021-10-19 15:23:10.117887. dt=-1697.1 < 0\
-2021-10-19 15:26:17,529 - **>>> Newest LWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-19 15:26:17,528 - LWIR1: File "45330.RAW" for shot 45330 (45331 expected) saved 1884.5 s ago\
-2021-10-19 15:25:54,427 - Shot 45331 expected in dt: 0.6 s\
-2021-10-19 15:25:53,423 - Shot 45331 expected in dt: 1.6 s\
-2021-10-19 15:25:52,421 - Shot 45331 expected in dt: 2.6 s\
-2021-10-19 15:25:51,420 - Shot 45331 expected in dt: 3.6 s\
-2021-10-19 15:25:50,418 - Shot 45331 expected in dt: 4.6 s\
-2021-10-19 15:25:49,417 - Shot 45331 expected in dt: 5.6 s\
-2021-10-19 15:25:48,415 - Shot 45331 expected in dt: 6.6 s\
-2021-10-19 15:25:47,413 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 15:25:41,616 - Shot 45331 expected in dt: 13.4 s\
-2021-10-19 15:25:40,613 - In state "Trigger" for shot 45331\
-2021-10-19 15:24:55,006 - Shot 45331 expected in dt: 0.1 s\
-2021-10-19 15:24:54,002 - Shot 45331 expected in dt: 1.1 s\
-2021-10-19 15:24:53,000 - Shot 45331 expected in dt: 2.1 s\
-2021-10-19 15:24:51,998 - Shot 45331 expected in dt: 3.1 s\
-2021-10-19 15:24:50,994 - Shot 45331 expected in dt: 4.1 s\
-2021-10-19 15:24:49,988 - Shot 45331 expected in dt: 5.1 s\
-2021-10-19 15:24:48,978 - Shot 45331 expected in dt: 6.1 s\
-2021-10-19 15:23:24,008 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 15:23:19,186 - Shot 45331 expected in dt: 95.9 s\
-2021-10-19 15:23:18,184 - ========== Shot number changed to 45331. State: "PreShot" ==========\
-2021-10-19 15:22:53,182 - In state "Run" for shot 45330\
-2021-10-19 15:19:08,166 - In state "PostShot" for shot 45330\
-2021-10-19 15:19:08,165 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 15:19:04,490 - ========== Ready for shot 45331 in state "PostShot" ==========\
-2021-10-19 15:19:04,044 - Re-arming LWIR1\
-2021-10-19 15:19:04,021 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-19 15:19:04,020 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211019.log"\
-2021-10-19 15:19:04,019 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-19 15:19:04,018 - **Starting camera automation for cameras: LWIR1**\
-2021-10-19 15:19:04,017 - Starting automation on "H0012" PC\
-2021-10-19 15:15:33,875 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
