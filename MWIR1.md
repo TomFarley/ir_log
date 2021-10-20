@@ -1,3 +1,8 @@
+2021-10-20 19:27:02,274 - Shot 45367 expected in dt: 97.6 s\
+2021-10-20 19:27:01,273 - ========== Shot number changed to 45367. State: "PreShot" ==========\
+2021-10-20 19:26:36,259 - In state "Run" for shot 45366\
+2021-10-20 19:02:50,780 - In state "PostShot" for shot 45366\
+2021-10-20 19:02:43,756 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 19:02:38,392 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-20" and copied file back to "auto_export"\
 2021-10-20 19:02:37,689 - SW_beam_dump: Renaming latest file from "000047.seq" to "045366.seq"\
 2021-10-20 19:02:37,689 - SW_beam_dump: File "000047.seq" for shot 47 (45366 expected) saved 7.5 s ago\
@@ -293,8 +298,3 @@
 2021-10-20 15:29:35,791 - In state "PostShot" for shot 45358\
 2021-10-20 15:29:27,706 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 15:29:22,956 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-20 15:29:22,956 - SW_beam_dump file created at 2021-10-20 08:49:41.834769. Shot state change at 2021-10-20 15:27:15.269118. dt=-23853.4 < 0\
-2021-10-20 15:29:22,955 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-20 15:29:22,954 - SW_beam_dump: File "045343.seq" for shot 45343 (45358 expected) saved 23981.1 s ago\
-2021-10-20 15:29:22,954 - SW_beam_dump: **Number of files, 1, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-20 15:29:22,952 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-20" and copied file back to "auto_export"\
