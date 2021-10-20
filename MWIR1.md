@@ -1,3 +1,19 @@
+2021-10-20 13:32:16,128 - Shot 45353 expected in dt: 13.9 s\
+2021-10-20 13:32:15,124 - In state "Trigger" for shot 45353\
+2021-10-20 13:32:09,093 - Shot 45353 expected in dt: 15.6 s\
+2021-10-20 13:31:59,031 - Shot 45353 expected in dt: 25.6 s\
+2021-10-20 13:31:48,985 - Shot 45353 expected in dt: 35.7 s\
+2021-10-20 13:31:38,933 - Shot 45353 expected in dt: 45.7 s\
+2021-10-20 13:31:28,858 - Shot 45353 expected in dt: 55.8 s\
+2021-10-20 13:31:18,812 - Shot 45353 expected in dt: 65.9 s\
+2021-10-20 13:31:08,760 - Shot 45353 expected in dt: 75.9 s\
+2021-10-20 13:31:02,728 - Pushed update to remote log: D:\ir_log\MWIR1.md\
+2021-10-20 13:30:51,449 - Shot 45353 expected in dt: 93.2 s\
+2021-10-20 13:30:50,443 - ========== Shot number changed to 45353. State: "PreShot" ==========\
+2021-10-20 13:30:25,440 - In state "Run" for shot 45352\
+2021-10-20 13:09:09,993 - Re-arming MWIR1\
+2021-10-20 13:08:44,980 - In state "PostShot" for shot 45352\
+2021-10-20 13:08:37,923 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 13:08:33,204 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-20 13:08:33,203 - SW_beam_dump file created at 2021-10-20 08:49:41.834769. Shot state change at 2021-10-20 13:06:20.044718. dt=-15398.2 < 0\
 2021-10-20 13:08:33,201 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -282,19 +298,3 @@
 2021-10-20 10:00:01,758 - Shot 45346 expected in dt: 83.4 s\
 2021-10-20 10:00:00,744 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-20 09:59:56,367 - Shot 45346 expected in dt: 88.8 s\
-2021-10-20 09:59:55,349 - ========== Shot number changed to 45346. State: "PreShot" ==========\
-2021-10-20 09:59:30,342 - In state "Run" for shot 45345\
-2021-10-20 09:36:34,819 - Re-arming MWIR1\
-2021-10-20 09:36:09,805 - In state "PostShot" for shot 45345\
-2021-10-20 09:36:01,753 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-20 09:35:56,694 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-20 09:35:56,694 - SW_beam_dump file created at 2021-10-20 08:49:41.834769. Shot state change at 2021-10-20 09:33:50.088170. dt=-2648.3 < 0\
-2021-10-20 09:35:56,693 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-20 09:35:56,693 - SW_beam_dump: File "045343.seq" for shot 45343 (45345 expected) saved 2774.9 s ago\
-2021-10-20 09:35:56,692 - SW_beam_dump: **Number of files, 1, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-20 09:35:56,691 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 09:35:56,271 - Px_protection: Renaming latest file from "000004.seq" to "045345.seq"\
-2021-10-20 09:35:56,271 - Px_protection: File "000004.seq" for shot 4 (45345 expected) saved 6.8 s ago\
-2021-10-20 09:35:56,269 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-20\045345.ats" (after failing to move it there)\
-2021-10-20 09:35:54,481 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 09:35:53,947 - MWIR1: Renaming latest file from "000003.ats" to "045345.ats"\
