@@ -1,3 +1,14 @@
+2021-10-20 13:32:54,475 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-20\45353.RAW" (after failing to move it there)\
+2021-10-20 13:32:52,697 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-20" and copied file back to "auto_export"\
+2021-10-20 13:32:52,179 - LWIR1: File "45353.RAW" for shot 45353 (45353 expected) saved 1.1 s ago\
+2021-10-20 13:32:52,177 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45353.RAW (file confirmed to exist)\
+2021-10-20 13:32:29,702 - Shot 45353 expected in dt: 0.9 s\
+2021-10-20 13:32:28,700 - Shot 45353 expected in dt: 1.9 s\
+2021-10-20 13:32:27,696 - Shot 45353 expected in dt: 2.9 s\
+2021-10-20 13:32:26,694 - Shot 45353 expected in dt: 3.9 s\
+2021-10-20 13:32:25,693 - Shot 45353 expected in dt: 4.9 s\
+2021-10-20 13:32:24,585 - Shot 45353 expected in dt: 6.0 s\
+2021-10-20 13:32:20,557 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-20 13:32:16,924 - Shot 45353 expected in dt: 13.7 s\
 2021-10-20 13:32:15,923 - In state "Trigger" for shot 45353\
 2021-10-20 13:31:01,854 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -287,14 +298,3 @@
 2021-10-19 18:54:47,169 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45339.RAW (file confirmed to exist)\
 2021-10-19 18:54:24,704 - Shot 45339 expected in dt: 0.2 s\
 2021-10-19 18:54:23,704 - Shot 45339 expected in dt: 1.2 s\
-2021-10-19 18:54:22,703 - Shot 45339 expected in dt: 2.2 s\
-2021-10-19 18:54:19,287 - Re-arming LWIR1\
-2021-10-19 18:54:19,286 - Shot 45339 expected in dt: 5.7 s\
-2021-10-19 18:54:18,285 - Shot 45339 expected in dt: 6.7 s\
-2021-10-19 18:54:15,280 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 18:54:11,776 - Shot 45339 expected in dt: 13.2 s\
-2021-10-19 18:54:10,775 - In state "Trigger" for shot 45339\
-2021-10-19 18:52:50,693 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-19 18:52:47,141 - Shot 45339 expected in dt: 92.4 s\
-2021-10-19 18:52:46,138 - ========== Shot number changed to 45339. State: "PreShot" ==========\
-2021-10-19 18:52:21,135 - In state "Run" for shot 45338\
