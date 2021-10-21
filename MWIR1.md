@@ -1,3 +1,24 @@
+2021-10-21 11:13:45,003 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 11:13:43,907 - SW_beam_dump: Renaming latest file from "000066.seq" to "045373.seq"\
+2021-10-21 11:13:43,892 - SW_beam_dump: File "000066.seq" for shot 66 (45373 expected) saved 7.5 s ago\
+2021-10-21 11:13:43,858 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 11:13:43,202 - Px_protection: Renaming latest file from "000065.seq" to "045373.seq"\
+2021-10-21 11:13:43,190 - Px_protection: File "000065.seq" for shot 65 (45373 expected) saved 7.2 s ago\
+2021-10-21 11:13:43,166 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045373.ats" (after failing to move it there)\
+2021-10-21 11:13:41,279 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 11:13:40,716 - MWIR1: Renaming latest file from "000064.ats" to "045373.ats"\
+2021-10-21 11:13:40,702 - MWIR1: File "000064.ats" for shot 64 (45373 expected) saved 9.8 s ago\
+2021-10-21 11:13:34,608 - Recording should finish in dt: 0.1 s\
+2021-10-21 11:13:33,597 - Recording should finish in dt: 1.1 s\
+2021-10-21 11:13:25,505 - Shot 45373 expected in dt: 0.2 s\
+2021-10-21 11:13:24,493 - Shot 45373 expected in dt: 1.2 s\
+2021-10-21 11:13:23,477 - Shot 45373 expected in dt: 2.2 s\
+2021-10-21 11:13:22,463 - Shot 45373 expected in dt: 3.3 s\
+2021-10-21 11:13:21,450 - Shot 45373 expected in dt: 4.3 s\
+2021-10-21 11:13:20,342 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-21 11:13:20,341 - Shot 45373 expected in dt: 5.4 s\
+2021-10-21 11:13:19,334 - Shot 45373 expected in dt: 6.4 s\
+2021-10-21 11:13:16,308 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 11:13:12,588 - Shot 45373 expected in dt: 13.1 s\
 2021-10-21 11:13:11,582 - In state "Trigger" for shot 45373\
 2021-10-21 11:13:09,571 - Shot 45373 expected in dt: 11.5 s\
@@ -277,24 +298,3 @@
 2021-10-20 18:33:03,044 - SW_beam_dump: Renaming latest file from "000044.seq" to "045365.seq"\
 2021-10-20 18:33:03,033 - SW_beam_dump: File "000044.seq" for shot 44 (45365 expected) saved 6.6 s ago\
 2021-10-20 18:33:03,016 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 18:33:02,523 - Px_protection: Renaming latest file from "000043.seq" to "045365.seq"\
-2021-10-20 18:33:02,523 - Px_protection: File "000043.seq" for shot 43 (45365 expected) saved 5.3 s ago\
-2021-10-20 18:33:02,519 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-20\045365.ats" (after failing to move it there)\
-2021-10-20 18:33:00,523 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 18:32:59,980 - MWIR1: Renaming latest file from "000042.ats" to "045365.ats"\
-2021-10-20 18:32:59,979 - MWIR1: File "000042.ats" for shot 42 (45365 expected) saved 9.5 s ago\
-2021-10-20 18:32:53,940 - Recording should finish in dt: 0.5 s\
-2021-10-20 18:32:52,934 - Recording should finish in dt: 1.5 s\
-2021-10-20 18:32:44,866 - Shot 45365 expected in dt: 0.6 s\
-2021-10-20 18:32:43,856 - Shot 45365 expected in dt: 1.6 s\
-2021-10-20 18:32:42,855 - Shot 45365 expected in dt: 2.6 s\
-2021-10-20 18:32:41,852 - Shot 45365 expected in dt: 3.6 s\
-2021-10-20 18:32:40,845 - Shot 45365 expected in dt: 4.6 s\
-2021-10-20 18:32:39,784 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-20 18:32:39,783 - Shot 45365 expected in dt: 5.6 s\
-2021-10-20 18:32:38,776 - Shot 45365 expected in dt: 6.6 s\
-2021-10-20 18:32:35,762 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-20 18:32:32,214 - Shot 45365 expected in dt: 13.2 s\
-2021-10-20 18:32:31,214 - In state "Trigger" for shot 45365\
-2021-10-20 18:32:31,213 - Shot 45365 expected in dt: 8.7 s\
-2021-10-20 18:32:21,164 - Shot 45365 expected in dt: 18.8 s\
