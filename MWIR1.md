@@ -1,3 +1,14 @@
+2021-10-21 19:19:02,828 - Shot 45386 expected in dt: 13.1 s\
+2021-10-21 19:19:01,825 - In state "Trigger" for shot 45386\
+2021-10-21 19:19:01,824 - Shot 45386 expected in dt: 9.6 s\
+2021-10-21 19:18:51,779 - Shot 45386 expected in dt: 19.6 s\
+2021-10-21 19:18:41,697 - Shot 45386 expected in dt: 29.7 s\
+2021-10-21 19:18:31,653 - Shot 45386 expected in dt: 39.7 s\
+2021-10-21 19:18:21,591 - Shot 45386 expected in dt: 49.8 s\
+2021-10-21 19:18:11,542 - Shot 45386 expected in dt: 59.9 s\
+2021-10-21 19:18:01,489 - Shot 45386 expected in dt: 69.9 s\
+2021-10-21 19:17:51,441 - Shot 45386 expected in dt: 80.0 s\
+2021-10-21 19:17:46,412 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 19:17:42,574 - Shot 45386 expected in dt: 88.8 s\
 2021-10-21 19:17:42,574 - A shot has been missed! Last recorded shot was 45384\
 2021-10-21 19:17:41,569 - ========== Shot number changed to 45386. State: "PreShot" ==========\
@@ -287,14 +298,3 @@
 2021-10-21 13:12:02,953 - Px_protection: File "000080.seq" for shot 80 (45378 expected) saved 6.3 s ago\
 2021-10-21 13:12:02,927 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045378.ats" (after failing to move it there)\
 2021-10-21 13:12:01,038 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 13:12:00,402 - MWIR1: Renaming latest file from "000079.ats" to "045378.ats"\
-2021-10-21 13:12:00,393 - MWIR1: File "000079.ats" for shot 79 (45378 expected) saved 9.3 s ago\
-2021-10-21 13:11:54,302 - Recording should finish in dt: 0.4 s\
-2021-10-21 13:11:53,294 - Recording should finish in dt: 1.4 s\
-2021-10-21 13:11:52,280 - Recording should finish in dt: 2.4 s\
-2021-10-21 13:11:45,228 - Shot 45378 expected in dt: 0.5 s\
-2021-10-21 13:11:44,222 - Shot 45378 expected in dt: 1.5 s\
-2021-10-21 13:11:43,219 - Shot 45378 expected in dt: 2.5 s\
-2021-10-21 13:11:42,206 - Shot 45378 expected in dt: 3.5 s\
-2021-10-21 13:11:41,204 - Shot 45378 expected in dt: 4.5 s\
-2021-10-21 13:11:40,067 - Starting protection cameras recording 6.0s before shot for 15.0s\
