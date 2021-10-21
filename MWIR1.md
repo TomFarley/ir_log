@@ -1,3 +1,12 @@
+2021-10-21 16:58:17,348 - Shot 45380 expected in dt: 13.7 s\
+2021-10-21 16:58:16,341 - In state "Trigger" for shot 45380\
+2021-10-21 16:58:15,336 - Shot 45380 expected in dt: 10.3 s\
+2021-10-21 16:58:05,277 - Shot 45380 expected in dt: 20.3 s\
+2021-10-21 16:57:55,224 - Shot 45380 expected in dt: 30.4 s\
+2021-10-21 16:57:45,171 - Shot 45380 expected in dt: 40.4 s\
+2021-10-21 16:57:35,110 - Shot 45380 expected in dt: 50.5 s\
+2021-10-21 16:57:25,059 - Shot 45380 expected in dt: 60.6 s\
+2021-10-21 16:57:14,995 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 16:57:11,052 - Shot 45380 expected in dt: 74.6 s\
 2021-10-21 16:57:10,050 - In state "PreShot" for shot 45380\
 2021-10-21 16:57:10,047 - Pushed update to remote log: D:\ir_log\MWIR1.md\
@@ -289,12 +298,3 @@
 2021-10-21 10:42:37,070 - In state "PostShot" for shot 45372\
 2021-10-21 10:42:34,038 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 10:42:28,934 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 10:42:28,463 - SW_beam_dump: Renaming latest file from "000063.seq" to "045372.seq"\
-2021-10-21 10:42:28,449 - SW_beam_dump: File "000063.seq" for shot 63 (45372 expected) saved 11.3 s ago\
-2021-10-21 10:42:28,441 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 10:42:28,074 - Px_protection: Renaming latest file from "000062.seq" to "045372.seq"\
-2021-10-21 10:42:28,068 - Px_protection: File "000062.seq" for shot 62 (45372 expected) saved 11.2 s ago\
-2021-10-21 10:42:28,066 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045372.ats" (after failing to move it there)\
-2021-10-21 10:42:21,167 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 10:42:20,569 - MWIR1: Renaming latest file from "000061.ats" to "045372.ats"\
-2021-10-21 10:42:20,567 - MWIR1: File "000061.ats" for shot 61 (45372 expected) saved 10.2 s ago\
