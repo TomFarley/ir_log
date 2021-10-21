@@ -1,3 +1,6 @@
+2021-10-21 16:57:11,052 - Shot 45380 expected in dt: 74.6 s\
+2021-10-21 16:57:10,050 - In state "PreShot" for shot 45380\
+2021-10-21 16:57:10,047 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 16:57:04,443 - Shot 45380 expected in dt: 82.0 s\
 2021-10-21 16:56:39,430 - In state "Ready" for shot 45380\
 2021-10-21 14:06:10,890 - Re-arming MWIR1\
@@ -295,6 +298,3 @@
 2021-10-21 10:42:21,167 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
 2021-10-21 10:42:20,569 - MWIR1: Renaming latest file from "000061.ats" to "045372.ats"\
 2021-10-21 10:42:20,567 - MWIR1: File "000061.ats" for shot 61 (45372 expected) saved 10.2 s ago\
-2021-10-21 10:42:14,508 - Recording should finish in dt: 0.7 s\
-2021-10-21 10:42:13,498 - Recording should finish in dt: 1.7 s\
-2021-10-21 10:42:11,480 - Recording should finish in dt: 3.8 s\
