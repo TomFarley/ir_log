@@ -1,3 +1,24 @@
+2021-10-21 10:42:28,934 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 10:42:28,463 - SW_beam_dump: Renaming latest file from "000063.seq" to "045372.seq"\
+2021-10-21 10:42:28,449 - SW_beam_dump: File "000063.seq" for shot 63 (45372 expected) saved 11.3 s ago\
+2021-10-21 10:42:28,441 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 10:42:28,074 - Px_protection: Renaming latest file from "000062.seq" to "045372.seq"\
+2021-10-21 10:42:28,068 - Px_protection: File "000062.seq" for shot 62 (45372 expected) saved 11.2 s ago\
+2021-10-21 10:42:28,066 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045372.ats" (after failing to move it there)\
+2021-10-21 10:42:21,167 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 10:42:20,569 - MWIR1: Renaming latest file from "000061.ats" to "045372.ats"\
+2021-10-21 10:42:20,567 - MWIR1: File "000061.ats" for shot 61 (45372 expected) saved 10.2 s ago\
+2021-10-21 10:42:14,508 - Recording should finish in dt: 0.7 s\
+2021-10-21 10:42:13,498 - Recording should finish in dt: 1.7 s\
+2021-10-21 10:42:11,480 - Recording should finish in dt: 3.8 s\
+2021-10-21 10:42:05,433 - Shot 45372 expected in dt: 0.8 s\
+2021-10-21 10:42:04,431 - Shot 45372 expected in dt: 1.8 s\
+2021-10-21 10:42:03,418 - Shot 45372 expected in dt: 2.8 s\
+2021-10-21 10:42:02,404 - Shot 45372 expected in dt: 3.8 s\
+2021-10-21 10:42:01,252 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-21 10:42:01,252 - Shot 45372 expected in dt: 5.0 s\
+2021-10-21 10:42:00,239 - Shot 45372 expected in dt: 6.0 s\
+2021-10-21 10:41:56,214 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 10:41:52,586 - Shot 45372 expected in dt: 13.7 s\
 2021-10-21 10:41:51,580 - In state "Trigger" for shot 45372\
 2021-10-21 10:41:47,561 - Shot 45372 expected in dt: 13.2 s\
@@ -277,24 +298,3 @@
 2021-10-20 18:08:43,108 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-20" and copied file back to "auto_export"\
 2021-10-20 18:08:42,336 - SW_beam_dump: Renaming latest file from "000041.seq" to "045364.seq"\
 2021-10-20 18:08:42,333 - SW_beam_dump: File "000041.seq" for shot 41 (45364 expected) saved 7.5 s ago\
-2021-10-20 18:08:42,327 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 18:08:41,867 - Px_protection: Renaming latest file from "000040.seq" to "045364.seq"\
-2021-10-20 18:08:41,866 - Px_protection: File "000040.seq" for shot 40 (45364 expected) saved 7.3 s ago\
-2021-10-20 18:08:41,858 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-20\045364.ats" (after failing to move it there)\
-2021-10-20 18:08:40,025 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-20" and copied file back to "auto_export"\
-2021-10-20 18:08:39,448 - MWIR1: Renaming latest file from "000039.ats" to "045364.ats"\
-2021-10-20 18:08:39,446 - MWIR1: File "000039.ats" for shot 39 (45364 expected) saved 11.2 s ago\
-2021-10-20 18:08:33,352 - Recording should finish in dt: 0.5 s\
-2021-10-20 18:08:32,341 - Recording should finish in dt: 1.5 s\
-2021-10-20 18:08:24,277 - Shot 45364 expected in dt: 0.6 s\
-2021-10-20 18:08:23,274 - Shot 45364 expected in dt: 1.6 s\
-2021-10-20 18:08:22,261 - Shot 45364 expected in dt: 2.6 s\
-2021-10-20 18:08:21,258 - Shot 45364 expected in dt: 3.6 s\
-2021-10-20 18:08:20,257 - Shot 45364 expected in dt: 4.6 s\
-2021-10-20 18:08:19,191 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-20 18:08:19,191 - Shot 45364 expected in dt: 5.6 s\
-2021-10-20 18:08:18,184 - Shot 45364 expected in dt: 6.6 s\
-2021-10-20 18:08:15,167 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-20 18:08:11,631 - Shot 45364 expected in dt: 13.2 s\
-2021-10-20 18:08:10,613 - In state "Trigger" for shot 45364\
-2021-10-20 18:08:09,608 - Shot 45364 expected in dt: 10.9 s\
