@@ -1,3 +1,14 @@
+2021-10-21 19:04:17,849 - Shot 45384 expected in dt: 13.1 s\
+2021-10-21 19:04:16,847 - In state "Trigger" for shot 45384\
+2021-10-21 19:04:14,833 - Shot 45384 expected in dt: 15.9 s\
+2021-10-21 19:04:04,796 - Shot 45384 expected in dt: 25.9 s\
+2021-10-21 19:03:54,741 - Shot 45384 expected in dt: 36.0 s\
+2021-10-21 19:03:44,691 - Shot 45384 expected in dt: 46.0 s\
+2021-10-21 19:03:34,640 - Shot 45384 expected in dt: 56.1 s\
+2021-10-21 19:03:24,587 - Shot 45384 expected in dt: 66.1 s\
+2021-10-21 19:03:14,527 - Shot 45384 expected in dt: 76.2 s\
+2021-10-21 19:03:04,484 - Shot 45384 expected in dt: 86.2 s\
+2021-10-21 19:03:02,473 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 19:02:58,091 - Shot 45384 expected in dt: 92.6 s\
 2021-10-21 19:02:57,085 - ========== Shot number changed to 45384. State: "PreShot" ==========\
 2021-10-21 19:02:07,072 - In state "Run" for shot 45383\
@@ -287,14 +298,3 @@
 2021-10-21 12:47:23,213 - Shot 45377 expected in dt: 103.1 s\
 2021-10-21 12:47:22,209 - ========== Shot number changed to 45377. State: "PreShot" ==========\
 2021-10-21 12:46:57,194 - In state "Run" for shot 45376\
-2021-10-21 12:26:06,646 - Re-arming MWIR1\
-2021-10-21 12:25:41,632 - In state "PostShot" for shot 45376\
-2021-10-21 12:25:34,572 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 12:25:29,579 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 12:25:28,687 - SW_beam_dump: Renaming latest file from "000075.seq" to "045376.seq"\
-2021-10-21 12:25:28,686 - SW_beam_dump: File "000075.seq" for shot 75 (45376 expected) saved 7.4 s ago\
-2021-10-21 12:25:28,679 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 12:25:28,067 - Px_protection: Renaming latest file from "000074.seq" to "045376.seq"\
-2021-10-21 12:25:28,067 - Px_protection: File "000074.seq" for shot 74 (45376 expected) saved 6.6 s ago\
-2021-10-21 12:25:28,065 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045376.ats" (after failing to move it there)\
-2021-10-21 12:25:26,278 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
