@@ -1,3 +1,14 @@
+2021-10-21 17:55:27,332 - Shot 45382 expected in dt: 13.3 s\
+2021-10-21 17:55:26,319 - In state "Trigger" for shot 45382\
+2021-10-21 17:55:20,279 - Shot 45382 expected in dt: 21.1 s\
+2021-10-21 17:55:10,246 - Shot 45382 expected in dt: 31.1 s\
+2021-10-21 17:55:00,203 - Shot 45382 expected in dt: 41.2 s\
+2021-10-21 17:54:50,147 - Shot 45382 expected in dt: 51.2 s\
+2021-10-21 17:54:40,106 - Shot 45382 expected in dt: 61.3 s\
+2021-10-21 17:54:30,056 - Shot 45382 expected in dt: 71.3 s\
+2021-10-21 17:54:20,009 - Shot 45382 expected in dt: 81.3 s\
+2021-10-21 17:54:09,956 - Shot 45382 expected in dt: 91.4 s\
+2021-10-21 17:54:06,940 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 17:54:03,391 - Shot 45382 expected in dt: 98.0 s\
 2021-10-21 17:54:02,385 - ========== Shot number changed to 45382. State: "PreShot" ==========\
 2021-10-21 17:53:37,379 - In state "Run" for shot 45381\
@@ -287,14 +298,3 @@
 2021-10-21 11:57:06,068 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 11:57:02,031 - Shot 45375 expected in dt: 83.4 s\
 2021-10-21 11:56:37,029 - ========== Shot number changed to 45375. State: "Ready" ==========\
-2021-10-21 11:56:12,015 - In state "Run" for shot 45374\
-2021-10-21 11:42:26,703 - Re-arming MWIR1\
-2021-10-21 11:42:01,693 - In state "PostShot" for shot 45374\
-2021-10-21 11:41:58,641 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 11:41:50,356 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 11:41:49,175 - SW_beam_dump: Renaming latest file from "000069.seq" to "045374.seq"\
-2021-10-21 11:41:49,151 - SW_beam_dump: File "000069.seq" for shot 69 (45374 expected) saved 7.5 s ago\
-2021-10-21 11:41:49,136 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 11:41:48,567 - Px_protection: Renaming latest file from "000068.seq" to "045374.seq"\
-2021-10-21 11:41:48,565 - Px_protection: File "000068.seq" for shot 68 (45374 expected) saved 4.9 s ago\
-2021-10-21 11:41:48,530 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045374.ats" (after failing to move it there)\
