@@ -1,3 +1,11 @@
+2021-10-21 17:17:52,321 - Shot 45381 expected in dt: 83.3 s\
+2021-10-21 17:17:27,314 - ========== Shot number changed to 45381. State: "Ready" ==========\
+2021-10-21 17:17:02,307 - In state "Run" for shot 45380\
+2021-10-21 17:16:12,286 - In state "PostShot" for shot 45380\
+2021-10-21 17:15:47,272 - In state "PostShot" for shot 45380\
+2021-10-21 16:59:31,918 - Re-arming MWIR1\
+2021-10-21 16:59:06,907 - In state "PostShot" for shot 45380\
+2021-10-21 16:58:57,807 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 16:58:49,428 - Copied file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21\045380.seq" (after failing to move it there)\
 2021-10-21 16:58:48,636 - SW_beam_dump: Renaming latest file from "000088.seq" to "045380.seq"\
 2021-10-21 16:58:48,635 - SW_beam_dump: Overwriting existing file: D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\045380.seq\
@@ -290,11 +298,3 @@
 2021-10-21 11:13:43,202 - Px_protection: Renaming latest file from "000065.seq" to "045373.seq"\
 2021-10-21 11:13:43,190 - Px_protection: File "000065.seq" for shot 65 (45373 expected) saved 7.2 s ago\
 2021-10-21 11:13:43,166 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045373.ats" (after failing to move it there)\
-2021-10-21 11:13:41,279 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 11:13:40,716 - MWIR1: Renaming latest file from "000064.ats" to "045373.ats"\
-2021-10-21 11:13:40,702 - MWIR1: File "000064.ats" for shot 64 (45373 expected) saved 9.8 s ago\
-2021-10-21 11:13:34,608 - Recording should finish in dt: 0.1 s\
-2021-10-21 11:13:33,597 - Recording should finish in dt: 1.1 s\
-2021-10-21 11:13:25,505 - Shot 45373 expected in dt: 0.2 s\
-2021-10-21 11:13:24,493 - Shot 45373 expected in dt: 1.2 s\
-2021-10-21 11:13:23,477 - Shot 45373 expected in dt: 2.2 s\
