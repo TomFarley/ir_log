@@ -1,3 +1,14 @@
+2021-10-21 19:11:12,973 - Shot 45385 expected in dt: 13.5 s\
+2021-10-21 19:11:11,969 - In state "Trigger" for shot 45385\
+2021-10-21 19:11:02,934 - Shot 45385 expected in dt: 18.0 s\
+2021-10-21 19:10:52,883 - Shot 45385 expected in dt: 28.1 s\
+2021-10-21 19:10:42,820 - Shot 45385 expected in dt: 38.2 s\
+2021-10-21 19:10:32,765 - Shot 45385 expected in dt: 48.2 s\
+2021-10-21 19:10:22,709 - Shot 45385 expected in dt: 58.3 s\
+2021-10-21 19:10:12,668 - Shot 45385 expected in dt: 68.3 s\
+2021-10-21 19:10:02,625 - Shot 45385 expected in dt: 78.4 s\
+2021-10-21 19:09:52,580 - Shot 45385 expected in dt: 88.4 s\
+2021-10-21 19:09:42,518 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 19:09:38,076 - Shot 45385 expected in dt: 102.9 s\
 2021-10-21 19:09:37,070 - ========== Shot number changed to 45385. State: "PreShot" ==========\
 2021-10-21 19:08:47,048 - In state "Run" for shot 45384\
@@ -287,14 +298,3 @@
 2021-10-21 13:10:07,040 - ========== Shot number changed to 45378. State: "PreShot" ==========\
 2021-10-21 13:09:42,029 - In state "Run" for shot 45377\
 2021-10-21 12:50:06,668 - Re-arming MWIR1\
-2021-10-21 12:49:41,659 - In state "PostShot" for shot 45377\
-2021-10-21 12:49:34,617 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 12:49:29,178 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 12:49:28,257 - SW_beam_dump: Renaming latest file from "000078.seq" to "045377.seq"\
-2021-10-21 12:49:28,256 - SW_beam_dump: File "000078.seq" for shot 78 (45377 expected) saved 6.5 s ago\
-2021-10-21 12:49:28,240 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 12:49:27,521 - Px_protection: Renaming latest file from "000077.seq" to "045377.seq"\
-2021-10-21 12:49:27,520 - Px_protection: File "000077.seq" for shot 77 (45377 expected) saved 6.1 s ago\
-2021-10-21 12:49:27,507 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045377.ats" (after failing to move it there)\
-2021-10-21 12:49:25,693 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 12:49:25,047 - MWIR1: Renaming latest file from "000076.ats" to "045377.ats"\
