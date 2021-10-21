@@ -1,3 +1,24 @@
+2021-10-21 12:49:29,178 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 12:49:28,257 - SW_beam_dump: Renaming latest file from "000078.seq" to "045377.seq"\
+2021-10-21 12:49:28,256 - SW_beam_dump: File "000078.seq" for shot 78 (45377 expected) saved 6.5 s ago\
+2021-10-21 12:49:28,240 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 12:49:27,521 - Px_protection: Renaming latest file from "000077.seq" to "045377.seq"\
+2021-10-21 12:49:27,520 - Px_protection: File "000077.seq" for shot 77 (45377 expected) saved 6.1 s ago\
+2021-10-21 12:49:27,507 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045377.ats" (after failing to move it there)\
+2021-10-21 12:49:25,693 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
+2021-10-21 12:49:25,047 - MWIR1: Renaming latest file from "000076.ats" to "045377.ats"\
+2021-10-21 12:49:25,047 - MWIR1: File "000076.ats" for shot 76 (45377 expected) saved 9.7 s ago\
+2021-10-21 12:49:18,992 - Recording should finish in dt: 0.7 s\
+2021-10-21 12:49:17,983 - Recording should finish in dt: 1.7 s\
+2021-10-21 12:49:16,971 - Recording should finish in dt: 2.7 s\
+2021-10-21 12:49:09,909 - Shot 45377 expected in dt: 0.8 s\
+2021-10-21 12:49:08,907 - Shot 45377 expected in dt: 1.8 s\
+2021-10-21 12:49:07,905 - Shot 45377 expected in dt: 2.8 s\
+2021-10-21 12:49:06,902 - Shot 45377 expected in dt: 3.8 s\
+2021-10-21 12:49:05,720 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-21 12:49:05,720 - Shot 45377 expected in dt: 5.0 s\
+2021-10-21 12:49:04,713 - Shot 45377 expected in dt: 6.0 s\
+2021-10-21 12:49:00,683 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 12:48:57,111 - Shot 45377 expected in dt: 13.6 s\
 2021-10-21 12:48:56,109 - In state "Trigger" for shot 45377\
 2021-10-21 12:48:53,097 - Shot 45377 expected in dt: 13.2 s\
@@ -277,24 +298,3 @@
 2021-10-21 09:06:30,250 - Shot 45370 expected in dt: 25.4 s\
 2021-10-21 09:06:20,189 - Shot 45370 expected in dt: 35.5 s\
 2021-10-21 09:06:10,117 - Shot 45370 expected in dt: 45.6 s\
-2021-10-21 09:06:00,056 - Shot 45370 expected in dt: 55.6 s\
-2021-10-21 09:05:49,980 - Shot 45370 expected in dt: 65.7 s\
-2021-10-21 09:05:39,912 - Shot 45370 expected in dt: 75.8 s\
-2021-10-21 09:05:29,834 - Shot 45370 expected in dt: 85.9 s\
-2021-10-21 09:05:28,825 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 09:05:25,385 - Shot 45370 expected in dt: 90.3 s\
-2021-10-21 09:05:24,375 - ========== Shot number changed to 45370. State: "PreShot" ==========\
-2021-10-21 09:04:34,365 - In state "Run" for shot 45369\
-2021-10-21 08:53:44,168 - In state "PostShot" for shot 45369\
-2021-10-21 08:53:44,165 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 08:53:36,393 - ========== Ready for shot 45370 in state "PostShot" ==========\
-2021-10-21 08:53:36,342 - Re-arming MWIR1\
-2021-10-21 08:53:36,321 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-21 08:53:36,321 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-21 08:53:36,321 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-21 08:53:36,320 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211021.log"\
-2021-10-21 08:53:36,320 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-21 08:53:36,319 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-21 08:53:36,304 - Starting automation on "MWIR-PC1" PC\
-2021-10-21 08:37:09,352 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-21 08:37:09,271 - >>> CTRL+C <<<\
