@@ -1,3 +1,14 @@
+2021-10-21 14:05:02,850 - Shot 45380 expected in dt: 13.5 s\
+2021-10-21 14:05:01,834 - In state "Trigger" for shot 45380\
+2021-10-21 14:04:52,779 - Shot 45380 expected in dt: 18.1 s\
+2021-10-21 14:04:42,729 - Shot 45380 expected in dt: 28.1 s\
+2021-10-21 14:04:32,698 - Shot 45380 expected in dt: 38.2 s\
+2021-10-21 14:04:22,633 - Shot 45380 expected in dt: 48.2 s\
+2021-10-21 14:04:12,561 - Shot 45380 expected in dt: 58.3 s\
+2021-10-21 14:04:02,491 - Shot 45380 expected in dt: 68.4 s\
+2021-10-21 14:03:52,446 - Shot 45380 expected in dt: 78.4 s\
+2021-10-21 14:03:42,331 - Shot 45380 expected in dt: 88.5 s\
+2021-10-21 14:03:32,246 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 14:03:27,908 - Shot 45380 expected in dt: 102.9 s\
 2021-10-21 14:03:27,905 - A shot has been missed! Last recorded shot was 45378\
 2021-10-21 14:03:26,889 - ========== Shot number changed to 45380. State: "PreShot" ==========\
@@ -287,14 +298,3 @@
 2021-10-21 10:16:51,420 - In state "PostShot" for shot 45371\
 2021-10-21 10:16:45,344 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 10:16:39,679 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 10:16:38,746 - SW_beam_dump: Renaming latest file from "000060.seq" to "045371.seq"\
-2021-10-21 10:16:38,738 - SW_beam_dump: File "000060.seq" for shot 60 (45371 expected) saved 7.4 s ago\
-2021-10-21 10:16:38,723 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 10:16:38,139 - Px_protection: Renaming latest file from "000059.seq" to "045371.seq"\
-2021-10-21 10:16:38,138 - Px_protection: File "000059.seq" for shot 59 (45371 expected) saved 7.2 s ago\
-2021-10-21 10:16:38,134 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045371.ats" (after failing to move it there)\
-2021-10-21 10:16:36,292 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 10:16:35,632 - MWIR1: Renaming latest file from "000058.ats" to "045371.ats"\
-2021-10-21 10:16:35,631 - MWIR1: File "000058.ats" for shot 58 (45371 expected) saved 10.8 s ago\
-2021-10-21 10:16:29,583 - Recording should finish in dt: 0.3 s\
-2021-10-21 10:16:28,571 - Recording should finish in dt: 1.3 s\
