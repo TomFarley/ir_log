@@ -1,3 +1,14 @@
+2021-10-22 13:04:04,050 - Shot 45395 expected in dt: 13.0 s\
+2021-10-22 13:04:03,048 - In state "Trigger" for shot 45395\
+2021-10-22 13:03:55,014 - Shot 45395 expected in dt: 16.6 s\
+2021-10-22 13:03:44,972 - Shot 45395 expected in dt: 26.6 s\
+2021-10-22 13:03:34,919 - Shot 45395 expected in dt: 36.7 s\
+2021-10-22 13:03:24,879 - Shot 45395 expected in dt: 46.7 s\
+2021-10-22 13:03:14,826 - Shot 45395 expected in dt: 56.8 s\
+2021-10-22 13:03:04,774 - Shot 45395 expected in dt: 66.8 s\
+2021-10-22 13:02:54,744 - Shot 45395 expected in dt: 76.9 s\
+2021-10-22 13:02:44,698 - Shot 45395 expected in dt: 86.9 s\
+2021-10-22 13:02:41,672 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-22 13:02:38,337 - Shot 45395 expected in dt: 93.3 s\
 2021-10-22 13:02:38,337 - A shot has been missed! Last recorded shot was 45393\
 2021-10-22 13:02:37,323 - ========== Shot number changed to 45395. State: "PreShot" ==========\
@@ -287,14 +298,3 @@
 2021-10-21 19:55:44,213 - Shot 45388 expected in dt: 81.6 s\
 2021-10-21 19:55:34,154 - Shot 45388 expected in dt: 91.6 s\
 2021-10-21 19:55:32,145 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 19:55:28,855 - Shot 45388 expected in dt: 96.9 s\
-2021-10-21 19:55:27,853 - ========== Shot number changed to 45388. State: "PreShot" ==========\
-2021-10-21 19:54:37,828 - In state "Run" for shot 45387\
-2021-10-21 19:32:57,397 - In state "PostShot" for shot 45387\
-2021-10-21 19:32:56,393 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 19:32:50,619 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 19:32:49,634 - SW_beam_dump: Renaming latest file from "000106.seq" to "045387.seq"\
-2021-10-21 19:32:49,634 - SW_beam_dump: File "000106.seq" for shot 106 (45387 expected) saved 12.7 s ago\
-2021-10-21 19:32:49,627 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 19:32:48,732 - Px_protection: Renaming latest file from "000105.seq" to "045387.seq"\
-2021-10-21 19:32:48,731 - Px_protection: File "000105.seq" for shot 105 (45387 expected) saved 12.0 s ago\
