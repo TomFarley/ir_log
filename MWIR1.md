@@ -1,3 +1,15 @@
+2021-10-22 10:35:22,735 - Shot 45390 expected in dt: 14.0 s\
+2021-10-22 10:35:21,728 - In state "Trigger" for shot 45390\
+2021-10-22 10:35:14,689 - Shot 45390 expected in dt: 16.5 s\
+2021-10-22 10:35:04,639 - Shot 45390 expected in dt: 26.5 s\
+2021-10-22 10:34:54,587 - Shot 45390 expected in dt: 36.6 s\
+2021-10-22 10:34:44,533 - Shot 45390 expected in dt: 46.6 s\
+2021-10-22 10:34:34,485 - Shot 45390 expected in dt: 56.7 s\
+2021-10-22 10:34:24,436 - Shot 45390 expected in dt: 66.7 s\
+2021-10-22 10:34:14,389 - Shot 45390 expected in dt: 76.8 s\
+2021-10-22 10:34:04,334 - Shot 45390 expected in dt: 86.8 s\
+2021-10-22 10:33:54,270 - Shot 45390 expected in dt: 96.9 s\
+2021-10-22 10:33:53,260 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-22 10:33:49,041 - Shot 45390 expected in dt: 102.1 s\
 2021-10-22 10:33:48,037 - ========== Shot number changed to 45390. State: "PreShot" ==========\
 2021-10-22 10:33:23,022 - In state "Run" for shot 45389\
@@ -286,15 +298,3 @@
 2021-10-21 18:27:11,153 - Shot 45383 expected in dt: 60.2 s\
 2021-10-21 18:27:01,109 - Shot 45383 expected in dt: 70.2 s\
 2021-10-21 18:26:51,047 - Shot 45383 expected in dt: 80.3 s\
-2021-10-21 18:26:48,034 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 18:26:43,144 - Shot 45383 expected in dt: 88.2 s\
-2021-10-21 18:26:42,138 - ========== Shot number changed to 45383. State: "PreShot" ==========\
-2021-10-21 18:25:52,126 - In state "Run" for shot 45382\
-2021-10-21 17:56:41,541 - Re-arming MWIR1\
-2021-10-21 17:56:16,534 - In state "PostShot" for shot 45382\
-2021-10-21 17:56:04,435 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 17:55:59,294 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 17:55:58,182 - SW_beam_dump: Renaming latest file from "000094.seq" to "045382.seq"\
-2021-10-21 17:55:58,181 - SW_beam_dump: File "000094.seq" for shot 94 (45382 expected) saved 7.5 s ago\
-2021-10-21 17:55:58,178 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 17:55:57,314 - Px_protection: Renaming latest file from "000093.seq" to "045382.seq"\
