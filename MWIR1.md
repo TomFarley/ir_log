@@ -1,3 +1,9 @@
+2021-10-22 12:35:42,943 - Shot 45393 expected in dt: 88.3 s\
+2021-10-22 12:35:41,934 - ========== Shot number changed to 45393. State: "PreShot" ==========\
+2021-10-22 12:35:16,923 - In state "Run" for shot 45392\
+2021-10-22 12:16:06,555 - Re-arming MWIR1\
+2021-10-22 12:15:41,552 - In state "PostShot" for shot 45392\
+2021-10-22 12:15:34,499 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-22 12:15:29,380 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-22" and copied file back to "auto_export"\
 2021-10-22 12:15:28,897 - SW_beam_dump: Renaming latest file from "000011.seq" to "045392.seq"\
 2021-10-22 12:15:28,897 - SW_beam_dump: File "000011.seq" for shot 11 (45392 expected) saved 7.2 s ago\
@@ -292,9 +298,3 @@
 2021-10-21 19:18:31,653 - Shot 45386 expected in dt: 39.7 s\
 2021-10-21 19:18:21,591 - Shot 45386 expected in dt: 49.8 s\
 2021-10-21 19:18:11,542 - Shot 45386 expected in dt: 59.9 s\
-2021-10-21 19:18:01,489 - Shot 45386 expected in dt: 69.9 s\
-2021-10-21 19:17:51,441 - Shot 45386 expected in dt: 80.0 s\
-2021-10-21 19:17:46,412 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 19:17:42,574 - Shot 45386 expected in dt: 88.8 s\
-2021-10-21 19:17:42,574 - A shot has been missed! Last recorded shot was 45384\
-2021-10-21 19:17:41,569 - ========== Shot number changed to 45386. State: "PreShot" ==========\
