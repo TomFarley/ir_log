@@ -1,3 +1,16 @@
+2021-10-22 15:16:12,713 - Shot 45400 expected in dt: 13.4 s\
+2021-10-22 15:16:11,711 - In state "Trigger" for shot 45400\
+2021-10-22 15:16:11,710 - Shot 45400 expected in dt: 5.1 s\
+2021-10-22 15:16:10,700 - Shot 45400 expected in dt: 6.1 s\
+2021-10-22 15:16:01,660 - Shot 45400 expected in dt: 15.1 s\
+2021-10-22 15:15:51,611 - Shot 45400 expected in dt: 25.2 s\
+2021-10-22 15:15:41,567 - Shot 45400 expected in dt: 35.2 s\
+2021-10-22 15:15:31,527 - Shot 45400 expected in dt: 45.3 s\
+2021-10-22 15:15:21,485 - Shot 45400 expected in dt: 55.3 s\
+2021-10-22 15:15:11,430 - Shot 45400 expected in dt: 65.4 s\
+2021-10-22 15:15:01,368 - Shot 45400 expected in dt: 75.4 s\
+2021-10-22 15:14:51,322 - Shot 45400 expected in dt: 85.5 s\
+2021-10-22 15:14:47,278 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-22 15:14:42,956 - Shot 45400 expected in dt: 93.9 s\
 2021-10-22 15:14:41,953 - ========== Shot number changed to 45400. State: "PreShot" ==========\
 2021-10-22 15:13:51,938 - In state "Run" for shot 45399\
@@ -285,16 +298,3 @@
 2021-10-22 12:15:25,135 - MWIR1: Renaming latest file from "000009.ats" to "045392.ats"\
 2021-10-22 12:15:25,134 - MWIR1: File "000009.ats" for shot 9 (45392 expected) saved 8.8 s ago\
 2021-10-22 12:15:20,072 - Recording should finish in dt: 0.0 s\
-2021-10-22 12:15:19,060 - Recording should finish in dt: 1.0 s\
-2021-10-22 12:15:13,015 - Recording should finish in dt: 7.1 s\
-2021-10-22 12:15:10,996 - Shot 45392 expected in dt: 0.1 s\
-2021-10-22 12:15:09,989 - Shot 45392 expected in dt: 1.1 s\
-2021-10-22 12:15:08,983 - Shot 45392 expected in dt: 2.1 s\
-2021-10-22 12:15:07,981 - Shot 45392 expected in dt: 3.1 s\
-2021-10-22 12:15:06,973 - Shot 45392 expected in dt: 4.1 s\
-2021-10-22 12:15:05,878 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-22 12:15:05,877 - Shot 45392 expected in dt: 5.2 s\
-2021-10-22 12:15:04,871 - Shot 45392 expected in dt: 6.2 s\
-2021-10-22 12:15:02,867 - Shot 45392 expected in dt: 8.2 s\
-2021-10-22 12:15:00,852 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-22 12:14:57,430 - Shot 45392 expected in dt: 13.6 s\
