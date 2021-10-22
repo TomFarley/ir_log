@@ -1,3 +1,14 @@
+2021-10-22 16:02:57,978 - Shot 45403 expected in dt: 14.0 s\
+2021-10-22 16:02:56,964 - In state "Trigger" for shot 45403\
+2021-10-22 16:02:53,955 - Shot 45403 expected in dt: 12.5 s\
+2021-10-22 16:02:43,892 - Shot 45403 expected in dt: 22.6 s\
+2021-10-22 16:02:33,854 - Shot 45403 expected in dt: 32.6 s\
+2021-10-22 16:02:23,777 - Shot 45403 expected in dt: 42.7 s\
+2021-10-22 16:02:13,732 - Shot 45403 expected in dt: 52.8 s\
+2021-10-22 16:02:03,694 - Shot 45403 expected in dt: 62.8 s\
+2021-10-22 16:01:53,654 - Shot 45403 expected in dt: 72.8 s\
+2021-10-22 16:01:43,623 - Shot 45403 expected in dt: 82.9 s\
+2021-10-22 16:01:36,598 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-22 16:01:32,653 - Shot 45403 expected in dt: 93.8 s\
 2021-10-22 16:01:31,651 - ========== Shot number changed to 45403. State: "PreShot" ==========\
 2021-10-22 16:01:06,636 - In state "Run" for shot 45402\
@@ -287,14 +298,3 @@
 2021-10-22 13:33:06,968 - ========== Shot number changed to 45396. State: "PreShot" ==========\
 2021-10-22 13:32:41,961 - In state "Run" for shot 45395\
 2021-10-22 13:05:11,445 - Re-arming MWIR1\
-2021-10-22 13:04:46,441 - In state "PostShot" for shot 45395\
-2021-10-22 13:04:39,369 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-22 13:04:34,768 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-22 13:04:34,768 - SW_beam_dump file created at 2021-10-22 12:15:29.369156. Shot state change at 2021-10-22 13:02:26.611421. dt=-2817.2 < 0\
-2021-10-22 13:04:34,767 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-22 13:04:34,767 - SW_beam_dump: File "045392.seq" for shot 45392 (45395 expected) saved 2945.4 s ago\
-2021-10-22 13:04:34,766 - SW_beam_dump: **Number of files, 4, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-22 13:04:34,762 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-22" and copied file back to "auto_export"\
-2021-10-22 13:04:34,006 - Px_protection: Renaming latest file from "000014.seq" to "045395.seq"\
-2021-10-22 13:04:34,003 - Px_protection: File "000014.seq" for shot 14 (45395 expected) saved 7.2 s ago\
-2021-10-22 13:04:33,980 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-22\045395.ats" (after failing to move it there)\
