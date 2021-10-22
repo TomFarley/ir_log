@@ -1,3 +1,18 @@
+2021-10-22 15:55:11,762 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-22\45402.RAW" (after failing to move it there)\
+2021-10-22 15:55:09,942 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-22" and copied file back to "auto_export"\
+2021-10-22 15:55:09,451 - LWIR1: File "45402.RAW" for shot 45402 (45402 expected) saved 1.2 s ago\
+2021-10-22 15:55:09,448 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45402.RAW (file confirmed to exist)\
+2021-10-22 15:54:46,894 - Shot 45402 expected in dt: 0.9 s\
+2021-10-22 15:54:45,893 - Shot 45402 expected in dt: 1.9 s\
+2021-10-22 15:54:44,891 - Shot 45402 expected in dt: 2.9 s\
+2021-10-22 15:54:43,889 - Shot 45402 expected in dt: 3.9 s\
+2021-10-22 15:54:42,887 - Shot 45402 expected in dt: 4.9 s\
+2021-10-22 15:54:41,886 - Shot 45402 expected in dt: 5.9 s\
+2021-10-22 15:54:40,885 - Shot 45402 expected in dt: 6.9 s\
+2021-10-22 15:54:37,882 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-22 15:54:34,197 - Shot 45402 expected in dt: 13.6 s\
+2021-10-22 15:54:33,196 - In state "Trigger" for shot 45402\
+2021-10-22 15:53:29,121 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-22 15:53:24,673 - Shot 45402 expected in dt: 77.6 s\
 2021-10-22 15:53:23,672 - In state "PreShot" for shot 45402\
 2021-10-22 15:53:23,670 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -283,18 +298,3 @@
 2021-10-22 09:40:07,034 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
 2021-10-22 09:40:07,033 - **Starting camera automation for cameras: LWIR1**\
 2021-10-22 09:40:07,032 - Starting automation on "H0012" PC\
-2021-10-22 09:39:58,599 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-22 09:39:58,508 - >>> CTRL+C <<<\
-2021-10-22 07:58:13,312 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-22"\
-2021-10-22 07:58:13,167 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-22 07:58:12,664 - Moved 18 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45370.RAW', '45371.RAW', '45372.RAW', '45373.RAW', '45374.RAW', '45375.RAW', '45376.RAW', '45377.RAW', '45378.RAW', '45380.RAW', '45381.RAW', '45382.RAW', '45383.RAW', '45386.RAW', '45387.RAW', '45388.RAW', 'test_nuc_applied.RAW', 'test_nuc_not_applied.RAW']\
-2021-10-22 07:58:12,614 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-22"\
-2021-10-22 07:55:37,304 - Re-arming LWIR1\
-2021-10-22 07:55:37,303 - ========== Waiting for shot 45389. State: "PostShot" ==========\
-2021-10-22 07:55:37,302 - >>> GOOD MORNING <<<\
-2021-10-21 20:15:12,320 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
-2021-10-21 19:57:42,281 - In state "PostShot" for shot 45388\
-2021-10-21 19:57:39,276 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-21 19:57:35,852 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-21\45388.RAW" (after failing to move it there)\
-2021-10-21 19:57:34,011 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 19:57:33,515 - LWIR1: File "45388.RAW" for shot 45388 (45388 expected) saved 1.1 s ago\
