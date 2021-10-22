@@ -1,3 +1,6 @@
+2021-10-22 14:23:48,435 - Shot 45398 expected in dt: 13.6 s\
+2021-10-22 14:23:47,433 - In state "Trigger" for shot 45398\
+2021-10-22 14:22:19,329 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-22 14:22:16,007 - Shot 45398 expected in dt: 101.7 s\
 2021-10-22 14:22:15,006 - ========== Shot number changed to 45398. State: "PreShot" ==========\
 2021-10-22 14:21:50,005 - In state "Run" for shot 45397\
@@ -295,6 +298,3 @@
 2021-10-21 19:05:01,986 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
 2021-10-21 19:04:56,606 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
 2021-10-21 19:04:51,231 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-21 19:04:45,859 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-21 19:04:30,434 - Shot 45384 expected in dt: 1.0 s\
-2021-10-21 19:04:29,432 - Shot 45384 expected in dt: 2.0 s\
