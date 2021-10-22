@@ -1,3 +1,15 @@
+2021-10-22 13:34:42,753 - Shot 45396 expected in dt: 13.7 s\
+2021-10-22 13:34:41,747 - In state "Trigger" for shot 45396\
+2021-10-22 13:34:34,723 - Shot 45396 expected in dt: 17.2 s\
+2021-10-22 13:34:24,678 - Shot 45396 expected in dt: 27.3 s\
+2021-10-22 13:34:14,635 - Shot 45396 expected in dt: 37.3 s\
+2021-10-22 13:34:04,592 - Shot 45396 expected in dt: 47.4 s\
+2021-10-22 13:33:54,548 - Shot 45396 expected in dt: 57.4 s\
+2021-10-22 13:33:44,473 - Shot 45396 expected in dt: 67.5 s\
+2021-10-22 13:33:34,448 - Shot 45396 expected in dt: 77.5 s\
+2021-10-22 13:33:24,393 - Shot 45396 expected in dt: 87.6 s\
+2021-10-22 13:33:14,346 - Shot 45396 expected in dt: 97.6 s\
+2021-10-22 13:33:13,345 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-22 13:33:07,981 - Shot 45396 expected in dt: 104.0 s\
 2021-10-22 13:33:06,968 - ========== Shot number changed to 45396. State: "PreShot" ==========\
 2021-10-22 13:32:41,961 - In state "Run" for shot 45395\
@@ -286,15 +298,3 @@
 2021-10-22 07:58:35,020 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-22"\
 2021-10-22 07:58:35,019 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
 2021-10-22 07:58:34,505 - Moved 18 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": ['000087.seq', '000101.seq', '045370.seq', '045371.seq', '045372.seq', '045373.seq', '045374.seq', '045375.seq', '045376.seq', '045377.seq', '045378.seq', '045381.seq', '045382.seq', '045383.seq', '045384.seq', '045386.seq', '045387.seq', '045388.seq']\
-2021-10-22 07:58:34,392 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-22"\
-2021-10-22 07:58:34,391 - Moved previously exported files to D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup from D:\MAST-U_Operations\AIR-FLIR_1\auto_export\
-2021-10-22 07:58:33,877 - Moved 17 files from "D:\MAST-U_Operations\AIR-FLIR_1\auto_export" to "D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup": ['000086.ats', '045370.ats', '045371.ats', '045372.ats', '045373.ats', '045374.ats', '045375.ats', '045376.ats', '045377.ats', '045378.ats', '045380.ats', '045381.ats', '045382.ats', '045383.ats', '045386.ats', '045387.ats', '045388.ats']\
-2021-10-22 07:58:33,789 - Created new directory "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-22"\
-2021-10-22 07:55:38,704 - Re-arming MWIR1\
-2021-10-22 07:55:38,703 - ========== Waiting for shot 45389. State: "PostShot" ==========\
-2021-10-22 07:55:38,703 - >>> GOOD MORNING <<<\
-2021-10-21 20:15:12,722 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
-2021-10-21 19:57:42,362 - In state "PostShot" for shot 45388\
-2021-10-21 19:57:38,305 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-21 19:57:30,192 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 19:57:29,690 - SW_beam_dump: Renaming latest file from "000109.seq" to "045388.seq"\
