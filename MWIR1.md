@@ -1,3 +1,9 @@
+2021-10-22 13:33:07,981 - Shot 45396 expected in dt: 104.0 s\
+2021-10-22 13:33:06,968 - ========== Shot number changed to 45396. State: "PreShot" ==========\
+2021-10-22 13:32:41,961 - In state "Run" for shot 45395\
+2021-10-22 13:05:11,445 - Re-arming MWIR1\
+2021-10-22 13:04:46,441 - In state "PostShot" for shot 45395\
+2021-10-22 13:04:39,369 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-22 13:04:34,768 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-22 13:04:34,768 - SW_beam_dump file created at 2021-10-22 12:15:29.369156. Shot state change at 2021-10-22 13:02:26.611421. dt=-2817.2 < 0\
 2021-10-22 13:04:34,767 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-21 19:57:38,305 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-21 19:57:30,192 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-21" and copied file back to "auto_export"\
 2021-10-21 19:57:29,690 - SW_beam_dump: Renaming latest file from "000109.seq" to "045388.seq"\
-2021-10-21 19:57:29,689 - SW_beam_dump: File "000109.seq" for shot 109 (45388 expected) saved 7.7 s ago\
-2021-10-21 19:57:29,681 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-21" and copied file back to "auto_export"\
-2021-10-21 19:57:28,265 - Px_protection: Renaming latest file from "000108.seq" to "045388.seq"\
-2021-10-21 19:57:28,263 - Px_protection: File "000108.seq" for shot 108 (45388 expected) saved 6.1 s ago\
-2021-10-21 19:57:28,228 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-21\045388.ats" (after failing to move it there)\
-2021-10-21 19:57:26,507 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-21" and copied file back to "auto_export"\
