@@ -1,3 +1,14 @@
+2021-10-25 16:14:21,323 - Shot 45407 expected in dt: 13.0 s\
+2021-10-25 16:14:20,321 - In state "Trigger" for shot 45407\
+2021-10-25 16:14:13,303 - Shot 45407 expected in dt: 15.7 s\
+2021-10-25 16:14:03,252 - Shot 45407 expected in dt: 25.7 s\
+2021-10-25 16:13:53,205 - Shot 45407 expected in dt: 35.8 s\
+2021-10-25 16:13:43,169 - Shot 45407 expected in dt: 45.8 s\
+2021-10-25 16:13:33,124 - Shot 45407 expected in dt: 55.9 s\
+2021-10-25 16:13:23,078 - Shot 45407 expected in dt: 65.9 s\
+2021-10-25 16:13:13,041 - Shot 45407 expected in dt: 76.0 s\
+2021-10-25 16:13:02,993 - Shot 45407 expected in dt: 86.0 s\
+2021-10-25 16:12:53,949 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 16:12:50,280 - Shot 45407 expected in dt: 98.7 s\
 2021-10-25 16:12:49,276 - ========== Shot number changed to 45407. State: "PreShot" ==========\
 2021-10-25 15:33:13,585 - Re-arming MWIR1\
@@ -287,14 +298,3 @@
 2021-10-22 15:39:42,950 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-22\045401.ats" (after failing to move it there)\
 2021-10-22 15:39:41,153 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-22" and copied file back to "auto_export"\
 2021-10-22 15:39:40,648 - MWIR1: Renaming latest file from "000030.ats" to "045401.ats"\
-2021-10-22 15:39:40,647 - MWIR1: File "000030.ats" for shot 30 (45401 expected) saved 7.9 s ago\
-2021-10-22 15:39:34,578 - Recording should finish in dt: 0.8 s\
-2021-10-22 15:39:33,566 - Recording should finish in dt: 1.8 s\
-2021-10-22 15:39:31,546 - Recording should finish in dt: 3.8 s\
-2021-10-22 15:39:25,500 - Shot 45401 expected in dt: 0.9 s\
-2021-10-22 15:39:24,486 - Shot 45401 expected in dt: 1.9 s\
-2021-10-22 15:39:23,483 - Shot 45401 expected in dt: 2.9 s\
-2021-10-22 15:39:22,471 - Shot 45401 expected in dt: 3.9 s\
-2021-10-22 15:39:21,350 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-22 15:39:21,350 - Shot 45401 expected in dt: 5.0 s\
-2021-10-22 15:39:20,344 - Shot 45401 expected in dt: 6.0 s\
