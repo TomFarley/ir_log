@@ -1,3 +1,9 @@
+2021-10-25 14:47:51,343 - Shot 45404 expected in dt: 87.5 s\
+2021-10-25 14:47:50,341 - ========== Shot number changed to 45404. State: "PreShot" ==========\
+2021-10-25 14:47:25,330 - In state "Run" for shot 45403\
+2021-10-25 14:25:44,873 - Re-arming MWIR1\
+2021-10-25 14:25:19,863 - In state "PostShot" for shot 45403\
+2021-10-25 14:25:06,745 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 14:25:02,051 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
 2021-10-25 14:25:02,049 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-25" and copied file back to "auto_export"\
 2021-10-25 14:25:01,141 - Px_protection: Renaming latest file from "000002.seq" to "045403.seq"\
@@ -292,9 +298,3 @@
 2021-10-22 14:23:59,792 - Shot 45398 expected in dt: 1.7 s\
 2021-10-22 14:23:58,778 - Shot 45398 expected in dt: 2.7 s\
 2021-10-22 14:23:57,762 - Shot 45398 expected in dt: 3.8 s\
-2021-10-22 14:23:56,760 - Shot 45398 expected in dt: 4.8 s\
-2021-10-22 14:23:55,678 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-22 14:23:55,677 - Shot 45398 expected in dt: 5.8 s\
-2021-10-22 14:23:54,672 - Shot 45398 expected in dt: 6.9 s\
-2021-10-22 14:23:51,658 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-22 14:23:48,316 - Shot 45398 expected in dt: 13.2 s\
