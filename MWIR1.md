@@ -1,3 +1,13 @@
+2021-10-25 15:32:05,862 - Shot 45406 expected in dt: 13.6 s\
+2021-10-25 15:32:04,858 - In state "Trigger" for shot 45406\
+2021-10-25 15:32:01,847 - Shot 45406 expected in dt: 12.1 s\
+2021-10-25 15:31:51,817 - Shot 45406 expected in dt: 22.2 s\
+2021-10-25 15:31:41,785 - Shot 45406 expected in dt: 32.2 s\
+2021-10-25 15:31:31,730 - Shot 45406 expected in dt: 42.3 s\
+2021-10-25 15:31:21,678 - Shot 45406 expected in dt: 52.3 s\
+2021-10-25 15:31:11,627 - Shot 45406 expected in dt: 62.4 s\
+2021-10-25 15:31:01,585 - Shot 45406 expected in dt: 72.4 s\
+2021-10-25 15:30:58,565 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 15:30:55,522 - Shot 45406 expected in dt: 78.5 s\
 2021-10-25 15:30:54,511 - In state "PreShot" for shot 45406\
 2021-10-25 15:30:54,510 - Pushed update to remote log: D:\ir_log\MWIR1.md\
@@ -288,13 +298,3 @@
 2021-10-22 15:16:43,021 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-22" and copied file back to "auto_export"\
 2021-10-22 15:16:42,714 - Px_protection: Renaming latest file from "000028.seq" to "045400.seq"\
 2021-10-22 15:16:42,705 - Px_protection: File "000028.seq" for shot 28 (45400 expected) saved 5.8 s ago\
-2021-10-22 15:16:42,688 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-22\045400.ats" (after failing to move it there)\
-2021-10-22 15:16:40,930 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-22" and copied file back to "auto_export"\
-2021-10-22 15:16:40,415 - MWIR1: Renaming latest file from "000027.ats" to "045400.ats"\
-2021-10-22 15:16:40,414 - MWIR1: File "000027.ats" for shot 27 (45400 expected) saved 12.0 s ago\
-2021-10-22 15:16:34,384 - Recording should finish in dt: 0.8 s\
-2021-10-22 15:16:33,375 - Recording should finish in dt: 1.8 s\
-2021-10-22 15:16:25,315 - Shot 45400 expected in dt: 0.8 s\
-2021-10-22 15:16:24,313 - Shot 45400 expected in dt: 1.8 s\
-2021-10-22 15:16:23,310 - Shot 45400 expected in dt: 2.9 s\
-2021-10-22 15:16:22,295 - Shot 45400 expected in dt: 3.9 s\
