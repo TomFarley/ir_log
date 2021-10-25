@@ -1,3 +1,15 @@
+2021-10-25 14:49:52,505 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-25\45404.RAW" (after failing to move it there)\
+2021-10-25 14:49:47,768 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-25" and copied file back to "auto_export"\
+2021-10-25 14:49:47,140 - LWIR1: File "45404.RAW" for shot 45404 (45404 expected) saved 1.2 s ago\
+2021-10-25 14:49:47,137 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45404.RAW (file confirmed to exist)\
+2021-10-25 14:49:24,533 - Shot 45404 expected in dt: 0.3 s\
+2021-10-25 14:49:23,533 - Shot 45404 expected in dt: 1.3 s\
+2021-10-25 14:49:22,532 - Shot 45404 expected in dt: 2.3 s\
+2021-10-25 14:49:21,531 - Shot 45404 expected in dt: 3.3 s\
+2021-10-25 14:49:20,529 - Shot 45404 expected in dt: 4.4 s\
+2021-10-25 14:49:19,529 - Shot 45404 expected in dt: 5.4 s\
+2021-10-25 14:49:18,528 - Shot 45404 expected in dt: 6.4 s\
+2021-10-25 14:49:15,523 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-25 14:49:11,830 - Shot 45404 expected in dt: 13.1 s\
 2021-10-25 14:49:10,828 - In state "Trigger" for shot 45404\
 2021-10-25 14:47:49,748 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-22 12:15:42,269 - In state "PostShot" for shot 45392\
 2021-10-22 12:15:41,266 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-22 12:15:36,564 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-22\45392.RAW" (after failing to move it there)\
-2021-10-22 12:15:34,455 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-22" and copied file back to "auto_export"\
-2021-10-22 12:15:33,910 - LWIR1: File "45392.RAW" for shot 45392 (45392 expected) saved 0.9 s ago\
-2021-10-22 12:15:33,908 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45392.RAW (file confirmed to exist)\
-2021-10-22 12:15:11,258 - Shot 45392 expected in dt: 0.3 s\
-2021-10-22 12:15:10,256 - Shot 45392 expected in dt: 1.3 s\
-2021-10-22 12:15:09,254 - Shot 45392 expected in dt: 2.3 s\
-2021-10-22 12:15:08,252 - Shot 45392 expected in dt: 3.3 s\
-2021-10-22 12:15:07,251 - Shot 45392 expected in dt: 4.3 s\
-2021-10-22 12:15:06,249 - Shot 45392 expected in dt: 5.3 s\
-2021-10-22 12:15:05,247 - Shot 45392 expected in dt: 6.3 s\
-2021-10-22 12:15:03,244 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-22 12:14:58,006 - Shot 45392 expected in dt: 13.6 s\
