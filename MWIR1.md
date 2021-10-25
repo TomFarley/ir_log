@@ -1,3 +1,14 @@
+2021-10-25 15:08:50,881 - Shot 45405 expected in dt: 13.5 s\
+2021-10-25 15:08:49,864 - In state "Trigger" for shot 45405\
+2021-10-25 15:08:49,860 - Shot 45405 expected in dt: 9.0 s\
+2021-10-25 15:08:39,826 - Shot 45405 expected in dt: 19.0 s\
+2021-10-25 15:08:29,791 - Shot 45405 expected in dt: 29.0 s\
+2021-10-25 15:08:19,733 - Shot 45405 expected in dt: 39.1 s\
+2021-10-25 15:08:09,685 - Shot 45405 expected in dt: 49.2 s\
+2021-10-25 15:07:59,638 - Shot 45405 expected in dt: 59.2 s\
+2021-10-25 15:07:49,598 - Shot 45405 expected in dt: 69.2 s\
+2021-10-25 15:07:39,530 - Shot 45405 expected in dt: 79.3 s\
+2021-10-25 15:07:30,492 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 15:07:26,205 - Shot 45405 expected in dt: 92.6 s\
 2021-10-25 15:07:25,202 - ========== Shot number changed to 45405. State: "PreShot" ==========\
 2021-10-25 15:07:00,198 - In state "Run" for shot 45404\
@@ -287,14 +298,3 @@
 2021-10-22 14:56:08,813 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-22" and copied file back to "auto_export"\
 2021-10-22 14:56:07,894 - Px_protection: Renaming latest file from "000025.seq" to "045399.seq"\
 2021-10-22 14:56:07,894 - Px_protection: File "000025.seq" for shot 25 (45399 expected) saved 6.1 s ago\
-2021-10-22 14:56:07,891 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-22\045399.ats" (after failing to move it there)\
-2021-10-22 14:56:06,105 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-22" and copied file back to "auto_export"\
-2021-10-22 14:56:05,578 - MWIR1: Renaming latest file from "000024.ats" to "045399.ats"\
-2021-10-22 14:56:05,576 - MWIR1: File "000024.ats" for shot 24 (45399 expected) saved 8.4 s ago\
-2021-10-22 14:55:59,528 - Recording should finish in dt: 0.8 s\
-2021-10-22 14:55:58,520 - Recording should finish in dt: 1.8 s\
-2021-10-22 14:55:52,470 - Recording should finish in dt: 7.9 s\
-2021-10-22 14:55:50,453 - Shot 45399 expected in dt: 0.9 s\
-2021-10-22 14:55:49,452 - Shot 45399 expected in dt: 1.9 s\
-2021-10-22 14:55:48,449 - Shot 45399 expected in dt: 2.9 s\
-2021-10-22 14:55:47,447 - Shot 45399 expected in dt: 3.9 s\
