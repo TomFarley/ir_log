@@ -1,3 +1,8 @@
+2021-10-25 14:23:14,696 - Shot 45403 expected in dt: 79.5 s\
+2021-10-25 14:23:13,694 - In state "PreShot" for shot 45403\
+2021-10-25 14:22:23,676 - ========== Shot number changed to 45403. State: "Run" ==========\
+2021-10-25 08:44:47,532 - In state "UNDEFINED" for shot\
+2021-10-25 08:44:47,531 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 08:44:41,987 - ========== Ready for shot None in state "UNDEFINED" ==========\
 2021-10-25 08:44:41,934 - Re-arming MWIR1\
 2021-10-25 08:44:41,931 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-25"\
@@ -293,8 +298,3 @@
 2021-10-22 13:58:54,467 - Recording should finish in dt: 0.7 s\
 2021-10-22 13:58:53,453 - Recording should finish in dt: 1.7 s\
 2021-10-22 13:58:52,443 - Recording should finish in dt: 2.7 s\
-2021-10-22 13:58:45,383 - Shot 45397 expected in dt: 0.8 s\
-2021-10-22 13:58:44,381 - Shot 45397 expected in dt: 1.8 s\
-2021-10-22 13:58:43,365 - Shot 45397 expected in dt: 2.8 s\
-2021-10-22 13:58:42,361 - Shot 45397 expected in dt: 3.8 s\
-2021-10-22 13:58:41,344 - Shot 45397 expected in dt: 4.8 s\
