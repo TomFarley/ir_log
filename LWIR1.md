@@ -1,3 +1,6 @@
+2021-10-26 14:16:41,619 - Shot 45424 expected in dt: 13.3 s\
+2021-10-26 14:16:40,617 - In state "Trigger" for shot 45424\
+2021-10-26 14:15:34,561 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 14:15:30,869 - Shot 45424 expected in dt: 79.7 s\
 2021-10-26 14:15:29,868 - In state "PreShot" for shot 45424\
 2021-10-26 14:15:29,865 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -295,6 +298,3 @@
 2021-10-26 08:44:56,434 - ========== Ready for shot 45411 in state "PostShot" ==========\
 2021-10-26 08:44:47,932 - Re-arming LWIR1\
 2021-10-26 08:44:47,929 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26"\
-2021-10-26 08:44:47,848 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-26 08:44:47,347 - Moved 5 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45404.RAW', '45405.RAW', '45406.RAW', '45407.RAW', '45408.RAW']\
-2021-10-26 08:44:47,330 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26"\
