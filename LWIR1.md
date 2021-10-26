@@ -1,3 +1,14 @@
+2021-10-26 16:43:28,802 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45428.RAW" (after failing to move it there)\
+2021-10-26 16:43:27,082 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
+2021-10-26 16:43:26,583 - LWIR1: File "45428.RAW" for shot 45428 (45428 expected) saved 0.7 s ago\
+2021-10-26 16:43:26,581 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45428.RAW (file confirmed to exist)\
+2021-10-26 16:43:04,002 - Shot 45428 expected in dt: 1.0 s\
+2021-10-26 16:43:02,999 - Shot 45428 expected in dt: 2.0 s\
+2021-10-26 16:43:01,998 - Shot 45428 expected in dt: 3.0 s\
+2021-10-26 16:43:00,997 - Shot 45428 expected in dt: 4.0 s\
+2021-10-26 16:42:59,995 - Shot 45428 expected in dt: 5.0 s\
+2021-10-26 16:42:58,993 - Shot 45428 expected in dt: 6.0 s\
+2021-10-26 16:42:55,990 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 16:42:51,261 - Shot 45428 expected in dt: 13.7 s\
 2021-10-26 16:42:50,259 - In state "Trigger" for shot 45428\
 2021-10-26 16:41:33,178 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -287,14 +298,3 @@
 2021-10-26 10:08:58,770 - Re-arming LWIR1\
 2021-10-26 10:08:33,767 - In state "PostShot" for shot 45414\
 2021-10-26 10:08:33,766 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 10:08:29,172 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45414.RAW" (after failing to move it there)\
-2021-10-26 10:08:08,342 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
-2021-10-26 10:08:07,808 - LWIR1: File "45414.RAW" for shot 45414 (45414 expected) saved 0.8 s ago\
-2021-10-26 10:08:07,805 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45414.RAW (file confirmed to exist)\
-2021-10-26 10:07:45,068 - Shot 45414 expected in dt: 0.5 s\
-2021-10-26 10:07:44,067 - Shot 45414 expected in dt: 1.5 s\
-2021-10-26 10:07:43,064 - Shot 45414 expected in dt: 2.5 s\
-2021-10-26 10:07:42,063 - Shot 45414 expected in dt: 3.5 s\
-2021-10-26 10:07:41,060 - Shot 45414 expected in dt: 4.5 s\
-2021-10-26 10:07:40,058 - Shot 45414 expected in dt: 5.5 s\
-2021-10-26 10:07:39,057 - Shot 45414 expected in dt: 6.5 s\
