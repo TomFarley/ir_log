@@ -1,3 +1,15 @@
+2021-10-26 12:33:00,385 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45419.RAW" (after failing to move it there)\
+2021-10-26 12:32:58,208 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
+2021-10-26 12:32:57,681 - LWIR1: File "45419.RAW" for shot 45419 (45419 expected) saved 0.4 s ago\
+2021-10-26 12:32:57,679 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45419.RAW (file confirmed to exist)\
+2021-10-26 12:32:35,056 - Shot 45419 expected in dt: 0.6 s\
+2021-10-26 12:32:34,055 - Shot 45419 expected in dt: 1.6 s\
+2021-10-26 12:32:33,054 - Shot 45419 expected in dt: 2.6 s\
+2021-10-26 12:32:32,052 - Shot 45419 expected in dt: 3.6 s\
+2021-10-26 12:32:31,051 - Shot 45419 expected in dt: 4.6 s\
+2021-10-26 12:32:30,050 - Shot 45419 expected in dt: 5.6 s\
+2021-10-26 12:32:29,049 - Shot 45419 expected in dt: 6.6 s\
+2021-10-26 12:32:26,045 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 12:32:21,864 - Shot 45419 expected in dt: 13.8 s\
 2021-10-26 12:32:20,863 - In state "Trigger" for shot 45419\
 2021-10-26 12:30:57,772 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-25 17:36:08,256 - Re-arming LWIR1\
 2021-10-25 17:35:43,254 - FAILED to re-arm camera.\
 2021-10-25 17:35:41,859 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:35:39,437 - Re-arming LWIR1\
-2021-10-25 17:35:14,436 - FAILED to re-arm camera.\
-2021-10-25 17:35:13,034 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:35:10,628 - Re-arming LWIR1\
-2021-10-25 17:34:45,626 - FAILED to re-arm camera.\
-2021-10-25 17:34:44,241 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:34:41,836 - Re-arming LWIR1\
-2021-10-25 17:34:16,835 - FAILED to re-arm camera.\
-2021-10-25 17:34:15,463 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:34:13,058 - Re-arming LWIR1\
-2021-10-25 17:33:48,056 - FAILED to re-arm camera.\
-2021-10-25 17:33:46,682 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
