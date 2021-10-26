@@ -1,3 +1,6 @@
+2021-10-26 13:45:22,229 - Shot 45422 expected in dt: 13.4 s\
+2021-10-26 13:45:21,227 - In state "Trigger" for shot 45422\
+2021-10-26 13:44:05,146 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 13:44:00,580 - Shot 45422 expected in dt: 94.7 s\
 2021-10-26 13:43:59,579 - ========== Shot number changed to 45422. State: "PreShot" ==========\
 2021-10-26 13:43:34,576 - In state "Run" for shot 45421\
@@ -295,6 +298,3 @@
 2021-10-25 17:44:17,979 - Re-arming LWIR1\
 2021-10-25 17:43:52,978 - FAILED to re-arm camera.\
 2021-10-25 17:43:51,569 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:43:49,174 - Re-arming LWIR1\
-2021-10-25 17:43:24,172 - FAILED to re-arm camera.\
-2021-10-25 17:43:22,797 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
