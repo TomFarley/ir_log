@@ -1,3 +1,26 @@
+2021-10-26 12:53:19,739 - SW_beam_dump: **Didn't copy file as rename success = False**\
+2021-10-26 12:53:19,739 - SW_beam_dump file created at 2021-10-26 12:49:48.785962. Shot state change at 2021-10-26 12:51:14.236186. dt=-85.5 < 0\
+2021-10-26 12:53:19,738 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
+2021-10-26 12:53:19,738 - SW_beam_dump: File "000025.seq" for shot 25 (45420 expected) saved 211.0 s ago\
+2021-10-26 12:53:19,736 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-26" and copied file back to "auto_export"\
+2021-10-26 12:53:18,905 - Px_protection: Renaming latest file from "000027.seq" to "045420.seq"\
+2021-10-26 12:53:18,905 - Px_protection: File "000027.seq" for shot 27 (45420 expected) saved 3.7 s ago\
+2021-10-26 12:53:18,901 - MWIR1: **Didn't copy file as rename success = False**\
+2021-10-26 12:53:18,901 - MWIR1 file created at 2021-10-26 12:32:49.558334. Shot state change at 2021-10-26 12:51:14.236186. dt=-1104.7 < 0\
+2021-10-26 12:53:18,900 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
+2021-10-26 12:53:18,899 - MWIR1: File "045419.ats" for shot 45419 (45420 expected) saved 1229.3 s ago\
+2021-10-26 12:53:18,899 - MWIR1: **Number of files, 9, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
+2021-10-26 12:53:12,859 - Recording should finish in dt: 0.8 s\
+2021-10-26 12:53:11,844 - Recording should finish in dt: 1.8 s\
+2021-10-26 12:53:08,807 - Recording should finish in dt: 4.9 s\
+2021-10-26 12:53:03,777 - Shot 45420 expected in dt: 0.9 s\
+2021-10-26 12:53:02,763 - Shot 45420 expected in dt: 1.9 s\
+2021-10-26 12:53:01,748 - Shot 45420 expected in dt: 2.9 s\
+2021-10-26 12:53:00,735 - Shot 45420 expected in dt: 3.9 s\
+2021-10-26 12:52:59,586 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-26 12:52:59,586 - Shot 45420 expected in dt: 5.1 s\
+2021-10-26 12:52:58,581 - Shot 45420 expected in dt: 6.1 s\
+2021-10-26 12:52:54,556 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 12:52:51,414 - Shot 45420 expected in dt: 13.3 s\
 2021-10-26 12:52:50,408 - In state "Trigger" for shot 45420\
 2021-10-26 12:52:45,378 - Shot 45420 expected in dt: 13.9 s\
@@ -275,26 +298,3 @@
 2021-10-26 09:46:58,091 - MWIR1: File "045411.ats" for shot 45411 (45412 expected) saved 2973.3 s ago\
 2021-10-26 09:46:58,091 - MWIR1: **Number of files, 3, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
 2021-10-26 09:46:52,056 - Recording should finish in dt: 0.9 s\
-2021-10-26 09:46:51,040 - Recording should finish in dt: 1.9 s\
-2021-10-26 09:46:47,016 - Recording should finish in dt: 6.0 s\
-2021-10-26 09:46:42,977 - Shot 45412 expected in dt: 1.0 s\
-2021-10-26 09:46:41,962 - Shot 45412 expected in dt: 2.0 s\
-2021-10-26 09:46:40,946 - Shot 45412 expected in dt: 3.0 s\
-2021-10-26 09:46:39,945 - Shot 45412 expected in dt: 4.0 s\
-2021-10-26 09:46:38,819 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-26 09:46:38,819 - Shot 45412 expected in dt: 5.2 s\
-2021-10-26 09:46:37,814 - Shot 45412 expected in dt: 6.2 s\
-2021-10-26 09:46:36,810 - Shot 45412 expected in dt: 7.2 s\
-2021-10-26 09:46:34,801 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 09:46:30,969 - Shot 45412 expected in dt: 13.0 s\
-2021-10-26 09:46:29,967 - In state "Trigger" for shot 45412\
-2021-10-26 09:46:22,925 - Shot 45412 expected in dt: 16.6 s\
-2021-10-26 09:46:12,872 - Shot 45412 expected in dt: 26.7 s\
-2021-10-26 09:46:02,831 - Shot 45412 expected in dt: 36.7 s\
-2021-10-26 09:45:52,797 - Shot 45412 expected in dt: 46.8 s\
-2021-10-26 09:45:42,742 - Shot 45412 expected in dt: 56.8 s\
-2021-10-26 09:45:32,705 - Shot 45412 expected in dt: 66.9 s\
-2021-10-26 09:45:22,638 - Shot 45412 expected in dt: 76.9 s\
-2021-10-26 09:45:18,621 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 09:45:11,899 - Shot 45412 expected in dt: 87.7 s\
-2021-10-26 09:45:10,896 - ========== Shot number changed to 45412. State: "PreShot" ==========\
