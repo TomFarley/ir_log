@@ -1,3 +1,10 @@
+2021-10-26 14:07:03,632 - Shot 45423 expected in dt: 87.1 s\
+2021-10-26 14:07:02,630 - In state "PreShot" for shot 45423\
+2021-10-26 14:06:37,628 - ========== Shot number changed to 45423. State: "Run" ==========\
+2021-10-26 14:06:12,626 - In state "Run" for shot 45422\
+2021-10-26 13:46:35,082 - Re-arming LWIR1\
+2021-10-26 13:46:10,081 - In state "PostShot" for shot 45422\
+2021-10-26 13:46:05,074 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 13:46:00,034 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45422.RAW" (after failing to move it there)\
 2021-10-26 13:45:58,168 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
 2021-10-26 13:45:57,671 - LWIR1: File "45422.RAW" for shot 45422 (45422 expected) saved 0.8 s ago\
@@ -291,10 +298,3 @@
 2021-10-25 17:47:13,278 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
 2021-10-25 17:47:10,880 - Re-arming LWIR1\
 2021-10-25 17:46:45,879 - FAILED to re-arm camera.\
-2021-10-25 17:46:44,504 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:46:42,106 - Re-arming LWIR1\
-2021-10-25 17:46:17,105 - FAILED to re-arm camera.\
-2021-10-25 17:46:15,591 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:46:13,177 - Re-arming LWIR1\
-2021-10-25 17:45:48,175 - FAILED to re-arm camera.\
-2021-10-25 17:45:46,761 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
