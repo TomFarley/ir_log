@@ -1,3 +1,17 @@
+2021-10-26 14:15:25,531 - Shot 45424 expected in dt: 84.8 s\
+2021-10-26 14:15:25,530 - A shot has been missed! Last recorded shot was 45422\
+2021-10-26 14:15:00,530 - ========== Shot number changed to 45424. State: "Ready" ==========\
+2021-10-26 14:09:35,514 - In state "PostShot" for shot 45423\
+2021-10-26 14:09:35,513 - Shot 45423 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-26 14:09:10,512 - In state "Abort" for shot 45423\
+2021-10-26 14:08:30,472 - Shot 45423 expected in dt: 0.2 s\
+2021-10-26 14:08:29,471 - Shot 45423 expected in dt: 1.2 s\
+2021-10-26 14:08:28,469 - Shot 45423 expected in dt: 2.2 s\
+2021-10-26 14:08:27,468 - Shot 45423 expected in dt: 3.2 s\
+2021-10-26 14:08:26,466 - Shot 45423 expected in dt: 4.2 s\
+2021-10-26 14:08:25,466 - Shot 45423 expected in dt: 5.2 s\
+2021-10-26 14:08:24,465 - Shot 45423 expected in dt: 6.2 s\
+2021-10-26 14:07:07,387 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 14:07:03,632 - Shot 45423 expected in dt: 87.1 s\
 2021-10-26 14:07:02,630 - In state "PreShot" for shot 45423\
 2021-10-26 14:06:37,628 - ========== Shot number changed to 45423. State: "Run" ==========\
@@ -284,17 +298,3 @@
 2021-10-26 08:44:47,329 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
 2021-10-26 08:44:47,328 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211026.log"\
 2021-10-26 08:44:47,327 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-26 08:44:47,327 - **Starting camera automation for cameras: LWIR1**\
-2021-10-26 08:44:47,315 - Starting automation on "H0012" PC\
-2021-10-25 17:48:14,912 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-25 17:48:14,832 - >>> CTRL+C <<<\
-2021-10-25 17:48:12,225 - FAILED to re-arm camera.\
-2021-10-25 17:48:10,859 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:48:08,400 - Re-arming LWIR1\
-2021-10-25 17:47:43,393 - FAILED to re-arm camera.\
-2021-10-25 17:47:42,033 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:47:39,637 - Re-arming LWIR1\
-2021-10-25 17:47:14,636 - FAILED to re-arm camera.\
-2021-10-25 17:47:13,278 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:47:10,880 - Re-arming LWIR1\
-2021-10-25 17:46:45,879 - FAILED to re-arm camera.\
