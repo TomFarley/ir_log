@@ -1,3 +1,15 @@
+2021-10-26 18:53:30,655 - Shot 45434 expected in dt: 13.6 s\
+2021-10-26 18:53:29,654 - In state "Trigger" for shot 45434\
+2021-10-26 18:53:29,649 - Shot 45434 expected in dt: 10.2 s\
+2021-10-26 18:53:19,597 - Shot 45434 expected in dt: 20.2 s\
+2021-10-26 18:53:09,547 - Shot 45434 expected in dt: 30.3 s\
+2021-10-26 18:52:59,493 - Shot 45434 expected in dt: 40.3 s\
+2021-10-26 18:52:49,448 - Shot 45434 expected in dt: 50.4 s\
+2021-10-26 18:52:39,412 - Shot 45434 expected in dt: 60.4 s\
+2021-10-26 18:52:29,383 - Shot 45434 expected in dt: 70.4 s\
+2021-10-26 18:52:19,331 - Shot 45434 expected in dt: 80.5 s\
+2021-10-26 18:52:09,302 - Shot 45434 expected in dt: 90.5 s\
+2021-10-26 18:52:01,278 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 18:51:56,811 - Shot 45434 expected in dt: 103.0 s\
 2021-10-26 18:51:55,795 - ========== Shot number changed to 45434. State: "PreShot" ==========\
 2021-10-26 18:51:30,779 - In state "Run" for shot 45433\
@@ -286,15 +298,3 @@
 2021-10-26 15:46:03,878 - MWIR1: **Number of files, 9, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
 2021-10-26 15:45:57,836 - Recording should finish in dt: 0.6 s\
 2021-10-26 15:45:56,831 - Recording should finish in dt: 1.7 s\
-2021-10-26 15:45:53,797 - Recording should finish in dt: 4.7 s\
-2021-10-26 15:45:48,756 - Shot 45426 expected in dt: 0.7 s\
-2021-10-26 15:45:47,752 - Shot 45426 expected in dt: 1.7 s\
-2021-10-26 15:45:46,746 - Shot 45426 expected in dt: 2.7 s\
-2021-10-26 15:45:45,740 - Shot 45426 expected in dt: 3.7 s\
-2021-10-26 15:45:44,739 - Shot 45426 expected in dt: 4.7 s\
-2021-10-26 15:45:43,590 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-26 15:45:43,589 - Shot 45426 expected in dt: 5.9 s\
-2021-10-26 15:45:42,574 - Shot 45426 expected in dt: 6.9 s\
-2021-10-26 15:45:39,565 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 15:45:36,084 - Shot 45426 expected in dt: 13.4 s\
-2021-10-26 15:45:35,080 - In state "Trigger" for shot 45426\
