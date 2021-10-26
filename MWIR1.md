@@ -1,3 +1,11 @@
+2021-10-26 17:55:15,116 - Shot 45432 expected in dt: 94.3 s\
+2021-10-26 17:55:15,116 - A shot has been missed! Last recorded shot was 45430\
+2021-10-26 17:55:14,106 - ========== Shot number changed to 45432. State: "PreShot" ==========\
+2021-10-26 17:54:49,088 - In state "Run" for shot 45431\
+2021-10-26 17:48:58,983 - In state "PostShot" for shot 45431\
+2021-10-26 17:48:58,978 - Shot 45431 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-26 17:48:33,971 - In state "Abort" for shot 45431\
+2021-10-26 17:48:33,968 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 17:48:29,910 - Shot 45431 expected in dt: 84.7 s\
 2021-10-26 17:48:04,899 - ========== Shot number changed to 45431. State: "Ready" ==========\
 2021-10-26 17:47:39,882 - In state "Run" for shot 45430\
@@ -290,11 +298,3 @@
 2021-10-26 14:16:40,520 - Shot 45424 expected in dt: 13.7 s\
 2021-10-26 14:16:39,507 - In state "Trigger" for shot 45424\
 2021-10-26 14:16:30,463 - Shot 45424 expected in dt: 19.4 s\
-2021-10-26 14:16:20,401 - Shot 45424 expected in dt: 29.4 s\
-2021-10-26 14:16:10,351 - Shot 45424 expected in dt: 39.5 s\
-2021-10-26 14:16:00,313 - Shot 45424 expected in dt: 49.5 s\
-2021-10-26 14:15:50,271 - Shot 45424 expected in dt: 59.6 s\
-2021-10-26 14:15:40,206 - Shot 45424 expected in dt: 69.6 s\
-2021-10-26 14:15:33,179 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 14:15:30,033 - Shot 45424 expected in dt: 79.8 s\
-2021-10-26 14:15:29,032 - In state "PreShot" for shot 45424\
