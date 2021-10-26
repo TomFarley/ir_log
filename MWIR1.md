@@ -1,3 +1,15 @@
+2021-10-26 17:56:41,521 - Shot 45432 expected in dt: 13.4 s\
+2021-10-26 17:56:40,520 - In state "Trigger" for shot 45432\
+2021-10-26 17:56:40,517 - Shot 45432 expected in dt: 8.9 s\
+2021-10-26 17:56:30,461 - Shot 45432 expected in dt: 19.0 s\
+2021-10-26 17:56:20,417 - Shot 45432 expected in dt: 29.0 s\
+2021-10-26 17:56:10,365 - Shot 45432 expected in dt: 39.1 s\
+2021-10-26 17:56:00,299 - Shot 45432 expected in dt: 49.2 s\
+2021-10-26 17:55:50,256 - Shot 45432 expected in dt: 59.2 s\
+2021-10-26 17:55:40,220 - Shot 45432 expected in dt: 69.2 s\
+2021-10-26 17:55:30,176 - Shot 45432 expected in dt: 79.3 s\
+2021-10-26 17:55:20,130 - Shot 45432 expected in dt: 89.3 s\
+2021-10-26 17:55:19,116 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 17:55:15,116 - Shot 45432 expected in dt: 94.3 s\
 2021-10-26 17:55:15,116 - A shot has been missed! Last recorded shot was 45430\
 2021-10-26 17:55:14,106 - ========== Shot number changed to 45432. State: "PreShot" ==========\
@@ -286,15 +298,3 @@
 2021-10-26 14:17:09,001 - MWIR1: **Number of files, 9, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
 2021-10-26 14:17:02,976 - Recording should finish in dt: 0.3 s\
 2021-10-26 14:17:01,962 - Recording should finish in dt: 1.3 s\
-2021-10-26 14:16:53,891 - Shot 45424 expected in dt: 0.3 s\
-2021-10-26 14:16:52,876 - Shot 45424 expected in dt: 1.4 s\
-2021-10-26 14:16:51,873 - Shot 45424 expected in dt: 2.4 s\
-2021-10-26 14:16:50,871 - Shot 45424 expected in dt: 3.4 s\
-2021-10-26 14:16:49,868 - Shot 45424 expected in dt: 4.4 s\
-2021-10-26 14:16:48,758 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-26 14:16:48,758 - Shot 45424 expected in dt: 5.5 s\
-2021-10-26 14:16:47,752 - Shot 45424 expected in dt: 6.5 s\
-2021-10-26 14:16:43,741 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 14:16:40,520 - Shot 45424 expected in dt: 13.7 s\
-2021-10-26 14:16:39,507 - In state "Trigger" for shot 45424\
-2021-10-26 14:16:30,463 - Shot 45424 expected in dt: 19.4 s\
