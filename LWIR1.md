@@ -1,3 +1,14 @@
+2021-10-26 20:10:15,429 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45437.RAW" (after failing to move it there)\
+2021-10-26 20:10:13,631 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
+2021-10-26 20:10:12,976 - LWIR1: File "45437.RAW" for shot 45437 (45437 expected) saved 1.0 s ago\
+2021-10-26 20:10:12,971 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45437.RAW (file confirmed to exist)\
+2021-10-26 20:09:50,465 - Shot 45437 expected in dt: 0.1 s\
+2021-10-26 20:09:49,464 - Shot 45437 expected in dt: 1.1 s\
+2021-10-26 20:09:48,461 - Shot 45437 expected in dt: 2.1 s\
+2021-10-26 20:09:44,744 - Re-arming LWIR1\
+2021-10-26 20:09:44,743 - Shot 45437 expected in dt: 5.8 s\
+2021-10-26 20:09:43,742 - Shot 45437 expected in dt: 6.8 s\
+2021-10-26 20:09:40,741 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 20:09:37,100 - Shot 45437 expected in dt: 13.4 s\
 2021-10-26 20:09:36,100 - In state "Trigger" for shot 45437\
 2021-10-26 20:08:06,009 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -287,14 +298,3 @@
 2021-10-26 13:45:33,022 - Shot 45422 expected in dt: 2.6 s\
 2021-10-26 13:45:32,020 - Shot 45422 expected in dt: 3.6 s\
 2021-10-26 13:45:31,018 - Shot 45422 expected in dt: 4.6 s\
-2021-10-26 13:45:30,017 - Shot 45422 expected in dt: 5.6 s\
-2021-10-26 13:45:29,016 - Shot 45422 expected in dt: 6.6 s\
-2021-10-26 13:45:26,013 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 13:45:22,229 - Shot 45422 expected in dt: 13.4 s\
-2021-10-26 13:45:21,227 - In state "Trigger" for shot 45422\
-2021-10-26 13:44:05,146 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 13:44:00,580 - Shot 45422 expected in dt: 94.7 s\
-2021-10-26 13:43:59,579 - ========== Shot number changed to 45422. State: "PreShot" ==========\
-2021-10-26 13:43:34,576 - In state "Run" for shot 45421\
-2021-10-26 13:22:42,060 - Re-arming LWIR1\
-2021-10-26 13:22:17,058 - In state "PostShot" for shot 45421\
