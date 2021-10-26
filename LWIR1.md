@@ -1,3 +1,24 @@
+2021-10-26 15:46:14,442 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45426.RAW" (after failing to move it there)\
+2021-10-26 15:46:12,444 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
+2021-10-26 15:46:11,916 - LWIR1: File "45426.RAW" for shot 45426 (45426 expected) saved 0.9 s ago\
+2021-10-26 15:46:11,912 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45426.RAW (file confirmed to exist)\
+2021-10-26 15:45:49,318 - Shot 45426 expected in dt: 0.9 s\
+2021-10-26 15:45:48,316 - Shot 45426 expected in dt: 1.9 s\
+2021-10-26 15:45:47,316 - Shot 45426 expected in dt: 2.9 s\
+2021-10-26 15:45:46,314 - Shot 45426 expected in dt: 3.9 s\
+2021-10-26 15:45:45,312 - Shot 45426 expected in dt: 4.9 s\
+2021-10-26 15:45:44,311 - Shot 45426 expected in dt: 5.9 s\
+2021-10-26 15:45:43,310 - Shot 45426 expected in dt: 6.9 s\
+2021-10-26 15:45:41,309 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-26 15:45:36,512 - Shot 45426 expected in dt: 13.7 s\
+2021-10-26 15:45:35,511 - In state "Trigger" for shot 45426\
+2021-10-26 15:44:18,421 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-26 15:44:14,839 - Shot 45426 expected in dt: 96.0 s\
+2021-10-26 15:44:13,837 - ========== Shot number changed to 45426. State: "PreShot" ==========\
+2021-10-26 15:43:48,830 - In state "Run" for shot 45425\
+2021-10-26 14:59:11,261 - Re-arming LWIR1\
+2021-10-26 14:58:46,259 - In state "PostShot" for shot 45425\
+2021-10-26 14:58:44,255 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 14:58:40,119 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45425.RAW" (after failing to move it there)\
 2021-10-26 14:58:38,243 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
 2021-10-26 14:58:37,724 - LWIR1: File "45425.RAW" for shot 45425 (45425 expected) saved 1.0 s ago\
@@ -277,24 +298,3 @@
 2021-10-26 09:48:12,760 - SUCCESSFULLY re-armed camera.\
 2021-10-26 09:48:11,221 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
 2021-10-26 09:48:08,646 - Re-arming LWIR1\
-2021-10-26 09:47:43,643 - In state "PostShot" for shot 45412\
-2021-10-26 09:47:43,633 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 09:47:38,110 - LWIR1: **Didn't copy file as rename success = False**\
-2021-10-26 09:47:38,110 - LWIR1 file created at 2021-10-26 08:57:32.510083. Shot state change at 2021-10-26 09:44:55.253040. dt=-2842.7 < 0\
-2021-10-26 09:47:38,109 - **>>> Newest LWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-26 09:47:38,108 - LWIR1: File "45411.RAW" for shot 45411 (45412 expected) saved 3005.6 s ago\
-2021-10-26 09:47:38,107 - LWIR1: **Number of files, 2, has not changed after shot! D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export**\
-2021-10-26 09:47:38,088 - IRcam LWIR1 camera is still armed after shot - not exporting RAW data\
-2021-10-26 09:47:33,085 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-26 09:47:27,414 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-26 09:47:21,723 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-26 09:47:15,928 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-26 09:47:10,235 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-26 09:47:04,560 - IRcam LWIR1 camera is still armed after shot - Waiting 5 s to check again\
-2021-10-26 09:46:44,521 - Shot 45412 expected in dt: 0.2 s\
-2021-10-26 09:46:43,520 - Shot 45412 expected in dt: 1.2 s\
-2021-10-26 09:46:42,518 - Shot 45412 expected in dt: 2.2 s\
-2021-10-26 09:46:41,516 - Shot 45412 expected in dt: 3.2 s\
-2021-10-26 09:46:40,512 - Shot 45412 expected in dt: 4.2 s\
-2021-10-26 09:46:39,499 - Shot 45412 expected in dt: 5.2 s\
-2021-10-26 09:46:38,487 - Shot 45412 expected in dt: 6.2 s\
