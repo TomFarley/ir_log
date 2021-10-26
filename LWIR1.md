@@ -1,3 +1,8 @@
+2021-10-26 08:55:29,870 - Shot 45411 expected in dt: 94.8 s\
+2021-10-26 08:55:28,867 - ========== Shot number changed to 45411. State: "PreShot" ==========\
+2021-10-26 08:55:03,866 - In state "Run" for shot 45410\
+2021-10-26 08:45:03,842 - In state "PostShot" for shot 45410\
+2021-10-26 08:45:03,840 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 08:44:56,434 - ========== Ready for shot 45411 in state "PostShot" ==========\
 2021-10-26 08:44:47,932 - Re-arming LWIR1\
 2021-10-26 08:44:47,929 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26"\
@@ -293,8 +298,3 @@
 2021-10-25 17:03:33,289 - FAILED to re-arm camera.\
 2021-10-25 17:03:31,892 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
 2021-10-25 17:03:29,516 - Re-arming LWIR1\
-2021-10-25 17:03:04,516 - FAILED to re-arm camera.\
-2021-10-25 17:03:03,113 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:03:00,688 - Re-arming LWIR1\
-2021-10-25 17:02:35,687 - FAILED to re-arm camera.\
-2021-10-25 17:02:34,317 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
