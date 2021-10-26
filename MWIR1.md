@@ -1,3 +1,14 @@
+2021-10-26 12:32:21,618 - Shot 45419 expected in dt: 13.4 s\
+2021-10-26 12:32:20,605 - In state "Trigger" for shot 45419\
+2021-10-26 12:32:13,549 - Shot 45419 expected in dt: 15.9 s\
+2021-10-26 12:32:03,510 - Shot 45419 expected in dt: 25.9 s\
+2021-10-26 12:31:53,475 - Shot 45419 expected in dt: 36.0 s\
+2021-10-26 12:31:43,428 - Shot 45419 expected in dt: 46.0 s\
+2021-10-26 12:31:33,366 - Shot 45419 expected in dt: 56.1 s\
+2021-10-26 12:31:23,310 - Shot 45419 expected in dt: 66.1 s\
+2021-10-26 12:31:13,269 - Shot 45419 expected in dt: 76.2 s\
+2021-10-26 12:31:03,232 - Shot 45419 expected in dt: 86.2 s\
+2021-10-26 12:30:56,198 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 12:30:51,879 - Shot 45419 expected in dt: 97.6 s\
 2021-10-26 12:30:50,873 - ========== Shot number changed to 45419. State: "PreShot" ==========\
 2021-10-26 12:30:25,861 - In state "Run" for shot 45418\
@@ -287,14 +298,3 @@
 2021-10-26 08:55:36,433 - Shot 45411 expected in dt: 87.5 s\
 2021-10-26 08:55:33,416 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 08:55:30,349 - Shot 45411 expected in dt: 93.6 s\
-2021-10-26 08:55:29,338 - ========== Shot number changed to 45411. State: "PreShot" ==========\
-2021-10-26 08:55:04,327 - In state "Run" for shot 45410\
-2021-10-26 08:48:49,182 - In state "PostShot" for shot 45410\
-2021-10-26 08:48:49,181 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 08:48:44,185 - ========== Ready for shot 45411 in state "PostShot" ==========\
-2021-10-26 08:48:44,145 - Re-arming MWIR1\
-2021-10-26 08:48:44,126 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-26 08:48:44,126 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-26 08:48:44,126 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-26 08:48:44,125 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211026.log"\
-2021-10-26 08:48:44,124 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
