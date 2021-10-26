@@ -1,3 +1,13 @@
+2021-10-26 10:07:31,150 - Shot 45414 expected in dt: 13.7 s\
+2021-10-26 10:07:30,145 - In state "Trigger" for shot 45414\
+2021-10-26 10:07:30,144 - Shot 45414 expected in dt: 9.3 s\
+2021-10-26 10:07:20,105 - Shot 45414 expected in dt: 19.3 s\
+2021-10-26 10:07:10,071 - Shot 45414 expected in dt: 29.3 s\
+2021-10-26 10:07:00,020 - Shot 45414 expected in dt: 39.4 s\
+2021-10-26 10:06:49,975 - Shot 45414 expected in dt: 49.4 s\
+2021-10-26 10:06:39,911 - Shot 45414 expected in dt: 59.5 s\
+2021-10-26 10:06:29,873 - Shot 45414 expected in dt: 69.5 s\
+2021-10-26 10:06:24,854 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 10:06:19,882 - Shot 45414 expected in dt: 79.5 s\
 2021-10-26 10:06:18,880 - In state "PreShot" for shot 45414\
 2021-10-26 10:06:18,878 - Pushed update to remote log: D:\ir_log\MWIR1.md\
@@ -288,13 +298,3 @@
 2021-10-25 15:09:21,416 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
 2021-10-25 15:09:21,416 - Px_protection: File "045403.seq" for shot 45403 (45405 expected) saved 2659.4 s ago\
 2021-10-25 15:09:21,416 - Px_protection: **Number of files, 3, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
-2021-10-25 15:09:21,415 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-25\045405.ats" (after failing to move it there)\
-2021-10-25 15:09:19,367 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-25" and copied file back to "auto_export"\
-2021-10-25 15:09:18,886 - MWIR1: Renaming latest file from "000004.ats" to "045405.ats"\
-2021-10-25 15:09:18,885 - MWIR1: File "000004.ats" for shot 4 (45405 expected) saved 8.3 s ago\
-2021-10-25 15:09:12,830 - Recording should finish in dt: 0.5 s\
-2021-10-25 15:09:11,818 - Recording should finish in dt: 1.5 s\
-2021-10-25 15:09:03,760 - Shot 45405 expected in dt: 0.6 s\
-2021-10-25 15:09:02,755 - Shot 45405 expected in dt: 1.6 s\
-2021-10-25 15:09:01,751 - Shot 45405 expected in dt: 2.6 s\
-2021-10-25 15:09:00,743 - Shot 45405 expected in dt: 3.6 s\
