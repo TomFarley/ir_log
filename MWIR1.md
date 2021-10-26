@@ -1,3 +1,9 @@
+2021-10-26 12:30:51,879 - Shot 45419 expected in dt: 97.6 s\
+2021-10-26 12:30:50,873 - ========== Shot number changed to 45419. State: "PreShot" ==========\
+2021-10-26 12:30:25,861 - In state "Run" for shot 45418\
+2021-10-26 12:10:50,447 - Re-arming MWIR1\
+2021-10-26 12:10:25,434 - In state "PostShot" for shot 45418\
+2021-10-26 12:10:18,387 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 12:10:12,614 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
 2021-10-26 12:10:12,609 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-26" and copied file back to "auto_export"\
 2021-10-26 12:10:11,491 - Px_protection: Renaming latest file from "000022.seq" to "045418.seq"\
@@ -292,9 +298,3 @@
 2021-10-26 08:48:44,126 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
 2021-10-26 08:48:44,125 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211026.log"\
 2021-10-26 08:48:44,124 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-26 08:48:44,124 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-26 08:48:44,123 - Starting automation on "MWIR-PC1" PC\
-2021-10-26 08:48:35,746 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-26 08:48:35,722 - >>> CTRL+C <<<\
-2021-10-26 07:56:30,064 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-26"\
-2021-10-26 07:56:29,967 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
