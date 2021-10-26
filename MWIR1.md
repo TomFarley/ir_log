@@ -1,3 +1,8 @@
+2021-10-26 08:55:30,349 - Shot 45411 expected in dt: 93.6 s\
+2021-10-26 08:55:29,338 - ========== Shot number changed to 45411. State: "PreShot" ==========\
+2021-10-26 08:55:04,327 - In state "Run" for shot 45410\
+2021-10-26 08:48:49,182 - In state "PostShot" for shot 45410\
+2021-10-26 08:48:49,181 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 08:48:44,185 - ========== Ready for shot 45411 in state "PostShot" ==========\
 2021-10-26 08:48:44,145 - Re-arming MWIR1\
 2021-10-26 08:48:44,126 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
@@ -293,8 +298,3 @@
 2021-10-25 08:44:41,841 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-25"\
 2021-10-25 08:44:41,838 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
 2021-10-25 08:44:41,326 - Moved 0 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": []\
-2021-10-25 08:44:41,324 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-25"\
-2021-10-25 08:44:41,324 - Moved previously exported files to D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup from D:\MAST-U_Operations\AIR-FLIR_1\auto_export\
-2021-10-25 08:44:40,809 - Moved 0 files from "D:\MAST-U_Operations\AIR-FLIR_1\auto_export" to "D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup": []\
-2021-10-25 08:44:40,805 - Created new directory "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-25"\
-2021-10-25 08:44:40,802 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
