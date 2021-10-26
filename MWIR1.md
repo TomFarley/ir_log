@@ -1,3 +1,15 @@
+2021-10-26 10:34:25,210 - Shot 45415 expected in dt: 13.8 s\
+2021-10-26 10:34:24,207 - In state "Trigger" for shot 45415\
+2021-10-26 10:34:17,177 - Shot 45415 expected in dt: 17.4 s\
+2021-10-26 10:34:07,136 - Shot 45415 expected in dt: 27.4 s\
+2021-10-26 10:33:57,106 - Shot 45415 expected in dt: 37.4 s\
+2021-10-26 10:33:47,050 - Shot 45415 expected in dt: 47.5 s\
+2021-10-26 10:33:36,998 - Shot 45415 expected in dt: 57.5 s\
+2021-10-26 10:33:26,963 - Shot 45415 expected in dt: 67.6 s\
+2021-10-26 10:33:16,918 - Shot 45415 expected in dt: 77.6 s\
+2021-10-26 10:33:06,870 - Shot 45415 expected in dt: 87.7 s\
+2021-10-26 10:32:56,830 - Shot 45415 expected in dt: 97.7 s\
+2021-10-26 10:32:55,821 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 10:32:50,604 - Shot 45415 expected in dt: 103.9 s\
 2021-10-26 10:32:49,601 - ========== Shot number changed to 45415. State: "PreShot" ==========\
 2021-10-26 10:32:24,597 - In state "Run" for shot 45414\
@@ -286,15 +298,3 @@
 2021-10-25 15:32:34,607 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-25" and copied file back to "auto_export"\
 2021-10-25 15:32:34,073 - MWIR1: Renaming latest file from "000005.ats" to "045406.ats"\
 2021-10-25 15:32:34,071 - MWIR1: File "000005.ats" for shot 5 (45406 expected) saved 11.8 s ago\
-2021-10-25 15:32:27,996 - Recording should finish in dt: 0.5 s\
-2021-10-25 15:32:26,995 - Recording should finish in dt: 1.5 s\
-2021-10-25 15:32:25,993 - Recording should finish in dt: 2.5 s\
-2021-10-25 15:32:18,964 - Shot 45406 expected in dt: 0.5 s\
-2021-10-25 15:32:17,951 - Shot 45406 expected in dt: 1.5 s\
-2021-10-25 15:32:16,936 - Shot 45406 expected in dt: 2.5 s\
-2021-10-25 15:32:15,933 - Shot 45406 expected in dt: 3.5 s\
-2021-10-25 15:32:14,918 - Shot 45406 expected in dt: 4.6 s\
-2021-10-25 15:32:13,736 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-25 15:32:13,735 - Shot 45406 expected in dt: 5.7 s\
-2021-10-25 15:32:12,730 - Shot 45406 expected in dt: 6.7 s\
-2021-10-25 15:32:09,716 - Pushed update to remote log: D:\ir_log\MWIR1.md\
