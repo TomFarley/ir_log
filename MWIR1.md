@@ -1,3 +1,14 @@
+2021-10-26 08:56:55,857 - Shot 45411 expected in dt: 13.8 s\
+2021-10-26 08:56:54,856 - In state "Trigger" for shot 45411\
+2021-10-26 08:56:46,802 - Shot 45411 expected in dt: 17.2 s\
+2021-10-26 08:56:36,760 - Shot 45411 expected in dt: 27.2 s\
+2021-10-26 08:56:26,680 - Shot 45411 expected in dt: 37.3 s\
+2021-10-26 08:56:16,641 - Shot 45411 expected in dt: 47.3 s\
+2021-10-26 08:56:06,603 - Shot 45411 expected in dt: 57.4 s\
+2021-10-26 08:55:56,541 - Shot 45411 expected in dt: 67.4 s\
+2021-10-26 08:55:46,491 - Shot 45411 expected in dt: 77.5 s\
+2021-10-26 08:55:36,433 - Shot 45411 expected in dt: 87.5 s\
+2021-10-26 08:55:33,416 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 08:55:30,349 - Shot 45411 expected in dt: 93.6 s\
 2021-10-26 08:55:29,338 - ========== Shot number changed to 45411. State: "PreShot" ==========\
 2021-10-26 08:55:04,327 - In state "Run" for shot 45410\
@@ -287,14 +298,3 @@
 2021-10-25 14:23:26,676 - Shot 45403 expected in dt: 67.5 s\
 2021-10-25 14:23:19,635 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 14:23:14,696 - Shot 45403 expected in dt: 79.5 s\
-2021-10-25 14:23:13,694 - In state "PreShot" for shot 45403\
-2021-10-25 14:22:23,676 - ========== Shot number changed to 45403. State: "Run" ==========\
-2021-10-25 08:44:47,532 - In state "UNDEFINED" for shot\
-2021-10-25 08:44:47,531 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-25 08:44:41,987 - ========== Ready for shot None in state "UNDEFINED" ==========\
-2021-10-25 08:44:41,934 - Re-arming MWIR1\
-2021-10-25 08:44:41,931 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-25"\
-2021-10-25 08:44:41,842 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
-2021-10-25 08:44:41,841 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-25"\
-2021-10-25 08:44:41,838 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
-2021-10-25 08:44:41,326 - Moved 0 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": []\
