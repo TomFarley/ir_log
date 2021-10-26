@@ -1,3 +1,9 @@
+2021-10-26 17:48:32,652 - Shot 45431 expected in dt: 82.6 s\
+2021-10-26 17:48:07,652 - ========== Shot number changed to 45431. State: "Ready" ==========\
+2021-10-26 17:47:42,648 - In state "Run" for shot 45430\
+2021-10-26 17:29:20,153 - Re-arming LWIR1\
+2021-10-26 17:28:55,151 - In state "PostShot" for shot 45430\
+2021-10-26 17:28:55,149 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 17:28:50,797 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45430.RAW" (after failing to move it there)\
 2021-10-26 17:28:48,464 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
 2021-10-26 17:28:47,914 - LWIR1: File "45430.RAW" for shot 45430 (45430 expected) saved 1.0 s ago\
@@ -292,9 +298,3 @@
 2021-10-26 11:12:49,489 - SUCCESSFULLY re-armed camera.\
 2021-10-26 11:12:47,897 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
 2021-10-26 11:12:44,636 - Re-arming LWIR1\
-2021-10-26 11:12:19,634 - FAILED to re-arm camera.\
-2021-10-26 11:12:18,203 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-26 11:12:15,741 - Re-arming LWIR1\
-2021-10-26 11:11:50,740 - In state "PostShot" for shot 45416\
-2021-10-26 11:11:50,738 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 11:11:45,376 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45416.RAW" (after failing to move it there)\
