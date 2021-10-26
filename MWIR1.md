@@ -1,3 +1,9 @@
+2021-10-26 17:48:29,910 - Shot 45431 expected in dt: 84.7 s\
+2021-10-26 17:48:04,899 - ========== Shot number changed to 45431. State: "Ready" ==========\
+2021-10-26 17:47:39,882 - In state "Run" for shot 45430\
+2021-10-26 17:29:19,503 - Re-arming MWIR1\
+2021-10-26 17:28:54,500 - In state "PostShot" for shot 45430\
+2021-10-26 17:28:43,405 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 17:28:39,819 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-26 17:28:39,819 - SW_beam_dump file created at 2021-10-26 16:43:27.516892. Shot state change at 2021-10-26 17:26:34.638744. dt=-2587.1 < 0\
 2021-10-26 17:28:39,818 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-26 14:15:33,179 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 14:15:30,033 - Shot 45424 expected in dt: 79.8 s\
 2021-10-26 14:15:29,032 - In state "PreShot" for shot 45424\
-2021-10-26 14:15:29,028 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 14:15:25,756 - Shot 45424 expected in dt: 83.9 s\
-2021-10-26 14:15:25,755 - A shot has been missed! Last recorded shot was 45422\
-2021-10-26 14:15:00,745 - ========== Shot number changed to 45424. State: "Ready" ==========\
-2021-10-26 14:09:35,634 - In state "PostShot" for shot 45423\
-2021-10-26 14:09:35,630 - Shot 45423 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
