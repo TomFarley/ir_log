@@ -1,3 +1,24 @@
+2021-10-26 13:22:10,937 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45421.RAW" (after failing to move it there)\
+2021-10-26 13:22:07,789 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
+2021-10-26 13:22:07,258 - LWIR1: File "45421.RAW" for shot 45421 (45421 expected) saved 1.0 s ago\
+2021-10-26 13:22:07,256 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45421.RAW (file confirmed to exist)\
+2021-10-26 13:21:44,661 - Shot 45421 expected in dt: 0.1 s\
+2021-10-26 13:21:43,660 - Shot 45421 expected in dt: 1.1 s\
+2021-10-26 13:21:42,658 - Shot 45421 expected in dt: 2.1 s\
+2021-10-26 13:21:41,657 - Shot 45421 expected in dt: 3.1 s\
+2021-10-26 13:21:40,655 - Shot 45421 expected in dt: 4.1 s\
+2021-10-26 13:21:39,653 - Shot 45421 expected in dt: 5.1 s\
+2021-10-26 13:21:38,651 - Shot 45421 expected in dt: 6.1 s\
+2021-10-26 13:21:35,648 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-26 13:21:30,904 - Shot 45421 expected in dt: 13.9 s\
+2021-10-26 13:21:29,902 - In state "Trigger" for shot 45421\
+2021-10-26 13:20:23,796 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-26 13:20:19,921 - Shot 45421 expected in dt: 80.5 s\
+2021-10-26 13:20:18,919 - In state "PreShot" for shot 45421\
+2021-10-26 13:19:53,916 - ========== Shot number changed to 45421. State: "Run" ==========\
+2021-10-26 12:54:01,372 - Re-arming LWIR1\
+2021-10-26 12:53:36,371 - In state "PostShot" for shot 45420\
+2021-10-26 12:53:34,367 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 12:53:30,149 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45420.RAW" (after failing to move it there)\
 2021-10-26 12:53:28,248 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
 2021-10-26 12:53:27,730 - LWIR1: File "45420.RAW" for shot 45420 (45420 expected) saved 0.7 s ago\
@@ -277,24 +298,3 @@
 2021-10-25 17:42:51,594 - Re-arming LWIR1\
 2021-10-25 17:42:26,592 - FAILED to re-arm camera.\
 2021-10-25 17:42:25,201 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:42:22,817 - Re-arming LWIR1\
-2021-10-25 17:41:57,816 - FAILED to re-arm camera.\
-2021-10-25 17:41:56,439 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:41:53,994 - Re-arming LWIR1\
-2021-10-25 17:41:28,992 - FAILED to re-arm camera.\
-2021-10-25 17:41:27,614 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:41:25,206 - Re-arming LWIR1\
-2021-10-25 17:41:00,204 - FAILED to re-arm camera.\
-2021-10-25 17:40:58,813 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:40:56,403 - Re-arming LWIR1\
-2021-10-25 17:40:31,403 - FAILED to re-arm camera.\
-2021-10-25 17:40:30,032 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:40:27,623 - Re-arming LWIR1\
-2021-10-25 17:40:02,621 - FAILED to re-arm camera.\
-2021-10-25 17:40:01,256 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:39:58,833 - Re-arming LWIR1\
-2021-10-25 17:39:33,832 - FAILED to re-arm camera.\
-2021-10-25 17:39:32,441 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-25 17:39:30,041 - Re-arming LWIR1\
-2021-10-25 17:39:05,040 - FAILED to re-arm camera.\
-2021-10-25 17:39:03,648 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
