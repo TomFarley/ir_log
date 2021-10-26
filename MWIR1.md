@@ -1,3 +1,6 @@
+2021-10-26 14:15:30,033 - Shot 45424 expected in dt: 79.8 s\
+2021-10-26 14:15:29,032 - In state "PreShot" for shot 45424\
+2021-10-26 14:15:29,028 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 14:15:25,756 - Shot 45424 expected in dt: 83.9 s\
 2021-10-26 14:15:25,755 - A shot has been missed! Last recorded shot was 45422\
 2021-10-26 14:15:00,745 - ========== Shot number changed to 45424. State: "Ready" ==========\
@@ -295,6 +298,3 @@
 2021-10-26 11:09:20,309 - In state "Run" for shot 45415\
 2021-10-26 10:35:34,615 - Re-arming MWIR1\
 2021-10-26 10:35:09,610 - In state "PostShot" for shot 45415\
-2021-10-26 10:35:04,566 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 10:34:58,166 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-26 10:34:58,165 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-26" and copied file back to "auto_export"\
