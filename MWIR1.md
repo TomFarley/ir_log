@@ -1,3 +1,48 @@
+2021-10-26 08:48:44,185 - ========== Ready for shot 45411 in state "PostShot" ==========\
+2021-10-26 08:48:44,145 - Re-arming MWIR1\
+2021-10-26 08:48:44,126 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
+2021-10-26 08:48:44,126 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
+2021-10-26 08:48:44,126 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
+2021-10-26 08:48:44,125 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211026.log"\
+2021-10-26 08:48:44,124 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-26 08:48:44,124 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
+2021-10-26 08:48:44,123 - Starting automation on "MWIR-PC1" PC\
+2021-10-26 08:48:35,746 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
+2021-10-26 08:48:35,722 - >>> CTRL+C <<<\
+2021-10-26 07:56:30,064 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-26"\
+2021-10-26 07:56:29,967 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
+2021-10-26 07:56:29,963 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-26"\
+2021-10-26 07:56:29,945 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
+2021-10-26 07:56:29,423 - Moved 7 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": ['000010.seq', '000015.seq', '000038.ats', '045406.seq', '045407.seq', '045408.seq', '045409.seq']\
+2021-10-26 07:56:29,408 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-26"\
+2021-10-26 07:56:29,406 - Moved previously exported files to D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup from D:\MAST-U_Operations\AIR-FLIR_1\auto_export\
+2021-10-26 07:56:28,897 - Moved 8 files from "D:\MAST-U_Operations\AIR-FLIR_1\auto_export" to "D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup": ['000013.ats', '000017.ats', '000018.ats', '045405.ats', '045406.ats', '045407.ats', '045408.ats', '045409.ats']\
+2021-10-26 07:56:28,873 - Created new directory "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-26"\
+2021-10-26 07:55:38,849 - ========== Waiting for shot 45410. State: "PostShot" ==========\
+2021-10-26 07:55:38,849 - >>> GOOD MORNING <<<\
+2021-10-25 20:15:12,882 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
+2021-10-25 16:57:14,066 - Re-arming MWIR1\
+2021-10-25 16:56:49,059 - In state "PostShot" for shot 45409\
+2021-10-25 16:56:45,030 - Pushed update to remote log: D:\ir_log\MWIR1.md\
+2021-10-25 16:56:37,479 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
+2021-10-25 16:56:37,473 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-25" and copied file back to "auto_export"\
+2021-10-25 16:56:36,328 - Px_protection: Renaming latest file from "000016.seq" to "045409.seq"\
+2021-10-25 16:56:36,324 - Px_protection: File "000016.seq" for shot 16 (45409 expected) saved 7.0 s ago\
+2021-10-25 16:56:36,284 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-25\045409.ats" (after failing to move it there)\
+2021-10-25 16:56:34,426 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-25" and copied file back to "auto_export"\
+2021-10-25 16:56:33,778 - MWIR1: Renaming latest file from "000014.ats" to "045409.ats"\
+2021-10-25 16:56:33,764 - MWIR1: File "000014.ats" for shot 14 (45409 expected) saved 12.8 s ago\
+2021-10-25 16:56:27,709 - Recording should finish in dt: 0.1 s\
+2021-10-25 16:56:26,693 - Recording should finish in dt: 1.1 s\
+2021-10-25 16:56:18,630 - Shot 45409 expected in dt: 0.1 s\
+2021-10-25 16:56:17,627 - Shot 45409 expected in dt: 1.1 s\
+2021-10-25 16:56:16,616 - Shot 45409 expected in dt: 2.1 s\
+2021-10-25 16:56:15,602 - Shot 45409 expected in dt: 3.2 s\
+2021-10-25 16:56:14,597 - Shot 45409 expected in dt: 4.2 s\
+2021-10-25 16:56:13,499 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-25 16:56:13,499 - Shot 45409 expected in dt: 5.3 s\
+2021-10-25 16:56:12,491 - Shot 45409 expected in dt: 6.3 s\
+2021-10-25 16:56:08,464 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 16:56:05,097 - Shot 45409 expected in dt: 13.7 s\
 2021-10-25 16:56:04,092 - In state "Trigger" for shot 45409\
 2021-10-25 16:56:03,085 - Shot 45409 expected in dt: 11.2 s\
@@ -253,48 +298,3 @@
 2021-10-25 08:44:40,809 - Moved 0 files from "D:\MAST-U_Operations\AIR-FLIR_1\auto_export" to "D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup": []\
 2021-10-25 08:44:40,805 - Created new directory "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-25"\
 2021-10-25 08:44:40,802 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-25 08:44:40,800 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-25 08:44:40,797 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-25 08:44:40,794 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211025.log"\
-2021-10-25 08:44:40,792 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-25 08:44:40,791 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-25 08:44:40,790 - Starting automation on "MWIR-PC1" PC\
-2021-10-25 08:43:59,644 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-25 08:43:59,644 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-25 08:43:59,636 - Starting automation on "MWIR-PC1" PC\
-2021-10-23 20:15:18,360 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
-2021-10-23 07:55:54,723 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-23"\
-2021-10-23 07:55:54,680 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
-2021-10-23 07:55:54,166 - Moved 9 files from "D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export" to "D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup": ['000015.seq', '000018.seq', '000023.seq', '000026.seq', '000029.seq', '045389.seq', '045390.seq', '045391.seq', '045392.seq']\
-2021-10-23 07:55:54,158 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-23"\
-2021-10-23 07:55:54,157 - Moved previously exported files to D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup from D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export\
-2021-10-23 07:55:53,654 - Moved 15 files from "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export" to "D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export_backup": ['000112.ats', '045380.seq', '045389.seq', '045390.seq', '045391.seq', '045392.seq', '045395.seq', '045396.seq', '045397.seq', '045398.seq', '045399.seq', '045400.seq', '045401.seq', '045402.seq', '045403.seq']\
-2021-10-23 07:55:53,620 - Created new directory "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-23"\
-2021-10-23 07:55:53,619 - Moved previously exported files to D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup from D:\MAST-U_Operations\AIR-FLIR_1\auto_export\
-2021-10-23 07:55:53,117 - Moved 14 files from "D:\MAST-U_Operations\AIR-FLIR_1\auto_export" to "D:\MAST-U_Operations\AIR-FLIR_1\auto_export_backup": ['000037.ats', '045390.ats', '045391.ats', '045392.ats', '045393.ats', '045395.ats', '045396.ats', '045397.ats', '045398.ats', '045399.ats', '045400.ats', '045401.ats', '045402.ats', '045403.ats']\
-2021-10-23 07:55:53,103 - Created new directory "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-23"\
-2021-10-23 07:55:28,088 - ========== Waiting for shot 45404. State: "PostShot" ==========\
-2021-10-23 07:55:28,087 - >>> GOOD MORNING <<<\
-2021-10-22 20:15:02,133 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
-2021-10-22 16:04:07,374 - Re-arming MWIR1\
-2021-10-22 16:03:42,373 - In state "PostShot" for shot 45403\
-2021-10-22 16:03:35,324 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-22 16:03:29,194 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-22 16:03:29,193 - SW_beam_dump file created at 2021-10-22 15:39:52.839114. Shot state change at 2021-10-22 16:01:21.498424. dt=-1288.7 < 0\
-2021-10-22 16:03:29,191 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-22 16:03:29,190 - SW_beam_dump: File "000029.seq" for shot 29 (45403 expected) saved 1416.3 s ago\
-2021-10-22 16:03:29,187 - SW_beam_dump: **Number of files, 9, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-22 16:03:29,180 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-22" and copied file back to "auto_export"\
-2021-10-22 16:03:28,503 - Px_protection: Renaming latest file from "000036.seq" to "045403.seq"\
-2021-10-22 16:03:28,499 - Px_protection: File "000036.seq" for shot 36 (45403 expected) saved 6.3 s ago\
-2021-10-22 16:03:28,483 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-22\045403.ats" (after failing to move it there)\
-2021-10-22 16:03:26,621 - Moved file to "D:\MAST-U_Operations\AIR-FLIR_1\dates\2021-10-22" and copied file back to "auto_export"\
-2021-10-22 16:03:26,078 - MWIR1: Renaming latest file from "000035.ats" to "045403.ats"\
-2021-10-22 16:03:26,066 - MWIR1: File "000035.ats" for shot 35 (45403 expected) saved 10.5 s ago\
-2021-10-22 16:03:20,016 - Recording should finish in dt: 0.9 s\
-2021-10-22 16:03:19,008 - Recording should finish in dt: 1.9 s\
-2021-10-22 16:03:18,001 - Recording should finish in dt: 2.9 s\
-2021-10-22 16:03:10,927 - Shot 45403 expected in dt: 1.0 s\
-2021-10-22 16:03:09,910 - Shot 45403 expected in dt: 2.0 s\
-2021-10-22 16:03:08,909 - Shot 45403 expected in dt: 3.0 s\
-2021-10-22 16:03:07,895 - Shot 45403 expected in dt: 4.0 s\
