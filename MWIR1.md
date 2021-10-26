@@ -1,3 +1,13 @@
+2021-10-26 09:46:30,969 - Shot 45412 expected in dt: 13.0 s\
+2021-10-26 09:46:29,967 - In state "Trigger" for shot 45412\
+2021-10-26 09:46:22,925 - Shot 45412 expected in dt: 16.6 s\
+2021-10-26 09:46:12,872 - Shot 45412 expected in dt: 26.7 s\
+2021-10-26 09:46:02,831 - Shot 45412 expected in dt: 36.7 s\
+2021-10-26 09:45:52,797 - Shot 45412 expected in dt: 46.8 s\
+2021-10-26 09:45:42,742 - Shot 45412 expected in dt: 56.8 s\
+2021-10-26 09:45:32,705 - Shot 45412 expected in dt: 66.9 s\
+2021-10-26 09:45:22,638 - Shot 45412 expected in dt: 76.9 s\
+2021-10-26 09:45:18,621 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 09:45:11,899 - Shot 45412 expected in dt: 87.7 s\
 2021-10-26 09:45:10,896 - ========== Shot number changed to 45412. State: "PreShot" ==========\
 2021-10-26 09:44:45,893 - In state "Run" for shot 45411\
@@ -288,13 +298,3 @@
 2021-10-25 14:47:59,465 - Shot 45404 expected in dt: 79.4 s\
 2021-10-25 14:47:55,436 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-25 14:47:51,343 - Shot 45404 expected in dt: 87.5 s\
-2021-10-25 14:47:50,341 - ========== Shot number changed to 45404. State: "PreShot" ==========\
-2021-10-25 14:47:25,330 - In state "Run" for shot 45403\
-2021-10-25 14:25:44,873 - Re-arming MWIR1\
-2021-10-25 14:25:19,863 - In state "PostShot" for shot 45403\
-2021-10-25 14:25:06,745 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-25 14:25:02,051 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-25 14:25:02,049 - Moved file to "D:\FLIR_AX5_Protection_data\PX Coil Tail\dates\2021-10-25" and copied file back to "auto_export"\
-2021-10-25 14:25:01,141 - Px_protection: Renaming latest file from "000002.seq" to "045403.seq"\
-2021-10-25 14:25:01,141 - Px_protection: File "000002.seq" for shot 2 (45403 expected) saved 7.1 s ago\
-2021-10-25 14:25:01,139 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-25\045403.ats" (after failing to move it there)\
