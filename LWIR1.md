@@ -1,3 +1,6 @@
+2021-10-26 14:15:30,869 - Shot 45424 expected in dt: 79.7 s\
+2021-10-26 14:15:29,868 - In state "PreShot" for shot 45424\
+2021-10-26 14:15:29,865 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 14:15:25,531 - Shot 45424 expected in dt: 84.8 s\
 2021-10-26 14:15:25,530 - A shot has been missed! Last recorded shot was 45422\
 2021-10-26 14:15:00,530 - ========== Shot number changed to 45424. State: "Ready" ==========\
@@ -295,6 +298,3 @@
 2021-10-26 08:44:47,848 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
 2021-10-26 08:44:47,347 - Moved 5 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45404.RAW', '45405.RAW', '45406.RAW', '45407.RAW', '45408.RAW']\
 2021-10-26 08:44:47,330 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26"\
-2021-10-26 08:44:47,329 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
-2021-10-26 08:44:47,328 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211026.log"\
-2021-10-26 08:44:47,327 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
