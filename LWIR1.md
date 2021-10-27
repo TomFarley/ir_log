@@ -1,3 +1,14 @@
+2021-10-27 19:56:36,263 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45466.RAW" (after failing to move it there)\
+2021-10-27 19:56:34,402 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
+2021-10-27 19:56:33,868 - LWIR1: File "45466.RAW" for shot 45466 (45466 expected) saved 0.9 s ago\
+2021-10-27 19:56:33,864 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45466.RAW (file confirmed to exist)\
+2021-10-27 19:56:11,350 - Shot 45466 expected in dt: 0.4 s\
+2021-10-27 19:56:10,348 - Shot 45466 expected in dt: 1.4 s\
+2021-10-27 19:56:09,346 - Shot 45466 expected in dt: 2.4 s\
+2021-10-27 19:56:05,846 - Re-arming LWIR1\
+2021-10-27 19:56:05,846 - Shot 45466 expected in dt: 5.9 s\
+2021-10-27 19:56:04,846 - Shot 45466 expected in dt: 6.9 s\
+2021-10-27 19:56:01,844 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 19:55:57,859 - Shot 45466 expected in dt: 13.9 s\
 2021-10-27 19:55:56,858 - In state "Trigger" for shot 45466\
 2021-10-27 19:54:50,796 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -287,14 +298,3 @@
 2021-10-27 14:23:25,111 - Shot 45452 expected in dt: 1.4 s\
 2021-10-27 14:23:24,109 - Shot 45452 expected in dt: 2.4 s\
 2021-10-27 14:23:23,107 - Shot 45452 expected in dt: 3.4 s\
-2021-10-27 14:23:22,106 - Shot 45452 expected in dt: 4.4 s\
-2021-10-27 14:23:21,105 - Shot 45452 expected in dt: 5.4 s\
-2021-10-27 14:23:20,104 - Shot 45452 expected in dt: 6.4 s\
-2021-10-27 14:23:18,101 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 14:23:13,542 - Shot 45452 expected in dt: 13.0 s\
-2021-10-27 14:23:12,541 - In state "Trigger" for shot 45452\
-2021-10-27 14:23:12,536 - Shot 45452 expected in dt: 3.3 s\
-2021-10-27 14:23:11,534 - Shot 45452 expected in dt: 4.3 s\
-2021-10-27 14:23:10,533 - Shot 45452 expected in dt: 5.3 s\
-2021-10-27 14:23:09,530 - Shot 45452 expected in dt: 6.3 s\
-2021-10-27 14:21:38,384 - Pushed update to remote log: D:\ir_log\LWIR1.md\
