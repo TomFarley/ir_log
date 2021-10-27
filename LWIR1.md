@@ -1,3 +1,11 @@
+2021-10-27 12:33:47,091 - Shot 45448 expected in dt: 94.0 s\
+2021-10-27 12:33:47,090 - A shot has been missed! Last recorded shot was 45446\
+2021-10-27 12:33:46,089 - ========== Shot number changed to 45448. State: "PreShot" ==========\
+2021-10-27 12:33:21,086 - In state "Run" for shot 45447\
+2021-10-27 12:24:11,063 - In state "PostShot" for shot 45447\
+2021-10-27 12:24:11,062 - Shot 45447 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-27 12:23:46,061 - In state "Abort" for shot 45447\
+2021-10-27 12:22:28,981 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 12:22:25,373 - Shot 45447 expected in dt: 95.3 s\
 2021-10-27 12:22:24,372 - ========== Shot number changed to 45447. State: "PreShot" ==========\
 2021-10-27 12:21:59,369 - In state "Run" for shot 45446\
@@ -290,11 +298,3 @@
 2021-10-26 18:27:37,285 - LWIR1: File "45433.RAW" for shot 45433 (45433 expected) saved 1.5 s ago\
 2021-10-26 18:27:37,281 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45433.RAW (file confirmed to exist)\
 2021-10-26 18:27:14,736 - Shot 45433 expected in dt: 0.8 s\
-2021-10-26 18:27:13,734 - Shot 45433 expected in dt: 1.9 s\
-2021-10-26 18:27:12,734 - Shot 45433 expected in dt: 2.9 s\
-2021-10-26 18:27:11,732 - Shot 45433 expected in dt: 3.9 s\
-2021-10-26 18:27:10,731 - Shot 45433 expected in dt: 4.9 s\
-2021-10-26 18:27:09,730 - Shot 45433 expected in dt: 5.9 s\
-2021-10-26 18:27:08,729 - Shot 45433 expected in dt: 6.9 s\
-2021-10-26 18:27:06,727 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 18:27:02,447 - Shot 45433 expected in dt: 13.1 s\
