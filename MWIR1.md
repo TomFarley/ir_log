@@ -1,3 +1,6 @@
+2021-10-27 15:18:32,086 - Shot 45454 expected in dt: 78.5 s\
+2021-10-27 15:18:31,072 - In state "PreShot" for shot 45454\
+2021-10-27 15:18:31,070 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 15:18:26,752 - Shot 45454 expected in dt: 83.7 s\
 2021-10-27 15:18:01,750 - ========== Shot number changed to 45454. State: "Ready" ==========\
 2021-10-27 14:50:56,222 - Re-arming MWIR1\
@@ -295,6 +298,3 @@
 2021-10-27 11:58:19,893 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
 2021-10-27 11:58:19,892 - MWIR1: File "000047.ats" for shot 47 (45446 expected) saved 2706.6 s ago\
 2021-10-27 11:58:13,866 - Recording should finish in dt: 0.7 s\
-2021-10-27 11:58:12,855 - Recording should finish in dt: 1.7 s\
-2021-10-27 11:58:10,835 - Recording should finish in dt: 3.8 s\
-2021-10-27 11:58:04,800 - Shot 45446 expected in dt: 0.8 s\
