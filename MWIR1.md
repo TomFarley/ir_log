@@ -1,3 +1,9 @@
+2021-10-27 14:48:32,246 - Shot 45453 expected in dt: 83.5 s\
+2021-10-27 14:48:31,239 - In state "PreShot" for shot 45453\
+2021-10-27 14:48:06,226 - ========== Shot number changed to 45453. State: "Run" ==========\
+2021-10-27 14:24:20,766 - Re-arming MWIR1\
+2021-10-27 14:23:55,756 - In state "PostShot" for shot 45452\
+2021-10-27 14:23:43,651 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 14:23:40,025 - Moved file to "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-27" and copied file back to "auto_export"\
 2021-10-27 14:23:40,021 - SW_beam_dump: Renaming latest file from "000051.seq" to "045452.seq"\
 2021-10-27 14:23:40,021 - SW_beam_dump: File "000051.seq" for shot 51 (45452 expected) saved 7.2 s ago\
@@ -292,9 +298,3 @@
 2021-10-27 11:39:18,549 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
 2021-10-27 11:39:18,548 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211027.log"\
 2021-10-27 11:39:18,548 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-27 11:39:18,547 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-27 11:39:18,547 - Starting automation on "MWIR-PC1" PC\
-2021-10-27 11:36:56,462 - ========== Shot number changed to . State: "UNDEFINED" ==========\
-2021-10-27 11:34:26,421 - Re-arming MWIR1\
-2021-10-27 11:34:01,409 - In state "PostShot" for shot 45445\
-2021-10-27 11:33:48,267 - Pushed update to remote log: D:\ir_log\MWIR1.md\
