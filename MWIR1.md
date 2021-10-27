@@ -1,3 +1,16 @@
+2021-10-27 13:12:51,257 - Shot 45449 expected in dt: 13.9 s\
+2021-10-27 13:12:50,254 - In state "Trigger" for shot 45449\
+2021-10-27 13:12:50,250 - Shot 45449 expected in dt: 5.3 s\
+2021-10-27 13:12:49,244 - Shot 45449 expected in dt: 6.3 s\
+2021-10-27 13:12:40,193 - Shot 45449 expected in dt: 15.4 s\
+2021-10-27 13:12:30,152 - Shot 45449 expected in dt: 25.4 s\
+2021-10-27 13:12:20,099 - Shot 45449 expected in dt: 35.5 s\
+2021-10-27 13:12:10,050 - Shot 45449 expected in dt: 45.5 s\
+2021-10-27 13:11:59,995 - Shot 45449 expected in dt: 55.6 s\
+2021-10-27 13:11:49,938 - Shot 45449 expected in dt: 65.6 s\
+2021-10-27 13:11:39,879 - Shot 45449 expected in dt: 75.7 s\
+2021-10-27 13:11:29,841 - Shot 45449 expected in dt: 85.7 s\
+2021-10-27 13:11:26,824 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 13:11:22,139 - Shot 45449 expected in dt: 93.4 s\
 2021-10-27 13:11:21,136 - ========== Shot number changed to 45449. State: "PreShot" ==========\
 2021-10-27 13:10:56,118 - In state "Run" for shot 45448\
@@ -285,16 +298,3 @@
 2021-10-27 09:27:17,888 - Shot 45439 expected in dt: 77.0 s\
 2021-10-27 09:27:14,857 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 09:27:10,291 - Shot 45439 expected in dt: 84.6 s\
-2021-10-27 09:27:09,284 - In state "PreShot" for shot 45439\
-2021-10-27 09:26:44,271 - ========== Shot number changed to 45439. State: "Run" ==========\
-2021-10-27 09:07:58,931 - In state "PostShot" for shot 45438\
-2021-10-27 09:07:58,930 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 09:07:51,992 - ========== Ready for shot 45439 in state "PostShot" ==========\
-2021-10-27 09:07:51,890 - Re-arming MWIR1\
-2021-10-27 09:07:51,861 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-27 09:07:51,859 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-27 09:07:51,858 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-27 09:07:51,855 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211027.log"\
-2021-10-27 09:07:51,853 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-27 09:07:51,851 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-27 09:07:51,851 - Starting automation on "MWIR-PC1" PC\
