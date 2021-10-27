@@ -1,3 +1,14 @@
+2021-10-27 12:35:11,405 - Shot 45448 expected in dt: 13.6 s\
+2021-10-27 12:35:10,402 - In state "Trigger" for shot 45448\
+2021-10-27 12:35:07,382 - Shot 45448 expected in dt: 13.1 s\
+2021-10-27 12:34:57,327 - Shot 45448 expected in dt: 23.2 s\
+2021-10-27 12:34:47,269 - Shot 45448 expected in dt: 33.2 s\
+2021-10-27 12:34:37,212 - Shot 45448 expected in dt: 43.3 s\
+2021-10-27 12:34:27,162 - Shot 45448 expected in dt: 53.3 s\
+2021-10-27 12:34:17,113 - Shot 45448 expected in dt: 63.4 s\
+2021-10-27 12:34:07,042 - Shot 45448 expected in dt: 73.5 s\
+2021-10-27 12:33:56,976 - Shot 45448 expected in dt: 83.5 s\
+2021-10-27 12:33:49,930 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 12:33:46,699 - Shot 45448 expected in dt: 93.8 s\
 2021-10-27 12:33:46,698 - A shot has been missed! Last recorded shot was 45446\
 2021-10-27 12:33:45,682 - ========== Shot number changed to 45448. State: "PreShot" ==========\
@@ -287,14 +298,3 @@
 2021-10-26 20:10:04,262 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
 2021-10-26 20:10:04,261 - MWIR1: File "045419.ats" for shot 45419 (45437 expected) saved 27434.7 s ago\
 2021-10-26 20:10:04,261 - MWIR1: **Number of files, 9, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
-2021-10-26 20:09:58,220 - Recording should finish in dt: 0.6 s\
-2021-10-26 20:09:57,205 - Recording should finish in dt: 1.6 s\
-2021-10-26 20:09:49,166 - Shot 45437 expected in dt: 0.6 s\
-2021-10-26 20:09:48,161 - Shot 45437 expected in dt: 1.6 s\
-2021-10-26 20:09:47,143 - Shot 45437 expected in dt: 2.7 s\
-2021-10-26 20:09:46,137 - Shot 45437 expected in dt: 3.7 s\
-2021-10-26 20:09:45,133 - Shot 45437 expected in dt: 4.7 s\
-2021-10-26 20:09:44,076 - Re-arming MWIR1\
-2021-10-26 20:09:43,979 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-26 20:09:43,979 - Shot 45437 expected in dt: 5.8 s\
-2021-10-26 20:09:42,977 - Shot 45437 expected in dt: 6.8 s\
