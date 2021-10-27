@@ -1,3 +1,9 @@
+2021-10-27 13:11:22,139 - Shot 45449 expected in dt: 93.4 s\
+2021-10-27 13:11:21,136 - ========== Shot number changed to 45449. State: "PreShot" ==========\
+2021-10-27 13:10:56,118 - In state "Run" for shot 45448\
+2021-10-27 12:36:20,486 - Re-arming MWIR1\
+2021-10-27 12:35:55,474 - In state "PostShot" for shot 45448\
+2021-10-27 12:35:43,381 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 12:35:39,849 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-27 12:35:39,848 - SW_beam_dump file created at 2021-10-27 11:58:29.008354. Shot state change at 2021-10-27 12:33:35.495668. dt=-2106.5 < 0\
 2021-10-27 12:35:39,848 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-27 09:07:51,853 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
 2021-10-27 09:07:51,851 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
 2021-10-27 09:07:51,851 - Starting automation on "MWIR-PC1" PC\
-2021-10-27 08:41:01,577 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-27 08:40:57,745 - >>> CTRL+C <<<\
-2021-10-27 07:59:08,648 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-27"\
-2021-10-27 07:59:08,575 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
-2021-10-27 07:59:08,071 - Moved 13 files from "D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export" to "D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup": ['000025.seq', '000028.seq', '000030.seq', '000031.seq', '000032.seq', '000033.seq', '000034.seq', '000035.seq', '000036.seq', '000037.seq', '000038.seq', '000039.seq', '000040.seq']\
-2021-10-27 07:59:08,035 - Created new directory "D:\FLIR_AX5_Protection_data\SW_beam_dump\dates\2021-10-27"\
