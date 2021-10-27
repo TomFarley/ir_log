@@ -1,3 +1,22 @@
+2021-10-27 09:11:38,469 - ========== Ready for shot 45439 in state "PostShot" ==========\
+2021-10-27 09:11:35,310 - Re-arming LWIR1\
+2021-10-27 09:11:35,283 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-27 09:11:35,281 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211027.log"\
+2021-10-27 09:11:35,281 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-27 09:11:35,280 - **Starting camera automation for cameras: LWIR1**\
+2021-10-27 09:11:35,279 - Starting automation on "H0012" PC\
+2021-10-27 09:08:51,121 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
+2021-10-27 09:08:51,043 - >>> CTRL+C <<<\
+2021-10-27 07:58:43,094 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27"\
+2021-10-27 07:58:23,888 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
+2021-10-27 07:58:23,386 - Moved 23 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45411.RAW', '45414.RAW', '45415.RAW', '45416.RAW', '45417.RAW', '45418.RAW', '45419.RAW', '45420.RAW', '45421.RAW', '45422.RAW', '45424.RAW', '45425.RAW', '45426.RAW', '45427.RAW', '45428.RAW', '45429.RAW', '45430.RAW', '45432.RAW', '45433.RAW', '45434.RAW', '45435.RAW', '45436.RAW', '45437.RAW']\
+2021-10-27 07:58:23,361 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27"\
+2021-10-27 07:55:45,884 - Re-arming LWIR1\
+2021-10-27 07:55:45,883 - ========== Waiting for shot 45438. State: "PostShot" ==========\
+2021-10-27 07:55:45,882 - >>> GOOD MORNING <<<\
+2021-10-26 20:15:20,873 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
+2021-10-26 20:10:20,861 - In state "PostShot" for shot 45437\
+2021-10-26 20:10:19,858 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-26 20:10:15,429 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45437.RAW" (after failing to move it there)\
 2021-10-26 20:10:13,631 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
 2021-10-26 20:10:12,976 - LWIR1: File "45437.RAW" for shot 45437 (45437 expected) saved 1.0 s ago\
@@ -279,22 +298,3 @@
 2021-10-26 14:08:28,469 - Shot 45423 expected in dt: 2.2 s\
 2021-10-26 14:08:27,468 - Shot 45423 expected in dt: 3.2 s\
 2021-10-26 14:08:26,466 - Shot 45423 expected in dt: 4.2 s\
-2021-10-26 14:08:25,466 - Shot 45423 expected in dt: 5.2 s\
-2021-10-26 14:08:24,465 - Shot 45423 expected in dt: 6.2 s\
-2021-10-26 14:07:07,387 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 14:07:03,632 - Shot 45423 expected in dt: 87.1 s\
-2021-10-26 14:07:02,630 - In state "PreShot" for shot 45423\
-2021-10-26 14:06:37,628 - ========== Shot number changed to 45423. State: "Run" ==========\
-2021-10-26 14:06:12,626 - In state "Run" for shot 45422\
-2021-10-26 13:46:35,082 - Re-arming LWIR1\
-2021-10-26 13:46:10,081 - In state "PostShot" for shot 45422\
-2021-10-26 13:46:05,074 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 13:46:00,034 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45422.RAW" (after failing to move it there)\
-2021-10-26 13:45:58,168 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
-2021-10-26 13:45:57,671 - LWIR1: File "45422.RAW" for shot 45422 (45422 expected) saved 0.8 s ago\
-2021-10-26 13:45:57,669 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45422.RAW (file confirmed to exist)\
-2021-10-26 13:45:35,024 - Shot 45422 expected in dt: 0.6 s\
-2021-10-26 13:45:34,023 - Shot 45422 expected in dt: 1.6 s\
-2021-10-26 13:45:33,022 - Shot 45422 expected in dt: 2.6 s\
-2021-10-26 13:45:32,020 - Shot 45422 expected in dt: 3.6 s\
-2021-10-26 13:45:31,018 - Shot 45422 expected in dt: 4.6 s\
