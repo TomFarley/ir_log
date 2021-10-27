@@ -1,3 +1,17 @@
+2021-10-27 10:28:11,809 - Shot 45442 expected in dt: 88.7 s\
+2021-10-27 10:28:10,809 - ========== Shot number changed to 45442. State: "PreShot" ==========\
+2021-10-27 10:27:45,806 - In state "Run" for shot 45441\
+2021-10-27 10:15:15,778 - In state "PostShot" for shot 45441\
+2021-10-27 10:15:15,777 - Shot 45441 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
+2021-10-27 10:14:50,776 - In state "Abort" for shot 45441\
+2021-10-27 10:14:50,775 - Shot 45441 expected in dt: 0.4 s\
+2021-10-27 10:14:49,773 - Shot 45441 expected in dt: 1.4 s\
+2021-10-27 10:14:48,772 - Shot 45441 expected in dt: 2.4 s\
+2021-10-27 10:14:47,771 - Shot 45441 expected in dt: 3.4 s\
+2021-10-27 10:14:46,771 - Shot 45441 expected in dt: 4.4 s\
+2021-10-27 10:14:45,769 - Shot 45441 expected in dt: 5.4 s\
+2021-10-27 10:14:44,767 - Shot 45441 expected in dt: 6.4 s\
+2021-10-27 10:14:41,763 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 10:14:37,561 - Shot 45441 expected in dt: 13.6 s\
 2021-10-27 10:14:36,559 - In state "Trigger" for shot 45441\
 2021-10-27 10:13:36,505 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -284,17 +298,3 @@
 2021-10-26 16:17:32,870 - LWIR1: File "45427.RAW" for shot 45427 (45427 expected) saved 0.2 s ago\
 2021-10-26 16:17:32,865 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45427.RAW (file confirmed to exist)\
 2021-10-26 16:17:10,019 - Shot 45427 expected in dt: 0.2 s\
-2021-10-26 16:17:09,019 - Shot 45427 expected in dt: 1.2 s\
-2021-10-26 16:17:08,017 - Shot 45427 expected in dt: 2.2 s\
-2021-10-26 16:17:07,015 - Shot 45427 expected in dt: 3.2 s\
-2021-10-26 16:17:06,012 - Shot 45427 expected in dt: 4.2 s\
-2021-10-26 16:17:05,010 - Shot 45427 expected in dt: 5.2 s\
-2021-10-26 16:17:04,009 - Shot 45427 expected in dt: 6.2 s\
-2021-10-26 16:17:01,005 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 16:16:56,604 - Shot 45427 expected in dt: 13.6 s\
-2021-10-26 16:16:55,603 - In state "Trigger" for shot 45427\
-2021-10-26 16:15:38,517 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 16:15:34,217 - Shot 45427 expected in dt: 91.4 s\
-2021-10-26 16:15:33,215 - ========== Shot number changed to 45427. State: "PreShot" ==========\
-2021-10-26 16:13:28,210 - In state "Run" for shot 45426\
-2021-10-26 15:46:45,665 - Re-arming LWIR1\
