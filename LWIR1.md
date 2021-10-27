@@ -1,3 +1,9 @@
+2021-10-27 15:44:59,498 - Shot 45455 expected in dt: 102.0 s\
+2021-10-27 15:44:58,497 - ========== Shot number changed to 45455. State: "PreShot" ==========\
+2021-10-27 15:44:33,494 - In state "Run" for shot 45454\
+2021-10-27 15:20:45,932 - Re-arming LWIR1\
+2021-10-27 15:20:20,931 - In state "PostShot" for shot 45454\
+2021-10-27 15:20:20,929 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 15:20:16,072 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45454.RAW" (after failing to move it there)\
 2021-10-27 15:20:13,837 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
 2021-10-27 15:20:13,290 - LWIR1: File "45454.RAW" for shot 45454 (45454 expected) saved 0.6 s ago\
@@ -292,9 +298,3 @@
 2021-10-27 09:56:36,577 - **Starting camera automation for cameras: LWIR1**\
 2021-10-27 09:56:36,577 - Starting automation on "H0012" PC\
 2021-10-27 09:55:12,105 - kill_da_proxy: AttributeError("'NoneType' object has no attribute 'pid'")\
-2021-10-27 09:55:12,064 - >>> CTRL+C <<<\
-2021-10-27 09:49:50,915 - SUCCESSFULLY re-armed camera.\
-2021-10-27 09:49:49,337 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
-2021-10-27 09:49:46,871 - Re-arming LWIR1\
-2021-10-27 09:49:21,869 - In state "PostShot" for shot 45440\
-2021-10-27 09:49:21,868 - Pushed update to remote log: D:\ir_log\LWIR1.md\
