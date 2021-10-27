@@ -1,3 +1,9 @@
+2021-10-27 11:31:56,993 - Shot 45445 expected in dt: 88.3 s\
+2021-10-27 11:31:55,992 - ========== Shot number changed to 45445. State: "PreShot" ==========\
+2021-10-27 11:31:30,975 - In state "Run" for shot 45444\
+2021-10-27 11:13:10,590 - Re-arming MWIR1\
+2021-10-27 11:12:45,578 - In state "PostShot" for shot 45444\
+2021-10-27 11:12:35,476 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 11:12:29,977 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-27 11:12:29,977 - SW_beam_dump file created at 2021-10-27 10:52:54.253051. Shot state change at 2021-10-27 11:10:25.636337. dt=-1051.4 < 0\
 2021-10-27 11:12:29,977 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-26 18:53:59,044 - MWIR1: **Number of files, 9, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
 2021-10-26 18:53:52,988 - Recording should finish in dt: 0.3 s\
 2021-10-26 18:53:51,976 - Recording should finish in dt: 1.3 s\
-2021-10-26 18:53:43,927 - Shot 45434 expected in dt: 0.3 s\
-2021-10-26 18:53:42,923 - Shot 45434 expected in dt: 1.3 s\
-2021-10-26 18:53:41,920 - Shot 45434 expected in dt: 2.3 s\
-2021-10-26 18:53:40,914 - Shot 45434 expected in dt: 3.3 s\
-2021-10-26 18:53:39,911 - Shot 45434 expected in dt: 4.3 s\
-2021-10-26 18:53:38,810 - Starting protection cameras recording 6.0s before shot for 15.0s\
