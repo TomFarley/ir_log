@@ -1,3 +1,12 @@
+2021-10-27 15:19:37,792 - Shot 45454 expected in dt: 13.1 s\
+2021-10-27 15:19:36,777 - In state "Trigger" for shot 45454\
+2021-10-27 15:19:28,712 - Shot 45454 expected in dt: 21.9 s\
+2021-10-27 15:19:18,641 - Shot 45454 expected in dt: 31.9 s\
+2021-10-27 15:19:08,576 - Shot 45454 expected in dt: 42.0 s\
+2021-10-27 15:18:58,507 - Shot 45454 expected in dt: 52.1 s\
+2021-10-27 15:18:48,458 - Shot 45454 expected in dt: 62.1 s\
+2021-10-27 15:18:38,409 - Shot 45454 expected in dt: 72.2 s\
+2021-10-27 15:18:35,395 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 15:18:32,086 - Shot 45454 expected in dt: 78.5 s\
 2021-10-27 15:18:31,072 - In state "PreShot" for shot 45454\
 2021-10-27 15:18:31,070 - Pushed update to remote log: D:\ir_log\MWIR1.md\
@@ -289,12 +298,3 @@
 2021-10-27 11:58:19,898 - SW_beam_dump file created at 2021-10-27 11:12:42.055440. Shot state change at 2021-10-27 11:56:07.888560. dt=-2605.8 < 0\
 2021-10-27 11:58:19,898 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
 2021-10-27 11:58:19,897 - SW_beam_dump: File "000046.seq" for shot 46 (45446 expected) saved 2737.8 s ago\
-2021-10-27 11:58:19,896 - Px_protection: **Didn't copy file as rename success = False**\
-2021-10-27 11:58:19,896 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-27 11:56:07.888560. dt=-91278.8 < 0\
-2021-10-27 11:58:19,896 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
-2021-10-27 11:58:19,895 - Px_protection: File "000013.seq" for shot 13 (45446 expected) saved 91410.8 s ago\
-2021-10-27 11:58:19,894 - MWIR1: **Didn't copy file as rename success = False**\
-2021-10-27 11:58:19,894 - MWIR1 file created at 2021-10-27 11:13:13.267923. Shot state change at 2021-10-27 11:56:07.888560. dt=-2574.6 < 0\
-2021-10-27 11:58:19,893 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-27 11:58:19,892 - MWIR1: File "000047.ats" for shot 47 (45446 expected) saved 2706.6 s ago\
-2021-10-27 11:58:13,866 - Recording should finish in dt: 0.7 s\
