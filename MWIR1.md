@@ -1,3 +1,15 @@
+2021-10-27 13:47:01,596 - Shot 45451 expected in dt: 13.8 s\
+2021-10-27 13:47:00,594 - In state "Trigger" for shot 45451\
+2021-10-27 13:46:59,587 - Shot 45451 expected in dt: 10.3 s\
+2021-10-27 13:46:49,529 - Shot 45451 expected in dt: 20.4 s\
+2021-10-27 13:46:39,476 - Shot 45451 expected in dt: 30.4 s\
+2021-10-27 13:46:29,435 - Shot 45451 expected in dt: 40.5 s\
+2021-10-27 13:46:19,381 - Shot 45451 expected in dt: 50.5 s\
+2021-10-27 13:46:09,334 - Shot 45451 expected in dt: 60.6 s\
+2021-10-27 13:45:59,274 - Shot 45451 expected in dt: 70.6 s\
+2021-10-27 13:45:49,218 - Shot 45451 expected in dt: 80.7 s\
+2021-10-27 13:45:39,158 - Shot 45451 expected in dt: 90.8 s\
+2021-10-27 13:45:31,109 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 13:45:26,889 - Shot 45451 expected in dt: 103.0 s\
 2021-10-27 13:45:25,887 - ========== Shot number changed to 45451. State: "PreShot" ==========\
 2021-10-27 13:45:00,882 - In state "Run" for shot 45450\
@@ -286,15 +298,3 @@
 2021-10-27 11:11:47,011 - Shot 45444 expected in dt: 23.6 s\
 2021-10-27 11:11:36,954 - Shot 45444 expected in dt: 33.7 s\
 2021-10-27 11:11:26,903 - Shot 45444 expected in dt: 43.7 s\
-2021-10-27 11:11:16,853 - Shot 45444 expected in dt: 53.8 s\
-2021-10-27 11:11:06,800 - Shot 45444 expected in dt: 63.8 s\
-2021-10-27 11:10:56,750 - Shot 45444 expected in dt: 73.9 s\
-2021-10-27 11:10:46,685 - Shot 45444 expected in dt: 84.0 s\
-2021-10-27 11:10:36,624 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 11:10:32,390 - Shot 45444 expected in dt: 98.2 s\
-2021-10-27 11:10:31,381 - ========== Shot number changed to 45444. State: "PreShot" ==========\
-2021-10-27 11:09:41,363 - In state "Run" for shot 45443\
-2021-10-27 10:53:26,016 - Re-arming MWIR1\
-2021-10-27 10:53:01,009 - In state "PostShot" for shot 45443\
-2021-10-27 10:52:47,902 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 10:52:44,864 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
