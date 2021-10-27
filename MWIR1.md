@@ -1,3 +1,6 @@
+2021-10-27 19:54:46,637 - Shot 45466 expected in dt: 79.1 s\
+2021-10-27 19:54:45,624 - In state "PreShot" for shot 45466\
+2021-10-27 19:54:45,623 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 19:54:41,929 - Shot 45466 expected in dt: 83.7 s\
 2021-10-27 19:54:16,919 - ========== Shot number changed to 45466. State: "Ready" ==========\
 2021-10-27 19:35:06,543 - In state "PostShot" for shot 45465\
@@ -295,6 +298,3 @@
 2021-10-27 17:22:40,164 - Shot 45459 expected in dt: 34.9 s\
 2021-10-27 17:22:30,100 - Shot 45459 expected in dt: 45.0 s\
 2021-10-27 17:22:20,042 - Shot 45459 expected in dt: 55.0 s\
-2021-10-27 17:22:09,989 - Shot 45459 expected in dt: 65.1 s\
-2021-10-27 17:21:59,920 - Shot 45459 expected in dt: 75.2 s\
-2021-10-27 17:21:49,845 - Shot 45459 expected in dt: 85.2 s\
