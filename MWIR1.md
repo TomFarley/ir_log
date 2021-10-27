@@ -1,3 +1,13 @@
+2021-10-27 17:00:07,308 - Shot 45458 expected in dt: 13.2 s\
+2021-10-27 17:00:06,307 - In state "Trigger" for shot 45458\
+2021-10-27 16:59:57,261 - Shot 45458 expected in dt: 18.7 s\
+2021-10-27 16:59:47,191 - Shot 45458 expected in dt: 28.7 s\
+2021-10-27 16:59:37,107 - Shot 45458 expected in dt: 38.8 s\
+2021-10-27 16:59:27,042 - Shot 45458 expected in dt: 48.9 s\
+2021-10-27 16:59:16,974 - Shot 45458 expected in dt: 59.0 s\
+2021-10-27 16:59:06,903 - Shot 45458 expected in dt: 69.0 s\
+2021-10-27 16:58:56,829 - Shot 45458 expected in dt: 79.1 s\
+2021-10-27 16:58:46,762 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 16:58:42,317 - Shot 45458 expected in dt: 93.6 s\
 2021-10-27 16:58:41,315 - ========== Shot number changed to 45458. State: "PreShot" ==========\
 2021-10-27 16:58:16,309 - In state "Run" for shot 45457\
@@ -288,13 +298,3 @@
 2021-10-27 13:47:13,317 - Shot 45451 expected in dt: 2.0 s\
 2021-10-27 13:47:12,301 - Shot 45451 expected in dt: 3.0 s\
 2021-10-27 13:47:11,299 - Shot 45451 expected in dt: 4.1 s\
-2021-10-27 13:47:10,170 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-27 13:47:10,169 - Shot 45451 expected in dt: 5.2 s\
-2021-10-27 13:47:09,165 - Shot 45451 expected in dt: 6.2 s\
-2021-10-27 13:47:05,154 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 13:47:01,596 - Shot 45451 expected in dt: 13.8 s\
-2021-10-27 13:47:00,594 - In state "Trigger" for shot 45451\
-2021-10-27 13:46:59,587 - Shot 45451 expected in dt: 10.3 s\
-2021-10-27 13:46:49,529 - Shot 45451 expected in dt: 20.4 s\
-2021-10-27 13:46:39,476 - Shot 45451 expected in dt: 30.4 s\
-2021-10-27 13:46:29,435 - Shot 45451 expected in dt: 40.5 s\
