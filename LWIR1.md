@@ -1,3 +1,24 @@
+2021-10-27 11:33:56,529 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45445.RAW" (after failing to move it there)\
+2021-10-27 11:33:54,370 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
+2021-10-27 11:33:53,859 - LWIR1: File "45445.RAW" for shot 45445 (45445 expected) saved 0.7 s ago\
+2021-10-27 11:33:53,857 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45445.RAW (file confirmed to exist)\
+2021-10-27 11:33:30,965 - Shot 45445 expected in dt: 0.1 s\
+2021-10-27 11:33:29,963 - Shot 45445 expected in dt: 1.1 s\
+2021-10-27 11:33:28,962 - Shot 45445 expected in dt: 2.1 s\
+2021-10-27 11:33:27,961 - Shot 45445 expected in dt: 3.1 s\
+2021-10-27 11:33:26,960 - Shot 45445 expected in dt: 4.1 s\
+2021-10-27 11:33:25,958 - Shot 45445 expected in dt: 5.1 s\
+2021-10-27 11:33:24,955 - Shot 45445 expected in dt: 6.2 s\
+2021-10-27 11:33:21,950 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-27 11:33:18,104 - Shot 45445 expected in dt: 13.0 s\
+2021-10-27 11:33:17,103 - In state "Trigger" for shot 45445\
+2021-10-27 11:32:03,023 - Pushed update to remote log: D:\ir_log\LWIR1.md\
+2021-10-27 11:31:59,359 - Shot 45445 expected in dt: 86.5 s\
+2021-10-27 11:31:58,358 - ========== Shot number changed to 45445. State: "PreShot" ==========\
+2021-10-27 11:31:33,355 - In state "Run" for shot 45444\
+2021-10-27 11:13:10,829 - Re-arming LWIR1\
+2021-10-27 11:12:45,828 - In state "PostShot" for shot 45444\
+2021-10-27 11:12:44,826 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 11:12:40,633 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45444.RAW" (after failing to move it there)\
 2021-10-27 11:12:38,611 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
 2021-10-27 11:12:38,114 - LWIR1: File "45444.RAW" for shot 45444 (45444 expected) saved 0.8 s ago\
@@ -277,24 +298,3 @@
 2021-10-26 17:55:17,157 - A shot has been missed! Last recorded shot was 45430\
 2021-10-26 17:55:16,154 - ========== Shot number changed to 45432. State: "PreShot" ==========\
 2021-10-26 17:54:26,150 - In state "Run" for shot 45431\
-2021-10-26 17:49:01,135 - In state "PostShot" for shot 45431\
-2021-10-26 17:49:01,133 - Shot 45431 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
-2021-10-26 17:48:36,132 - In state "Abort" for shot 45431\
-2021-10-26 17:48:36,130 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 17:48:32,652 - Shot 45431 expected in dt: 82.6 s\
-2021-10-26 17:48:07,652 - ========== Shot number changed to 45431. State: "Ready" ==========\
-2021-10-26 17:47:42,648 - In state "Run" for shot 45430\
-2021-10-26 17:29:20,153 - Re-arming LWIR1\
-2021-10-26 17:28:55,151 - In state "PostShot" for shot 45430\
-2021-10-26 17:28:55,149 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-26 17:28:50,797 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-26\45430.RAW" (after failing to move it there)\
-2021-10-26 17:28:48,464 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-26" and copied file back to "auto_export"\
-2021-10-26 17:28:47,914 - LWIR1: File "45430.RAW" for shot 45430 (45430 expected) saved 1.0 s ago\
-2021-10-26 17:28:47,911 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45430.RAW (file confirmed to exist)\
-2021-10-26 17:28:25,132 - Shot 45430 expected in dt: 0.7 s\
-2021-10-26 17:28:24,131 - Shot 45430 expected in dt: 1.7 s\
-2021-10-26 17:28:23,130 - Shot 45430 expected in dt: 2.7 s\
-2021-10-26 17:28:22,129 - Shot 45430 expected in dt: 3.7 s\
-2021-10-26 17:28:21,127 - Shot 45430 expected in dt: 4.7 s\
-2021-10-26 17:28:20,124 - Shot 45430 expected in dt: 5.7 s\
-2021-10-26 17:28:19,123 - Shot 45430 expected in dt: 6.7 s\
