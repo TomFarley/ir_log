@@ -1,3 +1,9 @@
+2021-10-27 10:52:16,412 - Shot 45443 expected in dt: 13.5 s\
+2021-10-27 10:52:15,395 - In state "Trigger" for shot 45443\
+2021-10-27 10:52:07,351 - Shot 45443 expected in dt: 52.7 s\
+2021-10-27 10:51:57,305 - Shot 45443 expected in dt: 62.8 s\
+2021-10-27 10:51:47,249 - Shot 45443 expected in dt: 72.8 s\
+2021-10-27 10:51:39,217 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 10:51:34,144 - Shot 45443 expected in dt: 85.9 s\
 2021-10-27 10:51:33,128 - ========== Shot number changed to 45443. State: "PreShot" ==========\
 2021-10-27 10:05:17,830 - In state "UNDEFINED" for shot\
@@ -292,9 +298,3 @@
 2021-10-26 17:57:09,010 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-26 17:57:09,010 - SW_beam_dump file created at 2021-10-26 17:28:48.537095. Shot state change at 2021-10-26 17:55:04.456689. dt=-1575.9 < 0\
 2021-10-26 17:57:09,009 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-26 17:57:09,009 - SW_beam_dump: File "000036.seq" for shot 36 (45432 expected) saved 1700.5 s ago\
-2021-10-26 17:57:09,007 - Px_protection: **Didn't copy file as rename success = False**\
-2021-10-26 17:57:09,007 - Px_protection file created at 2021-10-26 12:53:19.720140. Shot state change at 2021-10-26 17:55:04.456689. dt=-18104.7 < 0\
-2021-10-26 17:57:09,006 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
-2021-10-26 17:57:09,006 - Px_protection: File "045420.seq" for shot 45420 (45432 expected) saved 18229.3 s ago\
-2021-10-26 17:57:09,006 - Px_protection: **Number of files, 19, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
