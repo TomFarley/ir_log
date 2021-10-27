@@ -1,3 +1,13 @@
+2021-10-27 14:49:46,264 - Shot 45453 expected in dt: 14.0 s\
+2021-10-27 14:49:45,249 - In state "Trigger" for shot 45453\
+2021-10-27 14:49:45,246 - Shot 45453 expected in dt: 10.5 s\
+2021-10-27 14:49:35,193 - Shot 45453 expected in dt: 20.5 s\
+2021-10-27 14:49:25,143 - Shot 45453 expected in dt: 30.6 s\
+2021-10-27 14:49:15,109 - Shot 45453 expected in dt: 40.6 s\
+2021-10-27 14:49:05,049 - Shot 45453 expected in dt: 50.7 s\
+2021-10-27 14:48:54,999 - Shot 45453 expected in dt: 60.7 s\
+2021-10-27 14:48:44,933 - Shot 45453 expected in dt: 70.8 s\
+2021-10-27 14:48:36,886 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 14:48:32,246 - Shot 45453 expected in dt: 83.5 s\
 2021-10-27 14:48:31,239 - In state "PreShot" for shot 45453\
 2021-10-27 14:48:06,226 - ========== Shot number changed to 45453. State: "Run" ==========\
@@ -288,13 +298,3 @@
 2021-10-27 11:43:36,353 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211027.log"\
 2021-10-27 11:43:36,351 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
 2021-10-27 11:43:36,351 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-27 11:43:36,349 - Starting automation on "MWIR-PC1" PC\
-2021-10-27 11:39:23,600 - In state "PostShot" for shot 45445\
-2021-10-27 11:39:23,599 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 11:39:18,606 - ========== Ready for shot 45446 in state "PostShot" ==========\
-2021-10-27 11:39:18,573 - Re-arming MWIR1\
-2021-10-27 11:39:18,549 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-27 11:39:18,549 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-27 11:39:18,549 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-27 11:39:18,548 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211027.log"\
-2021-10-27 11:39:18,548 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
