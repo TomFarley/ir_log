@@ -1,3 +1,15 @@
+2021-10-27 16:17:00,946 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45456.RAW" (after failing to move it there)\
+2021-10-27 16:16:59,123 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
+2021-10-27 16:16:58,627 - LWIR1: File "45456.RAW" for shot 45456 (45456 expected) saved 0.8 s ago\
+2021-10-27 16:16:58,625 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45456.RAW (file confirmed to exist)\
+2021-10-27 16:16:36,066 - Shot 45456 expected in dt: 0.6 s\
+2021-10-27 16:16:35,064 - Shot 45456 expected in dt: 1.6 s\
+2021-10-27 16:16:34,063 - Shot 45456 expected in dt: 2.6 s\
+2021-10-27 16:16:33,061 - Shot 45456 expected in dt: 3.6 s\
+2021-10-27 16:16:32,059 - Shot 45456 expected in dt: 4.6 s\
+2021-10-27 16:16:31,058 - Shot 45456 expected in dt: 5.6 s\
+2021-10-27 16:16:30,057 - Shot 45456 expected in dt: 6.6 s\
+2021-10-27 16:16:27,051 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 16:16:22,912 - Shot 45456 expected in dt: 13.7 s\
 2021-10-27 16:16:21,911 - In state "Trigger" for shot 45456\
 2021-10-27 16:14:53,811 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-27 10:29:40,121 - Shot 45442 expected in dt: 5.8 s\
 2021-10-27 10:29:39,119 - Shot 45442 expected in dt: 6.8 s\
 2021-10-27 10:29:36,116 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 10:29:32,219 - Shot 45442 expected in dt: 13.7 s\
-2021-10-27 10:29:31,218 - In state "Trigger" for shot 45442\
-2021-10-27 10:28:17,146 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 10:28:11,809 - Shot 45442 expected in dt: 88.7 s\
-2021-10-27 10:28:10,809 - ========== Shot number changed to 45442. State: "PreShot" ==========\
-2021-10-27 10:27:45,806 - In state "Run" for shot 45441\
-2021-10-27 10:15:15,778 - In state "PostShot" for shot 45441\
-2021-10-27 10:15:15,777 - Shot 45441 ABORTED. If recordings have been made, they will be overwritten for this shot number.\
-2021-10-27 10:14:50,776 - In state "Abort" for shot 45441\
-2021-10-27 10:14:50,775 - Shot 45441 expected in dt: 0.4 s\
-2021-10-27 10:14:49,773 - Shot 45441 expected in dt: 1.4 s\
-2021-10-27 10:14:48,772 - Shot 45441 expected in dt: 2.4 s\
