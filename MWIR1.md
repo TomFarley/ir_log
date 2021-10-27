@@ -1,3 +1,8 @@
+2021-10-27 11:56:35,770 - Shot 45446 expected in dt: 84.4 s\
+2021-10-27 11:56:34,768 - In state "PreShot" for shot 45446\
+2021-10-27 11:56:09,756 - ========== Shot number changed to 45446. State: "Run" ==========\
+2021-10-27 11:43:39,507 - In state "PostShot" for shot 45445\
+2021-10-27 11:43:39,504 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 11:43:36,462 - ========== Ready for shot 45446 in state "PostShot" ==========\
 2021-10-27 11:43:36,388 - Re-arming MWIR1\
 2021-10-27 11:43:36,361 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
@@ -293,8 +298,3 @@
 2021-10-26 19:47:44,925 - Shot 45436 expected in dt: 79.7 s\
 2021-10-26 19:47:35,857 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 19:47:32,511 - Shot 45436 expected in dt: 92.1 s\
-2021-10-26 19:47:31,509 - ========== Shot number changed to 45436. State: "PreShot" ==========\
-2021-10-26 19:47:06,503 - In state "Run" for shot 45435\
-2021-10-26 19:27:06,132 - In state "PostShot" for shot 45435\
-2021-10-26 19:26:52,042 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 19:26:48,926 - SW_beam_dump: **Didn't copy file as rename success = False**\
