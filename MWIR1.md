@@ -1,3 +1,13 @@
+2021-10-27 09:28:27,318 - Shot 45439 expected in dt: 13.2 s\
+2021-10-27 09:28:26,318 - In state "Trigger" for shot 45439\
+2021-10-27 09:28:18,257 - Shot 45439 expected in dt: 16.6 s\
+2021-10-27 09:28:08,182 - Shot 45439 expected in dt: 26.7 s\
+2021-10-27 09:27:58,122 - Shot 45439 expected in dt: 36.8 s\
+2021-10-27 09:27:48,059 - Shot 45439 expected in dt: 46.8 s\
+2021-10-27 09:27:38,012 - Shot 45439 expected in dt: 56.9 s\
+2021-10-27 09:27:27,951 - Shot 45439 expected in dt: 66.9 s\
+2021-10-27 09:27:17,888 - Shot 45439 expected in dt: 77.0 s\
+2021-10-27 09:27:14,857 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 09:27:10,291 - Shot 45439 expected in dt: 84.6 s\
 2021-10-27 09:27:09,284 - In state "PreShot" for shot 45439\
 2021-10-27 09:26:44,271 - ========== Shot number changed to 45439. State: "Run" ==========\
@@ -288,13 +298,3 @@
 2021-10-26 17:48:33,968 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 17:48:29,910 - Shot 45431 expected in dt: 84.7 s\
 2021-10-26 17:48:04,899 - ========== Shot number changed to 45431. State: "Ready" ==========\
-2021-10-26 17:47:39,882 - In state "Run" for shot 45430\
-2021-10-26 17:29:19,503 - Re-arming MWIR1\
-2021-10-26 17:28:54,500 - In state "PostShot" for shot 45430\
-2021-10-26 17:28:43,405 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-26 17:28:39,819 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-26 17:28:39,819 - SW_beam_dump file created at 2021-10-26 16:43:27.516892. Shot state change at 2021-10-26 17:26:34.638744. dt=-2587.1 < 0\
-2021-10-26 17:28:39,818 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-26 17:28:39,818 - SW_beam_dump: File "000035.seq" for shot 35 (45430 expected) saved 2712.3 s ago\
-2021-10-26 17:28:39,818 - SW_beam_dump: **Number of files, 8, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-26 17:28:39,816 - Px_protection: **Didn't copy file as rename success = False**\
