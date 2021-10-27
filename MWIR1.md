@@ -1,3 +1,14 @@
+2021-10-27 11:43:36,462 - ========== Ready for shot 45446 in state "PostShot" ==========\
+2021-10-27 11:43:36,388 - Re-arming MWIR1\
+2021-10-27 11:43:36,361 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
+2021-10-27 11:43:36,358 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
+2021-10-27 11:43:36,357 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
+2021-10-27 11:43:36,353 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211027.log"\
+2021-10-27 11:43:36,351 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-27 11:43:36,351 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
+2021-10-27 11:43:36,349 - Starting automation on "MWIR-PC1" PC\
+2021-10-27 11:39:23,600 - In state "PostShot" for shot 45445\
+2021-10-27 11:39:23,599 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 11:39:18,606 - ========== Ready for shot 45446 in state "PostShot" ==========\
 2021-10-27 11:39:18,573 - Re-arming MWIR1\
 2021-10-27 11:39:18,549 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
@@ -287,14 +298,3 @@
 2021-10-26 19:27:06,132 - In state "PostShot" for shot 45435\
 2021-10-26 19:26:52,042 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-26 19:26:48,926 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-26 19:26:48,925 - SW_beam_dump file created at 2021-10-26 18:27:40.758576. Shot state change at 2021-10-26 19:24:39.283978. dt=-3418.5 < 0\
-2021-10-26 19:26:48,925 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-26 19:26:48,924 - SW_beam_dump: File "000038.seq" for shot 38 (45435 expected) saved 3548.2 s ago\
-2021-10-26 19:26:48,924 - SW_beam_dump: **Number of files, 11, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-26 19:26:48,922 - Px_protection: **Didn't copy file as rename success = False**\
-2021-10-26 19:26:48,922 - Px_protection file created at 2021-10-26 12:53:19.720140. Shot state change at 2021-10-26 19:24:39.283978. dt=-23479.6 < 0\
-2021-10-26 19:26:48,922 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
-2021-10-26 19:26:48,921 - Px_protection: File "045420.seq" for shot 45420 (45435 expected) saved 23609.2 s ago\
-2021-10-26 19:26:48,921 - Px_protection: **Number of files, 19, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
-2021-10-26 19:26:48,919 - MWIR1: **Didn't copy file as rename success = False**\
-2021-10-26 19:26:48,918 - MWIR1 file created at 2021-10-26 12:32:49.558334. Shot state change at 2021-10-26 19:24:39.283978. dt=-24709.7 < 0\
