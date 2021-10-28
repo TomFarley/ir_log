@@ -1,3 +1,13 @@
+2021-10-28 12:58:33,025 - Shot 45475 expected in dt: 13.0 s\
+2021-10-28 12:58:32,010 - In state "Trigger" for shot 45475\
+2021-10-28 12:58:24,955 - Shot 45475 expected in dt: 15.7 s\
+2021-10-28 12:58:14,882 - Shot 45475 expected in dt: 25.8 s\
+2021-10-28 12:58:04,833 - Shot 45475 expected in dt: 35.8 s\
+2021-10-28 12:57:54,793 - Shot 45475 expected in dt: 45.8 s\
+2021-10-28 12:57:44,750 - Shot 45475 expected in dt: 55.9 s\
+2021-10-28 12:57:34,712 - Shot 45475 expected in dt: 65.9 s\
+2021-10-28 12:57:24,673 - Shot 45475 expected in dt: 76.0 s\
+2021-10-28 12:57:22,658 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 12:57:18,076 - Shot 45475 expected in dt: 82.6 s\
 2021-10-28 12:57:17,074 - ========== Shot number changed to 45475. State: "PreShot" ==========\
 2021-10-28 12:56:52,068 - In state "Run" for shot 45474\
@@ -288,13 +298,3 @@
 2021-10-27 18:53:34,904 - Px_protection: **Didn't copy file as rename success = False**\
 2021-10-27 18:53:34,904 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-27 18:51:30.735197. dt=-116201.7 < 0\
 2021-10-27 18:53:34,903 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
-2021-10-27 18:53:34,903 - Px_protection: File "000013.seq" for shot 13 (45463 expected) saved 116325.8 s ago\
-2021-10-27 18:53:34,902 - Px_protection: **Number of files, 6, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
-2021-10-27 18:53:34,901 - MWIR1: **Didn't copy file as rename success = False**\
-2021-10-27 18:53:34,900 - MWIR1 file created at 2021-10-27 11:13:13.267923. Shot state change at 2021-10-27 18:51:30.735197. dt=-27497.5 < 0\
-2021-10-27 18:53:34,900 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-27 18:53:34,899 - MWIR1: File "000047.ats" for shot 47 (45463 expected) saved 27621.6 s ago\
-2021-10-27 18:53:34,898 - MWIR1: **Number of files, 4, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
-2021-10-27 18:53:28,841 - Recording should finish in dt: 0.4 s\
-2021-10-27 18:53:27,835 - Recording should finish in dt: 1.4 s\
-2021-10-27 18:53:25,817 - Recording should finish in dt: 3.4 s\
