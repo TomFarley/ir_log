@@ -1,3 +1,9 @@
+2021-10-28 14:16:53,094 - Shot 45479 expected in dt: 87.8 s\
+2021-10-28 14:16:52,090 - ========== Shot number changed to 45479. State: "PreShot" ==========\
+2021-10-28 14:16:27,073 - In state "Run" for shot 45478\
+2021-10-28 13:51:51,578 - Re-arming MWIR1\
+2021-10-28 13:51:26,567 - In state "PostShot" for shot 45478\
+2021-10-28 13:51:15,464 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 13:51:11,355 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-28 13:51:11,355 - SW_beam_dump file created at 2021-10-28 13:28:41.185181. Shot state change at 2021-10-28 13:49:11.413080. dt=-1230.2 < 0\
 2021-10-28 13:51:11,354 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-28 10:25:39,018 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
 2021-10-28 10:25:39,017 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
 2021-10-28 10:25:39,016 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-28 10:25:39,013 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211028.log"\
-2021-10-28 10:25:39,012 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-28 10:25:39,012 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-28 10:25:39,011 - Starting automation on "MWIR-PC1" PC\
-2021-10-28 07:56:43,529 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rir\2021-10-28"\
-2021-10-28 07:56:43,365 - Moved previously exported files to D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export_backup from D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export\
