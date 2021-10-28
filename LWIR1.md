@@ -1,3 +1,14 @@
+2021-10-28 09:14:12,167 - ========== Ready for shot None in state "UNDEFINED" ==========\
+2021-10-28 09:14:12,167 - FAILED to re-arm camera.\
+2021-10-28 09:14:10,689 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
+2021-10-28 09:14:03,410 - Re-arming LWIR1\
+2021-10-28 09:14:03,383 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-28 09:14:03,382 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211028.log"\
+2021-10-28 09:14:03,382 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-28 09:14:03,382 - **Starting camera automation for cameras: LWIR1**\
+2021-10-28 09:14:03,381 - Starting automation on "H0012" PC\
+2021-10-28 09:11:50,736 - In state "UNDEFINED" for shot\
+2021-10-28 09:11:50,735 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 09:11:42,350 - ========== Ready for shot None in state "UNDEFINED" ==========\
 2021-10-28 09:11:42,350 - FAILED to re-arm camera.\
 2021-10-28 09:11:40,949 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
@@ -287,14 +298,3 @@
 2021-10-27 15:18:03,678 - ========== Shot number changed to 45454. State: "Ready" ==========\
 2021-10-27 14:50:56,099 - Re-arming LWIR1\
 2021-10-27 14:50:31,098 - In state "PostShot" for shot 45453\
-2021-10-27 14:50:30,096 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 14:50:25,806 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45453.RAW" (after failing to move it there)\
-2021-10-27 14:50:23,925 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
-2021-10-27 14:50:23,337 - LWIR1: File "45453.RAW" for shot 45453 (45453 expected) saved 0.3 s ago\
-2021-10-27 14:50:23,332 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45453.RAW (file confirmed to exist)\
-2021-10-27 14:50:00,705 - Shot 45453 expected in dt: 0.1 s\
-2021-10-27 14:49:59,704 - Shot 45453 expected in dt: 1.1 s\
-2021-10-27 14:49:58,703 - Shot 45453 expected in dt: 2.1 s\
-2021-10-27 14:49:57,701 - Shot 45453 expected in dt: 3.1 s\
-2021-10-27 14:49:56,699 - Shot 45453 expected in dt: 4.1 s\
-2021-10-27 14:49:55,698 - Shot 45453 expected in dt: 5.1 s\
