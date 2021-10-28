@@ -1,3 +1,9 @@
+2021-10-28 15:07:43,851 - Shot 45481 expected in dt: 87.0 s\
+2021-10-28 15:07:42,837 - ========== Shot number changed to 45481. State: "PreShot" ==========\
+2021-10-28 15:07:17,832 - In state "Run" for shot 45480\
+2021-10-28 14:47:17,399 - Re-arming MWIR1\
+2021-10-28 14:46:52,398 - In state "PostShot" for shot 45480\
+2021-10-28 14:46:39,280 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 14:46:35,751 - SW_beam_dump: **Didn't copy file as rename success = False**\
 2021-10-28 14:46:35,750 - SW_beam_dump file created at 2021-10-28 14:18:50.564468. Shot state change at 2021-10-28 14:43:51.075977. dt=-1500.5 < 0\
 2021-10-28 14:46:35,750 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
@@ -292,9 +298,3 @@
 2021-10-28 12:33:54,387 - Shot 45474 expected in dt: 92.1 s\
 2021-10-28 12:33:53,386 - ========== Shot number changed to 45474. State: "PreShot" ==========\
 2021-10-28 12:33:28,379 - In state "Run" for shot 45473\
-2021-10-28 11:03:26,562 - Re-arming MWIR1\
-2021-10-28 11:03:01,560 - In state "PostShot" for shot 45473\
-2021-10-28 11:02:48,449 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 11:02:45,377 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-28 11:02:45,375 - Px_protection: **Didn't copy file as rename success = False**\
-2021-10-28 11:02:45,375 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-28 11:00:32.519649. dt=-174343.4 < 0\
