@@ -1,3 +1,26 @@
+2021-10-28 12:35:45,300 - SW_beam_dump: **Number of files, 0, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
+2021-10-28 12:35:45,300 - Px_protection: **Didn't copy file as rename success = False**\
+2021-10-28 12:35:45,299 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-28 12:33:41.531279. dt=-179932.4 < 0\
+2021-10-28 12:35:45,299 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
+2021-10-28 12:35:45,299 - Px_protection: File "000013.seq" for shot 13 (45474 expected) saved 180056.2 s ago\
+2021-10-28 12:35:45,299 - Px_protection: **Number of files, 6, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
+2021-10-28 12:35:45,297 - MWIR1: **Didn't copy file as rename success = False**\
+2021-10-28 12:35:45,297 - MWIR1 file created at 2021-10-28 09:28:13.449849. Shot state change at 2021-10-28 12:33:41.531279. dt=-11128.1 < 0\
+2021-10-28 12:35:45,297 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
+2021-10-28 12:35:45,296 - MWIR1: File "045467.ats" for shot 45467 (45474 expected) saved 11251.8 s ago\
+2021-10-28 12:35:45,295 - MWIR1: **Number of files, 3, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
+2021-10-28 12:35:39,232 - Recording should finish in dt: 0.8 s\
+2021-10-28 12:35:38,220 - Recording should finish in dt: 1.8 s\
+2021-10-28 12:35:32,196 - Recording should finish in dt: 7.8 s\
+2021-10-28 12:35:30,184 - Shot 45474 expected in dt: 0.9 s\
+2021-10-28 12:35:29,179 - Shot 45474 expected in dt: 1.9 s\
+2021-10-28 12:35:28,175 - Shot 45474 expected in dt: 2.9 s\
+2021-10-28 12:35:27,159 - Shot 45474 expected in dt: 3.9 s\
+2021-10-28 12:35:26,029 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-28 12:35:26,028 - Shot 45474 expected in dt: 5.0 s\
+2021-10-28 12:35:25,022 - Shot 45474 expected in dt: 6.0 s\
+2021-10-28 12:35:22,000 - Shot 45474 expected in dt: 9.0 s\
+2021-10-28 12:35:20,997 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 12:35:17,206 - Shot 45474 expected in dt: 13.8 s\
 2021-10-28 12:35:16,201 - In state "Trigger" for shot 45474\
 2021-10-28 12:35:08,131 - Shot 45474 expected in dt: 18.4 s\
@@ -275,26 +298,3 @@
 2021-10-27 18:53:16,748 - Shot 45463 expected in dt: 3.5 s\
 2021-10-27 18:53:15,743 - Shot 45463 expected in dt: 4.5 s\
 2021-10-27 18:53:14,626 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-27 18:53:14,625 - Shot 45463 expected in dt: 5.6 s\
-2021-10-27 18:53:13,622 - Shot 45463 expected in dt: 6.6 s\
-2021-10-27 18:53:10,594 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 18:53:07,224 - Shot 45463 expected in dt: 13.0 s\
-2021-10-27 18:53:06,208 - In state "Trigger" for shot 45463\
-2021-10-27 18:53:02,173 - Shot 45463 expected in dt: 13.6 s\
-2021-10-27 18:52:52,102 - Shot 45463 expected in dt: 23.6 s\
-2021-10-27 18:52:42,038 - Shot 45463 expected in dt: 33.7 s\
-2021-10-27 18:52:31,973 - Shot 45463 expected in dt: 43.8 s\
-2021-10-27 18:52:21,894 - Shot 45463 expected in dt: 53.8 s\
-2021-10-27 18:52:11,823 - Shot 45463 expected in dt: 63.9 s\
-2021-10-27 18:52:01,749 - Shot 45463 expected in dt: 74.0 s\
-2021-10-27 18:51:51,679 - Shot 45463 expected in dt: 84.1 s\
-2021-10-27 18:51:46,640 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 18:51:42,024 - Shot 45463 expected in dt: 93.7 s\
-2021-10-27 18:51:41,017 - ========== Shot number changed to 45463. State: "PreShot" ==========\
-2021-10-27 18:51:16,011 - In state "Run" for shot 45462\
-2021-10-27 18:35:00,680 - Re-arming MWIR1\
-2021-10-27 18:34:35,667 - In state "PostShot" for shot 45462\
-2021-10-27 18:34:23,600 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 18:34:20,334 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-27 18:34:20,334 - SW_beam_dump file created at 2021-10-27 17:47:56.887533. Shot state change at 2021-10-27 18:32:15.177984. dt=-2658.3 < 0\
-2021-10-27 18:34:20,333 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
