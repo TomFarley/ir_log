@@ -1,3 +1,12 @@
+2021-10-28 09:19:06,270 - ========== Ready for shot None in state "UNDEFINED" ==========\
+2021-10-28 09:19:01,313 - Re-arming LWIR1\
+2021-10-28 09:19:01,277 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-28 09:19:01,275 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211028.log"\
+2021-10-28 09:19:01,275 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-28 09:19:01,274 - **Starting camera automation for cameras: LWIR1**\
+2021-10-28 09:19:01,273 - Starting automation on "H0012" PC\
+2021-10-28 09:16:08,251 - In state "UNDEFINED" for shot\
+2021-10-28 09:16:08,249 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 09:16:04,119 - ========== Ready for shot None in state "UNDEFINED" ==========\
 2021-10-28 09:16:04,118 - FAILED to re-arm camera.\
 2021-10-28 09:16:02,621 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
@@ -289,12 +298,3 @@
 2021-10-27 15:20:20,929 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 15:20:16,072 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45454.RAW" (after failing to move it there)\
 2021-10-27 15:20:13,837 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
-2021-10-27 15:20:13,290 - LWIR1: File "45454.RAW" for shot 45454 (45454 expected) saved 0.6 s ago\
-2021-10-27 15:20:13,287 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45454.RAW (file confirmed to exist)\
-2021-10-27 15:19:50,740 - Shot 45454 expected in dt: 0.8 s\
-2021-10-27 15:19:49,739 - Shot 45454 expected in dt: 1.8 s\
-2021-10-27 15:19:48,737 - Shot 45454 expected in dt: 2.8 s\
-2021-10-27 15:19:47,735 - Shot 45454 expected in dt: 3.8 s\
-2021-10-27 15:19:46,734 - Shot 45454 expected in dt: 4.8 s\
-2021-10-27 15:19:45,733 - Shot 45454 expected in dt: 5.8 s\
-2021-10-27 15:19:44,731 - Shot 45454 expected in dt: 6.8 s\
