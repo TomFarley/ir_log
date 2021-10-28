@@ -1,3 +1,15 @@
+2021-10-28 15:32:30,475 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-28\45482.RAW" (after failing to move it there)\
+2021-10-28 15:32:28,223 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-28" and copied file back to "auto_export"\
+2021-10-28 15:32:27,714 - LWIR1: File "45482.RAW" for shot 45482 (45482 expected) saved 0.9 s ago\
+2021-10-28 15:32:27,691 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45482.RAW (file confirmed to exist)\
+2021-10-28 15:32:00,822 - Shot 45482 expected in dt: 1.0 s\
+2021-10-28 15:31:59,820 - Shot 45482 expected in dt: 2.0 s\
+2021-10-28 15:31:58,819 - Shot 45482 expected in dt: 3.0 s\
+2021-10-28 15:31:57,819 - Shot 45482 expected in dt: 4.0 s\
+2021-10-28 15:31:56,818 - Shot 45482 expected in dt: 5.0 s\
+2021-10-28 15:31:55,817 - Shot 45482 expected in dt: 6.0 s\
+2021-10-28 15:31:54,815 - Shot 45482 expected in dt: 7.0 s\
+2021-10-28 15:31:51,811 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 15:31:48,375 - Shot 45482 expected in dt: 13.4 s\
 2021-10-28 15:31:47,375 - In state "Trigger" for shot 45482\
 2021-10-28 15:30:34,301 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -286,15 +298,3 @@
 2021-10-28 09:41:27,233 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 09:41:22,868 - Shot 45469 expected in dt: 103.9 s\
 2021-10-28 09:41:21,860 - ========== Shot number changed to 45469. State: "PreShot" ==========\
-2021-10-28 09:22:57,415 - Re-arming LWIR1\
-2021-10-28 09:22:32,413 - In state "PostShot" for shot 45468\
-2021-10-28 09:22:31,412 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-28 09:22:27,722 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-28\45468.RAW" (after failing to move it there)\
-2021-10-28 09:22:25,807 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-28" and copied file back to "auto_export"\
-2021-10-28 09:22:25,293 - LWIR1: File "45468.RAW" for shot 45468 (45468 expected) saved 0.9 s ago\
-2021-10-28 09:22:25,291 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45468.RAW (file confirmed to exist)\
-2021-10-28 09:22:01,716 - Shot 45468 expected in dt: 0.0 s\
-2021-10-28 09:22:00,714 - Shot 45468 expected in dt: 1.0 s\
-2021-10-28 09:21:59,713 - Shot 45468 expected in dt: 2.0 s\
-2021-10-28 09:21:58,710 - Shot 45468 expected in dt: 3.0 s\
-2021-10-28 09:21:57,709 - Shot 45468 expected in dt: 4.0 s\
