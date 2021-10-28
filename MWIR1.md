@@ -1,3 +1,13 @@
+2021-10-28 19:15:33,008 - Shot 45494 expected in dt: 13.5 s\
+2021-10-28 19:15:31,993 - In state "Trigger" for shot 45494\
+2021-10-28 19:15:31,988 - Shot 45494 expected in dt: 8.9 s\
+2021-10-28 19:15:21,919 - Shot 45494 expected in dt: 19.0 s\
+2021-10-28 19:15:11,856 - Shot 45494 expected in dt: 29.1 s\
+2021-10-28 19:15:01,787 - Shot 45494 expected in dt: 39.1 s\
+2021-10-28 19:14:51,742 - Shot 45494 expected in dt: 49.2 s\
+2021-10-28 19:14:41,674 - Shot 45494 expected in dt: 59.2 s\
+2021-10-28 19:14:31,620 - Shot 45494 expected in dt: 69.3 s\
+2021-10-28 19:14:21,569 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 19:14:17,878 - Shot 45494 expected in dt: 83.0 s\
 2021-10-28 19:14:16,875 - In state "PreShot" for shot 45494\
 2021-10-28 19:13:51,861 - ========== Shot number changed to 45494. State: "Run" ==========\
@@ -288,13 +298,3 @@
 2021-10-28 17:57:06,073 - MWIR1: **Number of files, 5, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
 2021-10-28 17:57:00,041 - Recording should finish in dt: 0.2 s\
 2021-10-28 17:56:59,037 - Recording should finish in dt: 1.2 s\
-2021-10-28 17:56:50,970 - Shot 45487 expected in dt: 0.3 s\
-2021-10-28 17:56:49,962 - Shot 45487 expected in dt: 1.3 s\
-2021-10-28 17:56:48,956 - Shot 45487 expected in dt: 2.3 s\
-2021-10-28 17:56:47,947 - Shot 45487 expected in dt: 3.3 s\
-2021-10-28 17:56:46,942 - Shot 45487 expected in dt: 4.3 s\
-2021-10-28 17:56:45,823 - Starting protection cameras recording 6.0s before shot for 15.0s\
-2021-10-28 17:56:45,822 - Shot 45487 expected in dt: 5.4 s\
-2021-10-28 17:56:44,819 - Shot 45487 expected in dt: 6.4 s\
-2021-10-28 17:56:41,789 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 17:56:38,181 - Shot 45487 expected in dt: 13.1 s\
