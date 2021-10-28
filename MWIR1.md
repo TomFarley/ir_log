@@ -1,3 +1,13 @@
+2021-10-28 14:18:12,657 - Shot 45479 expected in dt: 13.9 s\
+2021-10-28 14:18:11,656 - In state "Trigger" for shot 45479\
+2021-10-28 14:18:07,624 - Shot 45479 expected in dt: 13.3 s\
+2021-10-28 14:17:57,566 - Shot 45479 expected in dt: 23.4 s\
+2021-10-28 14:17:47,520 - Shot 45479 expected in dt: 33.4 s\
+2021-10-28 14:17:37,461 - Shot 45479 expected in dt: 43.5 s\
+2021-10-28 14:17:27,423 - Shot 45479 expected in dt: 53.5 s\
+2021-10-28 14:17:17,368 - Shot 45479 expected in dt: 63.6 s\
+2021-10-28 14:17:07,318 - Shot 45479 expected in dt: 73.6 s\
+2021-10-28 14:16:58,262 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 14:16:53,094 - Shot 45479 expected in dt: 87.8 s\
 2021-10-28 14:16:52,090 - ========== Shot number changed to 45479. State: "PreShot" ==========\
 2021-10-28 14:16:27,073 - In state "Run" for shot 45478\
@@ -288,13 +298,3 @@
 2021-10-28 10:42:59,635 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 10:42:56,173 - Shot 45472 expected in dt: 79.8 s\
 2021-10-28 10:42:55,160 - In state "PreShot" for shot 45472\
-2021-10-28 10:42:55,158 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 10:42:51,582 - Shot 45472 expected in dt: 84.2 s\
-2021-10-28 10:42:26,566 - ========== Shot number changed to 45472. State: "Ready" ==========\
-2021-10-28 10:25:46,276 - In state "PostShot" for shot 45471\
-2021-10-28 10:25:46,274 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 10:25:39,121 - ========== Ready for shot 45472 in state "PostShot" ==========\
-2021-10-28 10:25:39,035 - Re-arming MWIR1\
-2021-10-28 10:25:39,018 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-28 10:25:39,017 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-28 10:25:39,016 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
