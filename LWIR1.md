@@ -1,3 +1,11 @@
+2021-10-28 20:04:16,062 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-28\45498.RAW" (after failing to move it there)\
+2021-10-28 20:04:14,091 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-28" and copied file back to "auto_export"\
+2021-10-28 20:04:13,579 - LWIR1: File "45498.RAW" for shot 45498 (45498 expected) saved 1.0 s ago\
+2021-10-28 20:04:13,547 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45498.RAW (file confirmed to exist)\
+2021-10-28 20:03:46,322 - Re-arming LWIR1\
+2021-10-28 20:03:46,321 - Shot 45498 expected in dt: 5.6 s\
+2021-10-28 20:03:45,321 - Shot 45498 expected in dt: 6.6 s\
+2021-10-28 20:03:42,317 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 20:03:38,306 - Shot 45498 expected in dt: 13.6 s\
 2021-10-28 20:03:37,305 - In state "Trigger" for shot 45498\
 2021-10-28 20:02:12,216 - Pushed update to remote log: D:\ir_log\LWIR1.md\
@@ -290,11 +298,3 @@
 2021-10-28 15:32:34,786 - In state "PostShot" for shot 45482\
 2021-10-28 15:32:34,785 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 15:32:30,475 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-28\45482.RAW" (after failing to move it there)\
-2021-10-28 15:32:28,223 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-28" and copied file back to "auto_export"\
-2021-10-28 15:32:27,714 - LWIR1: File "45482.RAW" for shot 45482 (45482 expected) saved 0.9 s ago\
-2021-10-28 15:32:27,691 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45482.RAW (file confirmed to exist)\
-2021-10-28 15:32:00,822 - Shot 45482 expected in dt: 1.0 s\
-2021-10-28 15:31:59,820 - Shot 45482 expected in dt: 2.0 s\
-2021-10-28 15:31:58,819 - Shot 45482 expected in dt: 3.0 s\
-2021-10-28 15:31:57,819 - Shot 45482 expected in dt: 4.0 s\
-2021-10-28 15:31:56,818 - Shot 45482 expected in dt: 5.0 s\
