@@ -1,3 +1,14 @@
+2021-10-28 09:16:04,119 - ========== Ready for shot None in state "UNDEFINED" ==========\
+2021-10-28 09:16:04,118 - FAILED to re-arm camera.\
+2021-10-28 09:16:02,621 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
+2021-10-28 09:15:57,636 - Re-arming LWIR1\
+2021-10-28 09:15:57,602 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-28 09:15:57,601 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211028.log"\
+2021-10-28 09:15:57,600 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-28 09:15:57,600 - **Starting camera automation for cameras: LWIR1**\
+2021-10-28 09:15:57,590 - Starting automation on "H0012" PC\
+2021-10-28 09:14:16,148 - In state "UNDEFINED" for shot\
+2021-10-28 09:14:16,145 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 09:14:12,167 - ========== Ready for shot None in state "UNDEFINED" ==========\
 2021-10-28 09:14:12,167 - FAILED to re-arm camera.\
 2021-10-28 09:14:10,689 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
@@ -287,14 +298,3 @@
 2021-10-27 15:19:46,734 - Shot 45454 expected in dt: 4.8 s\
 2021-10-27 15:19:45,733 - Shot 45454 expected in dt: 5.8 s\
 2021-10-27 15:19:44,731 - Shot 45454 expected in dt: 6.8 s\
-2021-10-27 15:19:42,730 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 15:19:38,362 - Shot 45454 expected in dt: 13.1 s\
-2021-10-27 15:19:37,360 - In state "Trigger" for shot 45454\
-2021-10-27 15:18:37,303 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 15:18:33,394 - Shot 45454 expected in dt: 77.8 s\
-2021-10-27 15:18:32,392 - In state "PreShot" for shot 45454\
-2021-10-27 15:18:32,391 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 15:18:28,679 - Shot 45454 expected in dt: 82.3 s\
-2021-10-27 15:18:03,678 - ========== Shot number changed to 45454. State: "Ready" ==========\
-2021-10-27 14:50:56,099 - Re-arming LWIR1\
-2021-10-27 14:50:31,098 - In state "PostShot" for shot 45453\
