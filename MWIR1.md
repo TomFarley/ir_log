@@ -1,3 +1,21 @@
+2021-10-28 14:46:07,644 - Shot 45480 expected in dt: 13.8 s\
+2021-10-28 14:46:06,642 - In state "Trigger" for shot 45480\
+2021-10-28 14:45:35,484 - Shot 45480 expected in dt: 0.6 s\
+2021-10-28 14:45:34,481 - Shot 45480 expected in dt: 1.6 s\
+2021-10-28 14:45:33,479 - Shot 45480 expected in dt: 2.6 s\
+2021-10-28 14:45:32,474 - Shot 45480 expected in dt: 3.6 s\
+2021-10-28 14:45:31,468 - Shot 45480 expected in dt: 4.6 s\
+2021-10-28 14:45:30,452 - Shot 45480 expected in dt: 5.6 s\
+2021-10-28 14:45:29,448 - Shot 45480 expected in dt: 6.6 s\
+2021-10-28 14:45:20,396 - Shot 45480 expected in dt: 15.7 s\
+2021-10-28 14:45:10,344 - Shot 45480 expected in dt: 25.7 s\
+2021-10-28 14:45:00,306 - Shot 45480 expected in dt: 35.8 s\
+2021-10-28 14:44:50,249 - Shot 45480 expected in dt: 45.8 s\
+2021-10-28 14:44:40,189 - Shot 45480 expected in dt: 55.9 s\
+2021-10-28 14:44:30,151 - Shot 45480 expected in dt: 65.9 s\
+2021-10-28 14:44:20,102 - Shot 45480 expected in dt: 76.0 s\
+2021-10-28 14:44:10,051 - Shot 45480 expected in dt: 86.0 s\
+2021-10-28 14:44:03,006 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 14:43:58,129 - Shot 45480 expected in dt: 97.9 s\
 2021-10-28 14:43:57,128 - ========== Shot number changed to 45480. State: "PreShot" ==========\
 2021-10-28 14:43:32,120 - In state "Run" for shot 45479\
@@ -280,21 +298,3 @@
 2021-10-28 11:01:42,703 - Shot 45473 expected in dt: 43.1 s\
 2021-10-28 11:01:32,661 - Shot 45473 expected in dt: 53.1 s\
 2021-10-28 11:01:22,605 - Shot 45473 expected in dt: 63.2 s\
-2021-10-28 11:01:12,558 - Shot 45473 expected in dt: 73.2 s\
-2021-10-28 11:01:05,518 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 11:01:00,872 - Shot 45473 expected in dt: 84.9 s\
-2021-10-28 11:00:59,868 - In state "PreShot" for shot 45473\
-2021-10-28 11:00:34,850 - ========== Shot number changed to 45473. State: "Run" ==========\
-2021-10-28 10:55:59,758 - In state "PostShot" for shot 45472\
-2021-10-28 10:55:59,757 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 10:55:55,157 - ========== Ready for shot 45473 in state "PostShot" ==========\
-2021-10-28 10:55:55,087 - Re-arming MWIR1\
-2021-10-28 10:55:55,064 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
-2021-10-28 10:55:55,063 - Px_protection application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export"\
-2021-10-28 10:55:55,062 - MWIR1 application should be set to export movie files to ""D:\MAST-U_Operations\AIR-FLIR_1\auto_export"\
-2021-10-28 10:55:55,060 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211028.log"\
-2021-10-28 10:55:55,060 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
-2021-10-28 10:55:55,059 - **Starting camera automation for cameras: MWIR1, Px_protection, SW_beam_dump**\
-2021-10-28 10:55:55,058 - Starting automation on "MWIR-PC1" PC\
-2021-10-28 10:45:16,682 - Re-arming MWIR1\
-2021-10-28 10:44:51,671 - In state "PostShot" for shot 45472\
