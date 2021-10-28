@@ -1,3 +1,9 @@
+2021-10-28 14:44:08,652 - Shot 45480 expected in dt: 88.1 s\
+2021-10-28 14:44:07,649 - ========== Shot number changed to 45480. State: "PreShot" ==========\
+2021-10-28 14:43:42,640 - In state "Run" for shot 45479\
+2021-10-28 14:19:25,786 - Re-arming LWIR1\
+2021-10-28 14:19:00,783 - In state "PostShot" for shot 45479\
+2021-10-28 14:19:00,781 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-28 14:18:56,292 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-28\45479.RAW" (after failing to move it there)\
 2021-10-28 14:18:54,523 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-28" and copied file back to "auto_export"\
 2021-10-28 14:18:54,015 - LWIR1: File "45479.RAW" for shot 45479 (45479 expected) saved 0.7 s ago\
@@ -292,9 +298,3 @@
 2021-10-28 09:11:32,676 - **Starting camera automation for cameras: LWIR1**\
 2021-10-28 09:11:32,676 - Starting automation on "H0012" PC\
 2021-10-28 07:57:09,909 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-28"\
-2021-10-28 07:56:49,971 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
-2021-10-28 07:56:49,470 - Moved 25 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45439.RAW', '45442.RAW', '45443.RAW', '45444.RAW', '45445.RAW', '45446.RAW', '45448.RAW', '45449.RAW', '45450.RAW', '45451.RAW', '45452.RAW', '45453.RAW', '45454.RAW', '45455.RAW', '45456.RAW', '45457.RAW', '45458.RAW', '45459.RAW', '45460.RAW', '45461.RAW', '45462.RAW', '45463.RAW', '45464.RAW', '45465.RAW', '45466.RAW']\
-2021-10-28 07:56:49,408 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-28"\
-2021-10-28 07:55:26,380 - Re-arming LWIR1\
-2021-10-28 07:55:26,379 - ========== Waiting for shot 45467. State: "PostShot" ==========\
-2021-10-28 07:55:26,379 - >>> GOOD MORNING <<<\
