@@ -1,3 +1,8 @@
+2021-10-28 11:01:00,872 - Shot 45473 expected in dt: 84.9 s\
+2021-10-28 11:00:59,868 - In state "PreShot" for shot 45473\
+2021-10-28 11:00:34,850 - ========== Shot number changed to 45473. State: "Run" ==========\
+2021-10-28 10:55:59,758 - In state "PostShot" for shot 45472\
+2021-10-28 10:55:59,757 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 10:55:55,157 - ========== Ready for shot 45473 in state "PostShot" ==========\
 2021-10-28 10:55:55,087 - Re-arming MWIR1\
 2021-10-28 10:55:55,064 - SW_beam_dump application should be set to export movie files to ""D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export"\
@@ -293,8 +298,3 @@
 2021-10-27 18:09:14,876 - SW_beam_dump: File "000056.seq" for shot 56 (45461 expected) saved 1278.0 s ago\
 2021-10-27 18:09:14,875 - Px_protection: **Didn't copy file as rename success = False**\
 2021-10-27 18:09:14,874 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-27 18:07:10.722714. dt=-113541.6 < 0\
-2021-10-27 18:09:14,874 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
-2021-10-27 18:09:14,874 - Px_protection: File "000013.seq" for shot 13 (45461 expected) saved 113665.8 s ago\
-2021-10-27 18:09:14,873 - Px_protection: **Number of files, 6, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
-2021-10-27 18:09:14,872 - MWIR1: **Didn't copy file as rename success = False**\
-2021-10-27 18:09:14,872 - MWIR1 file created at 2021-10-27 11:13:13.267923. Shot state change at 2021-10-27 18:07:10.722714. dt=-24837.5 < 0\
