@@ -1,3 +1,13 @@
+2021-10-28 11:02:17,869 - Shot 45473 expected in dt: 13.2 s\
+2021-10-28 11:02:16,868 - In state "Trigger" for shot 45473\
+2021-10-28 11:02:12,858 - Shot 45473 expected in dt: 12.9 s\
+2021-10-28 11:02:02,811 - Shot 45473 expected in dt: 23.0 s\
+2021-10-28 11:01:52,758 - Shot 45473 expected in dt: 33.0 s\
+2021-10-28 11:01:42,703 - Shot 45473 expected in dt: 43.1 s\
+2021-10-28 11:01:32,661 - Shot 45473 expected in dt: 53.1 s\
+2021-10-28 11:01:22,605 - Shot 45473 expected in dt: 63.2 s\
+2021-10-28 11:01:12,558 - Shot 45473 expected in dt: 73.2 s\
+2021-10-28 11:01:05,518 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 11:01:00,872 - Shot 45473 expected in dt: 84.9 s\
 2021-10-28 11:00:59,868 - In state "PreShot" for shot 45473\
 2021-10-28 11:00:34,850 - ========== Shot number changed to 45473. State: "Run" ==========\
@@ -288,13 +298,3 @@
 2021-10-27 18:32:31,143 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-27 18:32:27,192 - Shot 45462 expected in dt: 93.0 s\
 2021-10-27 18:32:26,188 - ========== Shot number changed to 45462. State: "PreShot" ==========\
-2021-10-27 18:31:36,168 - In state "Run" for shot 45461\
-2021-10-27 18:09:55,670 - Re-arming MWIR1\
-2021-10-27 18:09:30,669 - In state "PostShot" for shot 45461\
-2021-10-27 18:09:19,577 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 18:09:14,877 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-27 18:09:14,876 - SW_beam_dump file created at 2021-10-27 17:47:56.887533. Shot state change at 2021-10-27 18:07:10.722714. dt=-1153.8 < 0\
-2021-10-27 18:09:14,876 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-27 18:09:14,876 - SW_beam_dump: File "000056.seq" for shot 56 (45461 expected) saved 1278.0 s ago\
-2021-10-27 18:09:14,875 - Px_protection: **Didn't copy file as rename success = False**\
-2021-10-27 18:09:14,874 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-27 18:07:10.722714. dt=-113541.6 < 0\
