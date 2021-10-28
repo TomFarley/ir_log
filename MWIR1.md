@@ -1,3 +1,12 @@
+2021-10-28 10:44:08,002 - Shot 45472 expected in dt: 13.2 s\
+2021-10-28 10:44:06,998 - In state "Trigger" for shot 45472\
+2021-10-28 10:43:57,938 - Shot 45472 expected in dt: 18.0 s\
+2021-10-28 10:43:47,880 - Shot 45472 expected in dt: 28.1 s\
+2021-10-28 10:43:37,814 - Shot 45472 expected in dt: 38.1 s\
+2021-10-28 10:43:27,769 - Shot 45472 expected in dt: 48.2 s\
+2021-10-28 10:43:17,723 - Shot 45472 expected in dt: 58.2 s\
+2021-10-28 10:43:07,686 - Shot 45472 expected in dt: 68.3 s\
+2021-10-28 10:42:59,635 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 10:42:56,173 - Shot 45472 expected in dt: 79.8 s\
 2021-10-28 10:42:55,160 - In state "PreShot" for shot 45472\
 2021-10-28 10:42:55,158 - Pushed update to remote log: D:\ir_log\MWIR1.md\
@@ -289,12 +298,3 @@
 2021-10-27 17:48:26,627 - Re-arming MWIR1\
 2021-10-27 17:48:01,625 - In state "PostShot" for shot 45460\
 2021-10-27 17:47:48,499 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-27 17:47:45,326 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-27 17:47:45,326 - SW_beam_dump file created at 2021-10-27 16:16:59.811930. Shot state change at 2021-10-27 17:45:40.958410. dt=-5321.1 < 0\
-2021-10-27 17:47:45,325 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-27 17:47:45,325 - SW_beam_dump: File "000055.seq" for shot 55 (45460 expected) saved 5445.5 s ago\
-2021-10-27 17:47:45,325 - SW_beam_dump: **Number of files, 9, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-27 17:47:45,323 - Px_protection: **Didn't copy file as rename success = False**\
-2021-10-27 17:47:45,323 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-27 17:45:40.958410. dt=-112251.9 < 0\
-2021-10-27 17:47:45,322 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
-2021-10-27 17:47:45,321 - Px_protection: File "000013.seq" for shot 13 (45460 expected) saved 112376.2 s ago\
