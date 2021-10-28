@@ -1,3 +1,22 @@
+2021-10-28 09:11:42,350 - ========== Ready for shot None in state "UNDEFINED" ==========\
+2021-10-28 09:11:42,350 - FAILED to re-arm camera.\
+2021-10-28 09:11:40,949 - Clicking record button at (500, 766) FAILED to re-arm camera. Pressing F9 to try to arm camera.\
+2021-10-28 09:11:32,699 - Re-arming LWIR1\
+2021-10-28 09:11:32,678 - LWIR1 application should be set to export movie files to ""D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export"\
+2021-10-28 09:11:32,677 - DAproxy running, watching log file: "D:\mastda\DAProxy\log\prx211028.log"\
+2021-10-28 09:11:32,677 - Windows should be organised on screen according to PowerToys Fancy Zones (see IR Operating Instructions)\
+2021-10-28 09:11:32,676 - **Starting camera automation for cameras: LWIR1**\
+2021-10-28 09:11:32,676 - Starting automation on "H0012" PC\
+2021-10-28 07:57:09,909 - Created new directory "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-28"\
+2021-10-28 07:56:49,971 - Moved previously exported files to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup from D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\
+2021-10-28 07:56:49,470 - Moved 25 files from "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export" to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export_backup": ['45439.RAW', '45442.RAW', '45443.RAW', '45444.RAW', '45445.RAW', '45446.RAW', '45448.RAW', '45449.RAW', '45450.RAW', '45451.RAW', '45452.RAW', '45453.RAW', '45454.RAW', '45455.RAW', '45456.RAW', '45457.RAW', '45458.RAW', '45459.RAW', '45460.RAW', '45461.RAW', '45462.RAW', '45463.RAW', '45464.RAW', '45465.RAW', '45466.RAW']\
+2021-10-28 07:56:49,408 - Created new directory "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-28"\
+2021-10-28 07:55:26,380 - Re-arming LWIR1\
+2021-10-28 07:55:26,379 - ========== Waiting for shot 45467. State: "PostShot" ==========\
+2021-10-28 07:55:26,379 - >>> GOOD MORNING <<<\
+2021-10-27 20:15:01,387 - >>> GOODNIGHT (Resuming at 07:50:00) <<<\
+2021-10-27 19:56:41,345 - In state "PostShot" for shot 45466\
+2021-10-27 19:56:41,343 - Pushed update to remote log: D:\ir_log\LWIR1.md\
 2021-10-27 19:56:36,263 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45466.RAW" (after failing to move it there)\
 2021-10-27 19:56:34,402 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
 2021-10-27 19:56:33,868 - LWIR1: File "45466.RAW" for shot 45466 (45466 expected) saved 0.9 s ago\
@@ -279,22 +298,3 @@
 2021-10-27 14:49:57,701 - Shot 45453 expected in dt: 3.1 s\
 2021-10-27 14:49:56,699 - Shot 45453 expected in dt: 4.1 s\
 2021-10-27 14:49:55,698 - Shot 45453 expected in dt: 5.1 s\
-2021-10-27 14:49:54,698 - Shot 45453 expected in dt: 6.1 s\
-2021-10-27 14:49:51,695 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 14:49:47,239 - Shot 45453 expected in dt: 13.6 s\
-2021-10-27 14:49:46,238 - In state "Trigger" for shot 45453\
-2021-10-27 14:48:38,165 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 14:48:34,617 - Shot 45453 expected in dt: 81.7 s\
-2021-10-27 14:48:33,616 - In state "PreShot" for shot 45453\
-2021-10-27 14:48:08,613 - ========== Shot number changed to 45453. State: "Run" ==========\
-2021-10-27 14:24:21,095 - Re-arming LWIR1\
-2021-10-27 14:23:56,092 - In state "PostShot" for shot 45452\
-2021-10-27 14:23:56,090 - Pushed update to remote log: D:\ir_log\LWIR1.md\
-2021-10-27 14:23:51,482 - Copied file to "\\samba-1.hpc.l\home\data\movies\diagnostic_pc_transfer\rit\2021-10-27\45452.RAW" (after failing to move it there)\
-2021-10-27 14:23:49,413 - Moved file to "D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\dates\2021-10-27" and copied file back to "auto_export"\
-2021-10-27 14:23:48,865 - LWIR1: File "45452.RAW" for shot 45452 (45452 expected) saved 0.9 s ago\
-2021-10-27 14:23:48,862 - Exported current LWIR1 movie to D:\MAST-U\LWIR_IRCAM1_HM04-A\Operations\2021-1st_campaign\auto_export\45452.RAW (file confirmed to exist)\
-2021-10-27 14:23:26,114 - Shot 45452 expected in dt: 0.4 s\
-2021-10-27 14:23:25,111 - Shot 45452 expected in dt: 1.4 s\
-2021-10-27 14:23:24,109 - Shot 45452 expected in dt: 2.4 s\
-2021-10-27 14:23:23,107 - Shot 45452 expected in dt: 3.4 s\
