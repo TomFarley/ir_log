@@ -1,3 +1,29 @@
+2021-10-28 17:26:30,665 - SW_beam_dump: **Didn't copy file as rename success = False**\
+2021-10-28 17:26:30,664 - SW_beam_dump file created at 2021-10-28 15:57:21.212490. Shot state change at 2021-10-28 17:24:26.428107. dt=-5225.2 < 0\
+2021-10-28 17:26:30,664 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
+2021-10-28 17:26:30,664 - SW_beam_dump: File "045483.seq" for shot 45483 (45485 expected) saved 5349.5 s ago\
+2021-10-28 17:26:30,663 - SW_beam_dump: **Number of files, 4, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
+2021-10-28 17:26:30,662 - Px_protection: **Didn't copy file as rename success = False**\
+2021-10-28 17:26:30,662 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-28 17:24:26.428107. dt=-197377.3 < 0\
+2021-10-28 17:26:30,661 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
+2021-10-28 17:26:30,661 - Px_protection: File "000013.seq" for shot 13 (45485 expected) saved 197501.6 s ago\
+2021-10-28 17:26:30,661 - Px_protection: **Number of files, 6, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
+2021-10-28 17:26:30,659 - MWIR1: **Didn't copy file as rename success = False**\
+2021-10-28 17:26:30,659 - MWIR1 file created at 2021-10-28 14:51:47.258690. Shot state change at 2021-10-28 17:24:26.428107. dt=-9159.2 < 0\
+2021-10-28 17:26:30,658 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
+2021-10-28 17:26:30,658 - MWIR1: File "000054.ats" for shot 54 (45485 expected) saved 9283.4 s ago\
+2021-10-28 17:26:30,657 - MWIR1: **Number of files, 5, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
+2021-10-28 17:26:24,613 - Recording should finish in dt: 0.4 s\
+2021-10-28 17:26:23,607 - Recording should finish in dt: 1.4 s\
+2021-10-28 17:26:15,557 - Shot 45485 expected in dt: 0.4 s\
+2021-10-28 17:26:14,551 - Shot 45485 expected in dt: 1.4 s\
+2021-10-28 17:26:13,543 - Shot 45485 expected in dt: 2.4 s\
+2021-10-28 17:26:12,540 - Shot 45485 expected in dt: 3.4 s\
+2021-10-28 17:26:11,525 - Shot 45485 expected in dt: 4.5 s\
+2021-10-28 17:26:10,449 - Starting protection cameras recording 6.0s before shot for 15.0s\
+2021-10-28 17:26:10,448 - Shot 45485 expected in dt: 5.5 s\
+2021-10-28 17:26:09,438 - Shot 45485 expected in dt: 6.5 s\
+2021-10-28 17:26:06,412 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 17:26:02,774 - Shot 45485 expected in dt: 13.2 s\
 2021-10-28 17:26:01,758 - In state "Trigger" for shot 45485\
 2021-10-28 17:25:59,735 - Shot 45485 expected in dt: 11.7 s\
@@ -272,29 +298,3 @@
 2021-10-28 14:17:37,461 - Shot 45479 expected in dt: 43.5 s\
 2021-10-28 14:17:27,423 - Shot 45479 expected in dt: 53.5 s\
 2021-10-28 14:17:17,368 - Shot 45479 expected in dt: 63.6 s\
-2021-10-28 14:17:07,318 - Shot 45479 expected in dt: 73.6 s\
-2021-10-28 14:16:58,262 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 14:16:53,094 - Shot 45479 expected in dt: 87.8 s\
-2021-10-28 14:16:52,090 - ========== Shot number changed to 45479. State: "PreShot" ==========\
-2021-10-28 14:16:27,073 - In state "Run" for shot 45478\
-2021-10-28 13:51:51,578 - Re-arming MWIR1\
-2021-10-28 13:51:26,567 - In state "PostShot" for shot 45478\
-2021-10-28 13:51:15,464 - Pushed update to remote log: D:\ir_log\MWIR1.md\
-2021-10-28 13:51:11,355 - SW_beam_dump: **Didn't copy file as rename success = False**\
-2021-10-28 13:51:11,355 - SW_beam_dump file created at 2021-10-28 13:28:41.185181. Shot state change at 2021-10-28 13:49:11.413080. dt=-1230.2 < 0\
-2021-10-28 13:51:11,354 - **>>> Newest SW_beam_dump file is older than time of change to latest shot number. <<<**\
-2021-10-28 13:51:11,354 - SW_beam_dump: File "045477.seq" for shot 45477 (45478 expected) saved 1350.2 s ago\
-2021-10-28 13:51:11,353 - SW_beam_dump: **Number of files, 1, has not changed after shot! D:\FLIR_AX5_Protection_data\SW_beam_dump\auto_export**\
-2021-10-28 13:51:11,352 - Px_protection: **Didn't copy file as rename success = False**\
-2021-10-28 13:51:11,352 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-28 13:49:11.413080. dt=-184462.3 < 0\
-2021-10-28 13:51:11,351 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
-2021-10-28 13:51:11,351 - Px_protection: File "000013.seq" for shot 13 (45478 expected) saved 184582.3 s ago\
-2021-10-28 13:51:11,350 - Px_protection: **Number of files, 6, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
-2021-10-28 13:51:11,348 - MWIR1: **Didn't copy file as rename success = False**\
-2021-10-28 13:51:11,348 - MWIR1 file created at 2021-10-28 13:25:01.264073. Shot state change at 2021-10-28 13:49:11.413080. dt=-1450.1 < 0\
-2021-10-28 13:51:11,347 - **>>> Newest MWIR1 file is older than time of change to latest shot number. <<<**\
-2021-10-28 13:51:11,346 - MWIR1: File "000052.ats" for shot 52 (45478 expected) saved 1570.1 s ago\
-2021-10-28 13:51:11,345 - MWIR1: **Number of files, 4, has not changed after shot! D:\MAST-U_Operations\AIR-FLIR_1\auto_export**\
-2021-10-28 13:51:05,297 - Recording should finish in dt: 0.3 s\
-2021-10-28 13:51:04,286 - Recording should finish in dt: 1.3 s\
-2021-10-28 13:51:03,278 - Recording should finish in dt: 2.3 s\
