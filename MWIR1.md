@@ -1,3 +1,6 @@
+2021-10-28 10:42:56,173 - Shot 45472 expected in dt: 79.8 s\
+2021-10-28 10:42:55,160 - In state "PreShot" for shot 45472\
+2021-10-28 10:42:55,158 - Pushed update to remote log: D:\ir_log\MWIR1.md\
 2021-10-28 10:42:51,582 - Shot 45472 expected in dt: 84.2 s\
 2021-10-28 10:42:26,566 - ========== Shot number changed to 45472. State: "Ready" ==========\
 2021-10-28 10:25:46,276 - In state "PostShot" for shot 45471\
@@ -295,6 +298,3 @@
 2021-10-27 17:47:45,323 - Px_protection file created at 2021-10-26 10:34:49.082002. Shot state change at 2021-10-27 17:45:40.958410. dt=-112251.9 < 0\
 2021-10-27 17:47:45,322 - **>>> Newest Px_protection file is older than time of change to latest shot number. <<<**\
 2021-10-27 17:47:45,321 - Px_protection: File "000013.seq" for shot 13 (45460 expected) saved 112376.2 s ago\
-2021-10-27 17:47:45,321 - Px_protection: **Number of files, 6, has not changed after shot! D:\FLIR_AX5_Protection_data\PX Coil Tail\auto_export**\
-2021-10-27 17:47:45,320 - MWIR1: **Didn't copy file as rename success = False**\
-2021-10-27 17:47:45,320 - MWIR1 file created at 2021-10-27 11:13:13.267923. Shot state change at 2021-10-27 17:45:40.958410. dt=-23547.7 < 0\
